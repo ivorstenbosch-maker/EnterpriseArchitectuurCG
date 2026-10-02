@@ -1,4 +1,4 @@
-**Versie 0.9.2 - Overzicht van wijzigingen ten opzichte van de vorige
+﻿**Versie 0.9.2 - Overzicht van wijzigingen ten opzichte van de vorige
 versie**
 
 Er heeft afstemming plaatsgevonden met de vakgroep Informatiebeheer en
@@ -106,7 +106,7 @@ principes zijn anders geformuleerd, of uitgebreider uitgewerkt:
 
 - Open Source;
 
-- Generiek vóór specifiek;
+- Generiek vÃ³Ã³r specifiek;
 
 - Portabiliteit en compatibiliteit.
 
@@ -135,8 +135,8 @@ Belangrijke uitbreidingen zijn:
 - Scherpere uitwerking van het principe Data bij de bron, inclusief
   rollen, verantwoordelijkheden en ontwerpimplicaties;
 
-- Uitwerking van principe ‘Kwaliteit by design’ in de context van
-  Informatiebeheer (‘Duurzame toegankelijkheid by design)’, in
+- Uitwerking van principe â€˜Kwaliteit by designâ€™ in de context van
+  Informatiebeheer (â€˜Duurzame toegankelijkheid by design)â€™, in
   afstemming met vakgroep Utrecht
 
 - Expliciete uitwerking van Data-autonomie als architectuurprincipe;
@@ -432,10 +432,10 @@ organisatie
 [8.6. Building blocks (architectureel en solution)
 [72](#building-blocks-architectureel-en-solution)](#building-blocks-architectureel-en-solution)
 
-[8.7. Architectural Building Blocks (ABB’s) en clusters
+[8.7. Architectural Building Blocks (ABBâ€™s) en clusters
 [74](#architectural-building-blocks-abbs-en-clusters)](#architectural-building-blocks-abbs-en-clusters)
 
-[8.8. Solution Building Blocks (SBB’s) en mapping op ABB’s
+[8.8. Solution Building Blocks (SBBâ€™s) en mapping op ABBâ€™s
 [76](#solution-building-blocks-sbbs-en-mapping-op-abbs)](#solution-building-blocks-sbbs-en-mapping-op-abbs)
 
 [8.9. Configuratie vs. softwareontwikkeling
@@ -481,8 +481,8 @@ organisatie
 [11.7. Implementatiepatronen (Patroon A, Patroon B)
 [97](#implementatiepatronen-patroon-a-patroon-b)](#implementatiepatronen-patroon-a-patroon-b)
 
-[11.8. Registratiestrategie: één bron per informatiedomein
-[100](#registratiestrategie-één-bron-per-informatiedomein)](#registratiestrategie-één-bron-per-informatiedomein)
+[11.8. Registratiestrategie: Ã©Ã©n bron per informatiedomein
+[100](#registratiestrategie-Ã©Ã©n-bron-per-informatiedomein)](#registratiestrategie-Ã©Ã©n-bron-per-informatiedomein)
 
 [12. Technische architectuur
 [101](#technische-architectuur)](#technische-architectuur)
@@ -519,7 +519,7 @@ organisatie
 
 [15. BIJLAGEN [117](#bijlagen)](#bijlagen)
 
-[15.1. BIJLAGE – In te vullen gaps in de Enterprisearchitectuur
+[15.1. BIJLAGE â€“ In te vullen gaps in de Enterprisearchitectuur
 [117](#bijlage-in-te-vullen-gaps-in-de-enterprisearchitectuur)](#bijlage-in-te-vullen-gaps-in-de-enterprisearchitectuur)
 
 [15.2. BIJLAGE - Korte geschiedenis van gemeentelijke informatisering
@@ -531,7 +531,7 @@ organisatie
 [15.4. BIJLAGE - Overzicht services
 [123](#bijlage---overzicht-services)](#bijlage---overzicht-services)
 
-[15.5. BIJLAGE - ABB’s GEMMA en Platform Dienstverlening
+[15.5. BIJLAGE - ABBâ€™s GEMMA en Platform Dienstverlening
 [125](#bijlage---abbs-gemma-en-platform-dienstverlening)](#bijlage---abbs-gemma-en-platform-dienstverlening)
 
 # Managementsamenvatting
@@ -588,7 +588,7 @@ verandering. De nadruk verschuift van applicatiegericht werken naar het
 gezamenlijk ontwikkelen en beheren van generieke voorzieningen.
 
 Dit vraagt om een stevige rol van de business, waarbij gemeenten vanuit
-het perspectief van één overheid sturen op gezamenlijke dienstverlening.
+het perspectief van Ã©Ã©n overheid sturen op gezamenlijke dienstverlening.
 Innovatie, de maatschappelijke opgave en de waardestroom voor inwoners
 en ondernemers staan centraal, en dit heeft gevolgen voor bestaande
 rollen verantwoordelijkheden binnen gemeenten.
@@ -643,10 +643,10 @@ Enterprisearchitectuur die:
 
 ## Werkwijze
 
-De opbouw van deze Enterprisearchitectuur volgt de **TOGAF® Architecture
+De opbouw van deze Enterprisearchitectuur volgt de **TOGAFÂ® Architecture
 Development Method (ADM)**.
 
-<img src="gitbook/media/media/image1.png"
+<img src="media/media/image1.png"
 style="width:6.3in;height:3.00278in" />
 
 [TOGAF](https://www.opengroup.org/togaf) is een internationaal erkende
@@ -685,7 +685,7 @@ heroverwegen of verder te verfijnen.
 
 De ADM is daarmee geen lineair proces, maar een iteratieve methode
 waarin de verschillende architectuurdomeinen elkaar voortdurend
-beïnvloeden. Ontwikkeling, implementatie en wijzigingsbeheer vormen een
+beÃ¯nvloeden. Ontwikkeling, implementatie en wijzigingsbeheer vormen een
 doorlopende cyclus, zodat de architectuur kan meebewegen met
 veranderende wetgeving, bestuurlijke prioriteiten, technologische
 ontwikkelingen en voortschrijdend inzicht.
@@ -719,7 +719,7 @@ dimensies:
   wordt deels verwezen naar externe bronnen waar de actuele backlog en
   roadmap is vastgelegd.
 
-  <img src="gitbook/media/media/image2.png"
+  <img src="media/media/image2.png"
   style="width:2.83914in;height:2.64532in"
   alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -758,7 +758,7 @@ houden.
 ### Begrippenlijst
 
 Waar mogelijk worden begrippen toegelicht op de plaats waar zij voor het
-eerst worden geïntroduceerd of wordt verwezen naar de onderliggende
+eerst worden geÃ¯ntroduceerd of wordt verwezen naar de onderliggende
 standaarden en referentiearchitecturen waarin de achterliggende
 concepten en ontwerpkeuzes uitgebreider zijn beschreven.
 
@@ -780,25 +780,25 @@ binnen een lagenmodel dat wordt toegelicht in [Het Vijf-lagen
 model](#het-vijf-lagen-model) (in het hoofdstuk
 Applicatie-architectuur):
 
-- **Interactieservice** – een service in **laag 5 (Interactie)** die de
+- **Interactieservice** â€“ een service in **laag 5 (Interactie)** die de
   communicatie met inwoners, ondernemers of medewerkers ondersteunt,
   bijvoorbeeld via portalen, formulieren of werkvoorraadschermen.
 
-- **Processervice** – een service in **laag 4 (Proces)** die processen
+- **Processervice** â€“ een service in **laag 4 (Proces)** die processen
   orkestreert, beslisregels toepast, taken beheert en de voortgang van
   dienstverlening bewaakt.
 
-- **Connectiviteitsservice** – een service in **laag 3
+- **Connectiviteitsservice** â€“ een service in **laag 3
   (Connectiviteit)** die de communicatie tussen componenten faciliteert,
   bijvoorbeeld via notificaties, events of federatieve
   serviceconnectiviteit (FSC).
 
-- **Dataservice** – een service in **laag 2 (Diensten)** die gegevens
+- **Dataservice** â€“ een service in **laag 2 (Diensten)** die gegevens
   uit registraties ontsluit via gestandaardiseerde, handelingsgerichte
   API's en daarbij validatie, autorisatie en publicatie van
   gebeurtenissen verzorgt.
 
-- **Registratie** – een service in **laag 1 (Registraties)** die
+- **Registratie** â€“ een service in **laag 1 (Registraties)** die
   verantwoordelijk is voor het duurzaam vastleggen, beheren en
   beschikbaar stellen van gegevens binnen een afgebakend domein. Ook
   wel: register. **Domein**registers zijn een specialisatie van
@@ -810,7 +810,7 @@ Applicatie-architectuur):
 
 - **BusinessService -** Een BusinessService omvat een logisch
   samenhangend geheel van gegevens, beslisregels, proceslogica en
-  interactie rondom één businesscapaciteit. Zij verbindt de
+  interactie rondom Ã©Ã©n businesscapaciteit. Zij verbindt de
   verschillende architectuurlagen: gegevens uit registraties, proces- en
   beslislogica, interactie met inwoners en medewerkers en de
   uiteindelijke vastlegging van resultaten. Hierdoor ontstaat een
@@ -843,7 +843,7 @@ continu architecturaal proces, waarin:
 
 #### 
 
-#### Beheer, financiën
+#### Beheer, financiÃ«n
 
 De inrichting van beheer, financiering en exploitatie is in deze versie
 van de architectuur heel beperkt beschreven. Dit hangt samen met de
@@ -933,7 +933,7 @@ kunnen worden. De auteur aanvaardt geen aansprakelijkheid voor schade
 als gevolg van mogelijke onjuistheden of onvolledigheden in de
 aangeboden informatie. Leverancier dient tijdens de initiatie- of
 inventarisatiefase van het (implementatie)project de aangeboden
-informatie te verifiëren en ontbrekende informatie op te halen.
+informatie te verifiÃ«ren en ontbrekende informatie op te halen.
 
 # Motivatie, strategie, uitkomst
 
@@ -957,7 +957,7 @@ hoofdstukken worden uitgewerkt.
 
 #### Gemeentelijke context
 
-Gemeenten leveren zo’n 450 producten voor burgers en bedrijven, en
+Gemeenten leveren zoâ€™n 450 producten voor burgers en bedrijven, en
 voeren daarnaast honderden interne processen uit voor projecten,
 bedrijfsvoering en samenwerking met ketenpartners. In totaal gaat het om
 ruim 1000 bedrijfsprocessen, ondersteund door circa 100
@@ -971,9 +971,9 @@ Oorspronkelijk werden afzonderlijke werkprocessen ondersteund met
 gespecialiseerde applicaties volgens het principe *"elk proces zijn
 eigen pakket"*. Toen de behoefte aan samenwerking tussen processen
 toenam, ontstond een groeiend netwerk van koppelingen tussen systemen.
-Als reactie daarop maakten gemeenten de overstap naar geïntegreerde
+Als reactie daarop maakten gemeenten de overstap naar geÃ¯ntegreerde
 suites per domein, waarin meerdere functies werden samengebracht binnen
-één leveranciersoplossing.
+Ã©Ã©n leveranciersoplossing.
 
 Deze ontwikkeling heeft gemeenten jarenlang geholpen om processen te
 standaardiseren en beheersbaar te houden. Tegelijkertijd heeft zij
@@ -986,13 +986,13 @@ van deze historische ontwikkeling is opgenomen in [**BIJLAGE - Korte
 geschiedenis van gemeentelijke
 informatisering**](#bijlage---korte-geschiedenis-van-gemeentelijke-informatisering).
 
-De behoefte aan integrale, proactieve dienstverlening – zoals één
+De behoefte aan integrale, proactieve dienstverlening â€“ zoals Ã©Ã©n
 klantbeeld, een herkenbaar digitaal loket, omnichannel-benadering en
-datagedreven werken – vraagt om een andere inrichting van de
+datagedreven werken â€“ vraagt om een andere inrichting van de
 informatievoorziening. De huidige suite-architecturen sluiten
 onvoldoende aan op deze ambities.
 
-<img src="gitbook/media/media/image3.png"
+<img src="media/media/image3.png"
 style="width:4.25158in;height:2.29825in" />
 
 #### Breder kader 
@@ -1008,7 +1008,7 @@ structureel moeite heeft om publieke waarde te leveren in een
 gedigitaliseerde samenleving.
 
 Zuurmond laat zien dat informatie geen ondersteunend middel is, maar een
-volwaardige productiefactor – naast bevoegdheden, geld en mensen. De
+volwaardige productiefactor â€“ naast bevoegdheden, geld en mensen. De
 huidige inrichting van de overheid, gebaseerd op verkokering en
 systemen, sluit daar onvoldoende op aan. Daardoor ontstaan problemen met
 samenhang, transparantie en uitvoerbaarheid van beleid. Het rapport
@@ -1062,7 +1062,7 @@ architectuur, informatiebeheer, informatiebeveiliging,
 contractmanagement, implementatie, functioneel beheer, technisch beheer,
 projectleiding en opleidingen. Ook wijzigingen in wet- en regelgeving
 moeten per applicatie opnieuw worden ontworpen, ontwikkeld, getest en
-geïmplementeerd. Hierdoor worden dezelfde werkzaamheden binnen gemeenten
+geÃ¯mplementeerd. Hierdoor worden dezelfde werkzaamheden binnen gemeenten
 en leveranciers steeds opnieuw uitgevoerd.
 
 Daarnaast brengen aanbestedingen en leveranciersmanagement aanzienlijke
@@ -1071,7 +1071,7 @@ applicatie worden afzonderlijke aanbestedingstrajecten doorlopen,
 contracten beheerd en implementaties uitgevoerd. De sterke
 afhankelijkheid van individuele leveranciers leidt bovendien tot vendor
 lock-in: gegevens, processen en functionaliteit zijn vaak nauw verweven
-met één specifieke oplossing, waardoor migratie naar een alternatief
+met Ã©Ã©n specifieke oplossing, waardoor migratie naar een alternatief
 complex, risicovol en kostbaar is. Dit beperkt de concurrentie, remt
 innovatie en verzwakt de onderhandelingspositie van gemeenten.
 
@@ -1080,11 +1080,11 @@ waarin zowel ontwikkelcapaciteit als publieke middelen versnipperd
 worden ingezet. Schaarse expertise op het gebied van architectuur,
 informatievoorziening, security en softwareontwikkeling wordt verdeeld
 over honderden grotendeels vergelijkbare oplossingen, terwijl veel
-functionaliteit – zoals zaakafhandeling, klantregistratie, autorisatie,
-berichtenverkeer, documentgeneratie en logging – in de kern generiek van
+functionaliteit â€“ zoals zaakafhandeling, klantregistratie, autorisatie,
+berichtenverkeer, documentgeneratie en logging â€“ in de kern generiek van
 aard is.
 
-<img src="gitbook/media/media/image4.png"
+<img src="media/media/image4.png"
 style="width:6.3in;height:3.38194in" />
 
 ### Overzicht drijfveren
@@ -1109,13 +1109,13 @@ informatievoorziening die steeds moeilijker kan inspelen op nieuwe
 maatschappelijke en bestuurlijke opgaven.
 
 De figuur laat zien hoe deze organisatorische, informatiekundige en
-financiële drijfveren uiteindelijk resulteren in architectuurkundige
+financiÃ«le drijfveren uiteindelijk resulteren in architectuurkundige
 knelpunten, zoals beperkte datakwaliteit, verlies van regie,
 fragmentatie van dienstverlening en een moeilijk beheersbare
 kostenstructuur. Deze interne factoren vormen de directe aanleiding voor
 de ontwikkeling van een gezamenlijk Platform Dienstverlening.
 
-<img src="gitbook/media/media/image5.png"
+<img src="media/media/image5.png"
 style="width:6.3in;height:2.84861in"
 alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -1130,13 +1130,13 @@ ontwikkelingen vergroten de druk op de gemeentelijke
 informatievoorziening.
 
 De figuur laat zien hoe deze externe ontwikkelingen leiden tot risico's
-op het gebied van continuïteit, transparantie, innovatievermogen en
+op het gebied van continuÃ¯teit, transparantie, innovatievermogen en
 bestuurlijke wendbaarheid. Zij benadrukken de noodzaak om te investeren
 in een open, modulaire en toekomstbestendige architectuur die gemeenten
 meer autonomie geeft en beter kan meebewegen met maatschappelijke en
 technologische veranderingen.
 
-<img src="gitbook/media/media/image6.png"
+<img src="media/media/image6.png"
 style="width:6.3in;height:2.99375in"
 alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -1164,12 +1164,12 @@ gemeenten hun dienstverlening kunnen realiseren. Gemeenten dragen actief
 bij aan zowel de architectuur als de realisatie van het platform, samen
 met leveranciers en landelijke partijen. Het bereidt daarmee voor op
 realisatie van Common Ground in een landelijke organisatie ([Gemeenten
-zetten koers naar collectieve digitalisering   \|
+zetten koers naar collectieve digitaliseringâ€¯â€¯ \|
 VNG](https://vng.nl/nieuws/gemeenten-zetten-koers-naar-collectieve-digitalisering))
 
 Waar gemeenten vandaag investeren in honderden afzonderlijke applicaties
 die grotendeels dezelfde functies bevatten, brengt het platform deze
-generieke functionaliteit samen in één samenhangend ecosysteem van
+generieke functionaliteit samen in Ã©Ã©n samenhangend ecosysteem van
 herbruikbare voorzieningen. Functionaliteit zoals klantregistratie,
 zaakafhandeling, berichten, formulieren en workflowhoeft daardoor niet
 langer telkens opnieuw te worden ontwikkeld of aangeschaft.
@@ -1203,7 +1203,7 @@ binnen de architectuur.
 Gegevens worden eenmalig vastgelegd bij de daarvoor aangewezen bron en
 vervolgens via gestandaardiseerde services beschikbaar gesteld aan
 processen, medewerkers en inwoners. Vastlegging, interpretatie en
-presentatie worden daarmee van elkaar gescheiden. Hierdoor ontstaat één
+presentatie worden daarmee van elkaar gescheiden. Hierdoor ontstaat Ã©Ã©n
 gedeelde informatiebasis waarin besluiten transparant, controleerbaar en
 herleidbaar zijn.
 
@@ -1229,7 +1229,7 @@ De gemeentelijke softwaremarkt bestaat grofweg uit drie segmenten:
 - **Gemeentespecifieke software** voor de uitvoering van gemeentelijke
   dienstverlening;
 
-- **Standaardsoftware (commodities)**, zoals HR-, financiële en
+- **Standaardsoftware (commodities)**, zoals HR-, financiÃ«le en
   kantoorautomatiseringssystemen;
 
 - **Diensten**, waaronder implementatie, beheer, consultancy en
@@ -1238,7 +1238,7 @@ De gemeentelijke softwaremarkt bestaat grofweg uit drie segmenten:
 Het Platform Dienstverlening richt zich primair op het eerste segment:
 de **gemeentespecifieke software**. Juist in dit segment wordt vandaag
 veel vergelijkbare functionaliteit door verschillende leveranciers
-onafhankelijk van elkaar ontwikkeld, onderhouden en geïmplementeerd. Dit
+onafhankelijk van elkaar ontwikkeld, onderhouden en geÃ¯mplementeerd. Dit
 leidt tot een hoge mate van duplicatie, complexe integraties en
 oplopende maatschappelijke kosten.
 
@@ -1255,7 +1255,7 @@ fundamentele verandering. Waar gemeenten nu afzonderlijk investeren in
 architectuur, implementaties, beheer en consultancy, ontstaat
 geleidelijk een gezamenlijk ontwikkel- en beheerproces voor generieke
 voorzieningen. Hierdoor kan schaarse expertise worden gebundeld,
-ontstaat meer continuïteit en neemt de afhankelijkheid van externe
+ontstaat meer continuÃ¯teit en neemt de afhankelijkheid van externe
 inhuur af.
 
 De beoogde eindsituatie is daarmee niet een overheid die alles zelf
@@ -1271,14 +1271,14 @@ gemeenten.
 
 | **Was** | **Wordt** |
 |----|----|
-| Veel systemen – overwegend closed source – met overlappende functionaliteit | Enkelvoudige, overwegend transparante en herbruikbare open-sourcecomponenten, zonder overlappende functionaliteit. |
+| Veel systemen â€“ overwegend closed source â€“ met overlappende functionaliteit | Enkelvoudige, overwegend transparante en herbruikbare open-sourcecomponenten, zonder overlappende functionaliteit. |
 | Relatief autonome keuzes bij organisatieonderdelen voor proces- en systeeminrichting, maar beperkt door de (on)mogelijkheden van leverancierssystemen. | Verbonden organisatieonderdelen die optimaal functioneren voor de gehele organisatie, zonder verlies aan functionaliteit; lagere niveaus krijgen meer keuzevrijheid in de inrichting van processen en systemen. |
 | Gegevensredundantie en gegevensvervuiling; gegevens opgeslagen in leverancierspakketten; moeizaam hergebruik van gegevens van andere bronhouders. | Geen redundante of vervuilde gegevens; gegevens eenmalig opgeslagen in de gemeentelijke gegevenslaag conform het GGM (Gemeentelijk Gegevensmodel); eenvoudig hergebruik van gegevens van andere bronhouders. |
-| Beveiliging, logging, autorisatie, auditing en andere generieke voorzieningen worden per applicatie afzonderlijk ontwikkeld, ingericht en beheerd. | Generieke voorzieningen zoals beveiliging, logging, auditing en autorisatie worden éénmaal gezamenlijk ontwikkeld, beheerd en continu doorontwikkeld als herbruikbare platformdiensten. |
-| Iedere gemeente voor zich; inefficiënt gebruik van gemeenschapsgeld. | Vraagharmonisatie en -bundeling; samen organiseren; efficiënt gebruik van gemeenschapsgeld. |
-| Gemeenten slagen er niet in alle benodigde IV- en ICT-specialisten te werven en te behouden om goed in regie te komen. | Door samenwerking verdelen we het IV- en ICT-werk over schaarse specialisten en komen we wél goed in regie. |
+| Beveiliging, logging, autorisatie, auditing en andere generieke voorzieningen worden per applicatie afzonderlijk ontwikkeld, ingericht en beheerd. | Generieke voorzieningen zoals beveiliging, logging, auditing en autorisatie worden Ã©Ã©nmaal gezamenlijk ontwikkeld, beheerd en continu doorontwikkeld als herbruikbare platformdiensten. |
+| Iedere gemeente voor zich; inefficiÃ«nt gebruik van gemeenschapsgeld. | Vraagharmonisatie en -bundeling; samen organiseren; efficiÃ«nt gebruik van gemeenschapsgeld. |
+| Gemeenten slagen er niet in alle benodigde IV- en ICT-specialisten te werven en te behouden om goed in regie te komen. | Door samenwerking verdelen we het IV- en ICT-werk over schaarse specialisten en komen we wÃ©l goed in regie. |
 | Gebrek aan transparantie over gegevensgebruik schaadt het vertrouwen in de overheid. | Common Ground maakt het mogelijk gegevens te delen met burgers en bedrijven en daarmee het vertrouwen in de overheid te vergroten. |
-| Bottom-up informatiesystemen per domein (“ieder wetje een pakketje”). | Top-down generieke informatiesystemen (componenten) met domeinspecifieke aanvullingen. |
+| Bottom-up informatiesystemen per domein (â€œieder wetje een pakketjeâ€). | Top-down generieke informatiesystemen (componenten) met domeinspecifieke aanvullingen. |
 | Onvolkomen markt tussen vraag (gemeenten) en aanbod (softwareleveranciers met vaak een oligopolie). | Transparante markt met lage toetredingsdrempels. |
 | Gemeente leunt op de markt. | Samenwerkende gemeenten regisseren de markt. |
 | Weinig innovatie. | Snelle innovatie. |
@@ -1307,14 +1307,14 @@ beheer van het platform.
 Meer uitleg over het proces, en de documentatie van dit proces, staat
 op:
 
-- Notion – samenwerkruimte Common Ground
+- Notion â€“ samenwerkruimte Common Ground
 
   - [Backlog](https://www.notion.so/e9375da1960249bba23c49d038d3c888?pvs=21)
 
   - [Beschrijving Governance &
     proces](https://www.notion.so/Proces-backlog-documentatie-21b78b5f4db4804c828fc43bec7b544c?pvs=21)
 
-- GitBook – publieke documentatie Platform Dienstverlening
+- GitBook â€“ publieke documentatie Platform Dienstverlening
 
   - [Introductie \| Platform Dienstverlening -
     Public](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public)
@@ -1322,7 +1322,7 @@ op:
 De governance kent verschillende niveaus met elk een eigen
 verantwoordelijkheid.
 
-<img src="gitbook/media/media/image7.png"
+<img src="media/media/image7.png"
 style="width:6.28333in;height:3.14167in" />
 
 ### Strategisch niveau
@@ -1366,7 +1366,7 @@ adviseert over technische en architectonische keuzes.
 Binnen elke individuele gemeente verbindt architectuur strategie en
 beleid met portfolio, verandering en uitvoering:
 
-<img src="gitbook/media/media/image8.png"
+<img src="media/media/image8.png"
 style="width:3.88679in;height:3.04174in" />
 
 Op strategisch niveau draagt architectuur onder meer bij aan:
@@ -1405,7 +1405,7 @@ organiseren.
 Het Platform Dienstverlening is een zelfstandig architectuur- en
 ontwikkelprogramma met een eigen scope, governance en roadmap. Het vormt
 de meest concrete uitwerking van de informatiekundige visie Common
-Ground. Tegelijkertijd wordt het platform niet in een vacuüm ontwikkeld.
+Ground. Tegelijkertijd wordt het platform niet in een vacuÃ¼m ontwikkeld.
 
 Dit hoofdstuk beschrijft hoe het Platform Dienstverlening zich verhoudt
 tot de belangrijkste landelijke ontwikkelingen, welke uitgangspunten
@@ -1416,7 +1416,7 @@ invulling of verdere concretisering geeft.
 
 De [Nederlandse
 Digitaliseringsstrategie](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2025/07/108.201-NDS-publicatie_v19-WEB.pdf)
-beschrijft de beweging naar één digitale overheid, waarin gezamenlijke
+beschrijft de beweging naar Ã©Ã©n digitale overheid, waarin gezamenlijke
 regie, (verplicht te stellen) standaarden, herbruikbare bouwstenen en de
 ontwikkeling naar een federatief datastelsel centraal staan.
 
@@ -1427,12 +1427,12 @@ strategische uitgangspunten van de NDS naar een samenhangend geheel van:
 - Een servicegerichte architectuur met herbruikbare componenten, waarin
   dienstverlening centraal staat en processen worden herontworpen vanuit
   de leefwereld van burgers en ondernemers. Dit ondersteunt proactieve
-  dienstverlening (‘één overheid’) en vermindert afhankelijkheid van
+  dienstverlening (â€˜Ã©Ã©n overheidâ€™) en vermindert afhankelijkheid van
   specifieke leveranciersoplossingen (prioriteit 4: burgers en
   ondernemers centraal; prioriteit 5: digitale autonomie en
   weerbaarheid)
 
-- Een gegevenslaag gebaseerd op ‘data bij de bron’, semantische
+- Een gegevenslaag gebaseerd op â€˜data bij de bronâ€™, semantische
   standaardisatie en federatieve uitwisseling (prioriteit 2: data delen
   en benutten)
 
@@ -1453,10 +1453,10 @@ strategische uitgangspunten van de NDS naar een samenhangend geheel van:
 
 De expliciete focus op eenduidige semantiek en hoogwaardige
 datakwaliteit vormt daarbij een randvoorwaarde voor het verantwoord
-toepassen van artificiële intelligentie (prioriteit 3). Zonder data kan
+toepassen van artificiÃ«le intelligentie (prioriteit 3). Zonder data kan
 AI geen betrouwbare of uitlegbare bijdrage leveren.
 
-<img src="gitbook/media/media/image9.png"
+<img src="media/media/image9.png"
 style="width:6.29167in;height:4.1875in" />
 
 ## Andere landelijke ontwikkelingen
@@ -1473,7 +1473,7 @@ Interactie](https://file.notion.com/f/f/8b8dc544-81d0-40fc-90e8-ce6ddba9548c/12b
 Deze domeinarchitectuur vertaalt de beleidsdoelen van ADO2030 naar 11
 interactiedoelen, waaronder
 
-- één-overheidsbeleving,
+- Ã©Ã©n-overheidsbeleving,
 
 - proactieve dienstverlening,
 
@@ -1545,7 +1545,7 @@ beschrijft de semantische structuur van gemeentelijke gegevens over alle
 beleidsdomeinen heen en vormt daarmee de basis voor eenduidige
 gegevensuitwisseling, registraties en informatiemodellen.
 
-<img src="gitbook/media/media/image10.png"
+<img src="media/media/image10.png"
 style="width:6.3in;height:2.96111in" />
 
 #### Relatie met Platform Dienstverlening
@@ -1553,7 +1553,7 @@ style="width:6.3in;height:2.96111in" />
 Het Platform Dienstverlening gebruikt het Gemeentelijk Gegevensmodel als
 uitgangspunt voor de inrichting van generieke registraties en
 gegevensdiensten. Omdat deze registraties daadwerkelijk binnen gemeenten
-worden geïmplementeerd, levert het platform praktijkervaringen en
+worden geÃ¯mplementeerd, levert het platform praktijkervaringen en
 concrete actualiseringsvoorstellen voor de verdere ontwikkeling van het
 GGM. Daarmee ontstaat een continue wisselwerking tussen
 modelontwikkeling en implementatie, waarbij het GGM richting geeft aan
@@ -1565,10 +1565,10 @@ Dienstverlening bijdragen aan de verdere doorontwikkeling van het model.
 De relatie met gedeelde, of parallelle gemeentelijke ontwikkelingen is
 als volgt:
 
-#### VNG / VNG Realisatie (Kenniscentrum Architectuur – KCA)
+#### VNG / VNG Realisatie (Kenniscentrum Architectuur â€“ KCA)
 
 - **Wat het is:** landelijke koepel van gemeenten; VNG Realisatie
-  beheert GEMMA‑architectuur.
+  beheert GEMMAâ€‘architectuur.
 
 - Documentatie:
 
@@ -1577,7 +1577,7 @@ als volgt:
 <!-- -->
 
 - Onderdeel van VNG Realisatie is het vastleggen van gemeentelijke
-  standaarden (zoals de ZGW-API’s).
+  standaarden (zoals de ZGW-APIâ€™s).
 
 #### VNG - MijnServices
 
@@ -1596,14 +1596,14 @@ servicedesigns.
 
 #### VNG - Landelijk Programma Common Ground (LPCG)
 
-- **Wat het is:** landelijk programma dat de Common Ground‑beweging
+- **Wat het is:** landelijk programma dat de Common Groundâ€‘beweging
   ondersteunt
 
 - Documentatie:
 
   - [Website Common Ground](https://commonground.nl/)
 
-    <img src="gitbook/media/media/image11.png"
+    <img src="media/media/image11.png"
     style="width:6.3in;height:3.05694in" />
 
 #### G4D/Dimpact (Amsterdam, Rotterdam, Den Haag, Utrecht)
@@ -1614,19 +1614,19 @@ servicedesigns.
 
 - Documentatie:
 
-  - Notion – samenwerkruimte Common Ground
+  - Notion â€“ samenwerkruimte Common Ground
 
     - [Backlog](https://www.notion.so/e9375da1960249bba23c49d038d3c888?pvs=21)
 
     - [Beschrijving Governance &
       proces](https://www.notion.so/Proces-backlog-documentatie-21b78b5f4db4804c828fc43bec7b544c?pvs=21)
 
-  - GitBook – publieke documentatie Platform Dienstverlening
+  - GitBook â€“ publieke documentatie Platform Dienstverlening
 
     - [Introductie \| Platform Dienstverlening -
       Public](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public)
 
-      <img src="gitbook/media/media/image12.png"
+      <img src="media/media/image12.png"
       style="width:3.70057in;height:2.16071in" />
 
 ## Platform Dienstverlening in context
@@ -1670,7 +1670,7 @@ te realiseren en welke ontwerpprincipes daarbij leidend zijn.
 
 Deze architectuur staat niet op zichzelf, maar dient een bredere
 maatschappelijke doelstelling. De overheid moet inwoners en ondernemers
-als één samenhangende overheid kunnen bedienen, ongeacht de interne
+als Ã©Ã©n samenhangende overheid kunnen bedienen, ongeacht de interne
 organisatie, processen of het aantal betrokken uitvoeringsorganisaties.
 Dienstverlening is toegankelijk, begrijpelijk en waar mogelijk
 proactief, waarbij de menselijke maat centraal blijft staan.
@@ -1681,7 +1681,7 @@ verwerkt. Een moderne informatievoorziening moet deze publieke waarden
 niet alleen ondersteunen, maar actief mogelijk maken.
 
 Volgens de visie van het Platform Dienstverlening beschikken gemeenten
-gezamenlijk over één samenhangend digitaal ecosysteem dat de
+gezamenlijk over Ã©Ã©n samenhangend digitaal ecosysteem dat de
 gemeentelijke publieke dienstverlening als geheel ondersteunt en is
 ingericht om duurzaam antwoord te geven op de uitdagingen die in de
 motivatie van deze architectuur zijn beschreven. Inwoners, ondernemers
@@ -1716,7 +1716,7 @@ governance en de inrichting van de gemeentelijke softwaremarkt.
 Gezamenlijk beschrijven zij de beoogde maatschappelijke en
 organisatorische effecten van het Platform Dienstverlening.
 
-<img src="gitbook/media/media/image13.png"
+<img src="media/media/image13.png"
 style="width:6.3in;height:2.2125in" />
 
 #### Meer regie
@@ -1736,16 +1736,16 @@ doorontwikkeld.
 
 #### Lagere maatschappelijke kosten
 
-Door generieke voorzieningen éénmaal te ontwikkelen en meervoudig te
+Door generieke voorzieningen Ã©Ã©nmaal te ontwikkelen en meervoudig te
 gebruiken nemen ontwikkel-, implementatie-, beheer- en migratiekosten
 af. Investeringen worden gedeeld en publieke middelen doelmatiger
 ingezet.
 
-#### Eén gegevensfundament
+#### EÃ©n gegevensfundament
 
 Gegevens worden eenduidig beheerd en vormen een betrouwbare basis voor
 dienstverlening, besluitvorming en gegevensuitwisseling. Hierdoor
-ontstaat één consistente informatiebasis voor de gehele gemeentelijke
+ontstaat Ã©Ã©n consistente informatiebasis voor de gehele gemeentelijke
 organisatie. Autorisatie, logging en auditing worden als generieke
 voorzieningen rondom deze gegevenslaag ingericht, waardoor inzichtelijk
 blijft wie welke gegevens heeft geraadpleegd of gewijzigd en op basis
@@ -1758,8 +1758,8 @@ Dienstverlening wordt ingericht vanuit de leefwereld van inwoners,
 ondernemers en uitvoerend professionals, in plaats van vanuit
 afzonderlijke applicaties of organisatorische grenzen. Hierdoor ontstaat
 een samenhangende dienstverlening over domeinen en processen heen. De
-overheid treedt daarbij zoveel mogelijk op als één overheid: inwoners
-ervaren één herkenbare dienstverlening, ongeacht de interne organisatie,
+overheid treedt daarbij zoveel mogelijk op als Ã©Ã©n overheid: inwoners
+ervaren Ã©Ã©n herkenbare dienstverlening, ongeacht de interne organisatie,
 en uitvoerend professionals beschikken over een integraal beeld om
 maatwerk te kunnen leveren met behoud van de menselijke maat.
 
@@ -1799,8 +1799,8 @@ Deze zijn bewust hoog-over en selectief. Zij zijn gekozen omdat zij de
 belangrijkste strategische dimensies van het Platform Dienstverlening
 vertegenwoordigen. In de uitwerking van de verschillende
 architectuurdomeinen worden deze algemene uitgangspunten verder
-aangevuld met meer specifieke principes. In [BIJLAGE – Alle
-principes](#_BIJLAGE_–_Alle) is een totaaloverzicht opgenomen. Tijdens
+aangevuld met meer specifieke principes. In [BIJLAGE â€“ Alle
+principes](#_BIJLAGE_â€“_Alle) is een totaaloverzicht opgenomen. Tijdens
 het opstellen van deze architectuur zijn de principes iteratief
 gevalideerd met de Technische Stuurgroep, Platformmanagement en
 architecten van de deelnemende gemeenten.
@@ -1826,7 +1826,7 @@ implementatie.
 
 - Functionaliteit wordt eerst beoordeeld op generieke toepasbaarheid.
 
-- Hergebruik gaat vóór nieuwbouw.
+- Hergebruik gaat vÃ³Ã³r nieuwbouw.
 
 - Applicaties volgen de architectuur en bepalen deze niet.
 
@@ -1838,7 +1838,7 @@ implementatie.
 
 #### Informatie vormt het verbindende element tussen dienstverlening, processen, applicaties en organisatie. Gegevens worden onafhankelijk van individuele processen en applicaties beheerd, zodat zij meervoudig kunnen worden gebruikt. Daarbij wordt niet alleen de gegevensinhoud vastgelegd, maar ook de context die nodig is om de betekenis, herkomst, betrouwbaarheid en samenhang van informatie te begrijpen en te verantwoorden. Implicaties
 
-- Gegevens worden éénmaal vastgelegd en meervoudig gebruikt.
+- Gegevens worden Ã©Ã©nmaal vastgelegd en meervoudig gebruikt.
 
 - Processen en dienstverlening geven aanleiding voor het ontstaan en
   wijzigen van gegevens; ze zijn ook afnemer van informatie; de regie op
@@ -1946,7 +1946,7 @@ platformvoorziening.
 **Uitwerking:** Technologiearchitectuur, Informatiearchitectuur en
 Governance.
 
-### Principe: Generiek vóór specifiek
+### Principe: Generiek vÃ³Ã³r specifiek
 
 #### Uitgangspunt
 
@@ -2002,7 +2002,7 @@ keuzes tijdig en uitvoerbaar kunnen ondersteunen.
 
 #### Uitgangspunt
 
-Generieke functionaliteit wordt éénmaal ontwikkeld en meervoudig
+Generieke functionaliteit wordt Ã©Ã©nmaal ontwikkeld en meervoudig
 toegepast.
 
 #### Implicaties
@@ -2138,7 +2138,7 @@ en in mindere mate op sturing en bedrijfsvoering.
 - **Blauwe** elementen die in de landelijke realisatie gezamenlijk
   worden ingevuld door het platformmanagement
 
-<img src="gitbook/media/media/image14.png"
+<img src="media/media/image14.png"
 style="width:6.3in;height:4.08056in"
 alt="Afbeelding met tekst, schermopname, diagram, ontwerp Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -2189,7 +2189,7 @@ het platform. Dit betreft processen binnen meerdere domeinen:
 
 #### Ondersteunende functies
 
-Ondersteunende functies, zoals financiën, HR, juridische ondersteuning,
+Ondersteunende functies, zoals financiÃ«n, HR, juridische ondersteuning,
 communicatie en huisvesting, vallen daarom grotendeels buiten de directe
 scope van het platform. Voor deze domeinen bestaan veelal volwassen
 standaardoplossingen (commodities) die geen onderdeel vormen van de
@@ -2210,7 +2210,7 @@ bedrijfsfuncties en waardestromen daarbij centraal staan. TOGAF
 beschouwt de businessarchitectuur als de beschrijving van de
 organisatie, haar dienstverlening, processen en businesscapabilities.
 Voor gemeenten is dit op zeker niveau vastgelegd binnen de
-GEMMA-architectuur. In het onderdeel ‘Visie’ is de scope van het
+GEMMA-architectuur. In het onderdeel â€˜Visieâ€™ is de scope van het
 Platform Dienstverlening daarom afgezet tegen de GEMMA-bedrijfsfuncties.
 
 Deze businessarchitectuur richt zich op de gemeenschappelijke structuur
@@ -2232,7 +2232,7 @@ Dienstverlening.
 De huidige gemeentelijke informatievoorziening weerspiegelt de
 verkokerde inrichting van de overheid zoals beschreven. Historisch
 gegroeide afdelingen, beleidsdomeinen en verantwoordelijkheden zijn
-veelal één-op-één vertaald naar processen, applicaties en
+veelal Ã©Ã©n-op-Ã©Ã©n vertaald naar processen, applicaties en
 gegevensstructuren. Dit sluit aan bij [Conway's
 Law](https://en.wikipedia.org/wiki/Conway%27s_law), die stelt dat
 informatiesystemen de organisatiestructuur weerspiegelen waaruit zij
@@ -2252,9 +2252,9 @@ zonder de inrichting van de informatievoorziening te dicteren.
 
 Doordat gegevens, processen en applicaties van elkaar zijn ontkoppeld,
 ontstaat ruimte om dienstverlening fundamenteel anders te organiseren.
-Gegevens worden éénmaal vastgelegd en via gestandaardiseerde autorisatie
+Gegevens worden Ã©Ã©nmaal vastgelegd en via gestandaardiseerde autorisatie
 beschikbaar gesteld aan processen, medewerkers en inwoners. Hierdoor
-ontstaat één gedeelde informatiebasis waarop verschillende vormen van
+ontstaat Ã©Ã©n gedeelde informatiebasis waarop verschillende vormen van
 dienstverlening kunnen voortbouwen.
 
 Voor inwoners betekent dit dat gegevens niet steeds opnieuw hoeven te
@@ -2279,12 +2279,12 @@ zij gebruikmaken van dezelfde informatievoorziening en gegevenslaag. Dit
 opent een scala aan mogelijkheden om de dienstverlening te verbeteren.
 
 Binnen het kader van informatiegericht werken kunnen verschillende
-‘manieren’ van werken onderscheiden:
+â€˜manierenâ€™ van werken onderscheiden:
 
 - **Inwonergericht werken**
 
   - Inwonergericht werken richt dienstverlening in vanuit de leefwereld
-    van inwoners en ondernemers. Gegevens worden éénmaal uitgevraagd en
+    van inwoners en ondernemers. Gegevens worden Ã©Ã©nmaal uitgevraagd en
     vervolgens hergebruikt. Uitvoerend professionals beschikken over een
     integraal beeld van de situatie, waardoor maatwerk mogelijk wordt en
     dienstverlening over organisatorische grenzen heen kan worden
@@ -2312,13 +2312,13 @@ Binnen het kader van informatiegericht werken kunnen verschillende
     levenscyclus, context en betekenis heeft. Daarom worden gegevens,
     documenten, gebeurtenissen en andere informatieobjecten niet
     uitsluitend binnen een zaak beheerd, maar ondergebracht in
-    zelfstandige registraties die ook buiten de context van één
+    zelfstandige registraties die ook buiten de context van Ã©Ã©n
     specifieke zaak kunnen worden gebruikt. Zaken verwijzen naar deze
     informatie en brengen deze samen in de context van een
     dienstverleningsproces.
 
   - Zaakgericht werken is niet het enige organiserende principe van de
-    informatievoorziening, maar één van de manieren waarop
+    informatievoorziening, maar Ã©Ã©n van de manieren waarop
     dienstverlening kan worden gerealiseerd.
 
 ### Werken vanuit publieke waarde en waardestromen
@@ -2338,7 +2338,7 @@ resultaat voor inwoners, ondernemers en de gemeente.
 
 #### Wanneer is iets een waardestroom? Een proces of bundeling van diensten is een waardestroom als het voldoet aan de volgende voorwaarden:
 
-- Het creëert waarde voor **een specifieke doelgroep**;
+- Het creÃ«ert waarde voor **een specifieke doelgroep**;
 
 - Het bundelt meerdere producten en diensten in **een logische keten**;
 
@@ -2352,7 +2352,7 @@ resultaat voor inwoners, ondernemers en de gemeente.
 - Het is toegankelijk via **meerdere kanalen** en houdt rekening met
   digitale toegankelijkheid;
 
-- Het wordt continu **gemonitord en verbeterd** op basis van KPI’s en
+- Het wordt continu **gemonitord en verbeterd** op basis van KPIâ€™s en
   gebruikersfeedback;
 
 - Het voldoet aan **wettelijke en ethische eisen.**
@@ -2374,7 +2374,7 @@ klantreizen worden gerealiseerd. Het Platform Dienstverlening
 ondersteunt beide perspectieven: de beleving van de inwoner aan de
 buitenkant en de samenhangende uitvoering aan de binnenkant.
 
-<img src="gitbook/media/media/image15.png"
+<img src="media/media/image15.png"
 style="width:6.29097in;height:3.17431in" />
 
 ## Bedrijfsarchitectuur als schakel tussen platform, inwoner en organisatie
@@ -2401,8 +2401,8 @@ In het bijzonder worden de volgende principes uitgewerkt:
   kunnen worden toegepast in meerdere processen, BusinessServices en
   kanalen.
 
-- **[Principe: Generiek vóór
-  specifiek](#principe-generiek-vóór-specifiek):** generieke
+- **[Principe: Generiek vÃ³Ã³r
+  specifiek](#principe-generiek-vÃ³Ã³r-specifiek):** generieke
   BusinessServices, procesfragmenten en voorzieningen worden eerst
   hergebruikt voordat domeinspecifieke oplossingen worden ontwikkeld.
 
@@ -2467,7 +2467,7 @@ MijnServices zijn nadrukkelijk ontwikkeld vanuit het perspectief van de
 inwoner. Zij standaardiseren de **buitenkant** van de dienstverlening:
 de manier waarop informatie wordt aangeboden, aanvragen worden ingediend
 en de voortgang van dienstverlening inzichtelijk wordt gemaakt. Daarmee
-leveren zij een belangrijke bijdrage aan één herkenbare digitale
+leveren zij een belangrijke bijdrage aan Ã©Ã©n herkenbare digitale
 overheid.
 
 Voor de bedrijfsarchitectuur zijn MijnServices echter niet voldoende.
@@ -2483,7 +2483,7 @@ MijnServices de interactie met inwoners standaardiseren, structureren
 BusinessServices de uitvoering van het werk. Samen vormen zij de
 verbinding tussen de buitenwereld en de interne bedrijfsvoering.
 
-<img src="gitbook/media/media/image16.png"
+<img src="media/media/image16.png"
 style="width:6.3in;height:2.14583in" />
 
 ### BusinessServices als ontwerpprincipe
@@ -2493,12 +2493,12 @@ inwoner te realiseren introduceert het Platform Dienstverlening het
 concept **BusinessService**. Een BusinessService vormt de herbruikbare
 functionele bouwsteen waaruit gemeentelijke dienstverlening wordt
 samengesteld. Het wordt hier met twee hoofdletters geschreven om het te
-onderscheiden van – bijvoorbeeld – het businessserviceconcept in
+onderscheiden van â€“ bijvoorbeeld â€“ het businessserviceconcept in
 Archimate. Het concept wordt verder concreet gemaakt in de bijlage
 [BusinessServices](#bijlage---businessservices).
 
 Een BusinessService omvat een logisch samenhangend geheel van gegevens,
-beslisregels, proceslogica en interactie rondom één processtap. Zij
+beslisregels, proceslogica en interactie rondom Ã©Ã©n processtap. Zij
 verbindt de verschillende architectuurlagen: gegevens uit registraties,
 proces- en beslislogica, interactie met inwoners en medewerkers en de
 uiteindelijke vastlegging van resultaten
@@ -2521,7 +2521,7 @@ Dit betekent onder andere dat:
 - Iedere BusinessService expliciet vastlegt welke gegevens worden
   gebruikt, gewijzigd en geregistreerd;
 
-- Beslisregels, validaties en interacties éénmaal worden ingericht en
+- Beslisregels, validaties en interacties Ã©Ã©nmaal worden ingericht en
   vervolgens breed worden hergebruikt;
 
   - Beslisregels vormen een expliciet onderdeel van de dienstverlening
@@ -2577,8 +2577,8 @@ De bedrijfsarchitectuur vormt het vertrekpunt voor de verdere uitwerking
 van project- en solutionarchitecturen. Zij bepaalt de gewenste
 waardestroom, de BusinessServices en de samenhang tussen
 dienstverlening, processen en informatie. De onderliggende
-architectuurdomeinen – informatie-, applicatie- en
-technologiearchitectuur – werken deze keuzes vervolgens verder uit
+architectuurdomeinen â€“ informatie-, applicatie- en
+technologiearchitectuur â€“ werken deze keuzes vervolgens verder uit
 binnen hun eigen verantwoordelijkheidsgebied.
 
 Voor de ontwikkeling van software betekent dit een andere manier van
@@ -2595,7 +2595,7 @@ werken. De volgende ontwerpstappen gelden:
 
     Project- en solutionarchitecturen worden vaak gestart vanuit een
     concrete vraag, zoals de vervanging van een applicatie of de
-    verbetering van één bedrijfsproces. Deze afbakening is begrijpelijk
+    verbetering van Ã©Ã©n bedrijfsproces. Deze afbakening is begrijpelijk
     vanuit projectsturing, maar vormt niet vanzelfsprekend de juiste
     architectuurscope.
 
@@ -2665,7 +2665,7 @@ werken. De volgende ontwerpstappen gelden:
     aan de community. Zo ontstaat een levende referentiearchitectuur die
     zich continu ontwikkelt.
 
-    <img src="gitbook/media/media/image17.png"
+    <img src="media/media/image17.png"
     style="width:6.3in;height:2.42361in" />
 
 ## Domain-Driven Design als ontwerppraktijk
@@ -2688,13 +2688,13 @@ consistente gebruikerservaring binnen het platform.
 
 Het dienstverleningsdomein, met concepten zoals **klant**, **zaak**,
 **taak** **en** **bericht**, vormt zo'n metadomein. Deze concepten
-behoren niet tot één specifiek beleids- of uitvoeringsdomein, maar
+behoren niet tot Ã©Ã©n specifiek beleids- of uitvoeringsdomein, maar
 ondersteunen dienstverlening in brede zin.
 
 De afbakening van deze metadomeinen geldt als uitgangspunt voor de
 inrichting van het platform. Binnen die kaders behouden domeinspecifieke
 implementaties de vrijheid om eigen bounded contexts, domeinmodellen en
-bedrijfsobjecten te definiëren die aansluiten bij de behoeften van het
+bedrijfsobjecten te definiÃ«ren die aansluiten bij de behoeften van het
 betreffende vakgebied.
 
 Centraal daarin staat het ontwikkelen van een **gedeelde taal
@@ -2719,7 +2719,7 @@ afhankelijk worden. Het ondersteunt daarmee direct de principes uit de
 BusinessService-benadering, zoals cohesie, herbruikbaarheid en
 duidelijke verantwoordelijkheid.
 
-<img src="gitbook/media/media/image18.png"
+<img src="media/media/image18.png"
 style="width:4.00266in;height:3.49218in" />
 
 ## Implicaties voor de bestaande organisatie
@@ -2890,8 +2890,8 @@ Hierdoor wordt het eenvoudiger om kennis, software en capaciteit tussen
 gemeenten uit te wisselen. Ontwikkelaars, architecten, beheerders en
 andere IV-professionals kunnen gemakkelijker samenwerken aan dezelfde
 voorzieningen en hun expertise breder inzetten. Dit vergroot niet alleen
-de continuïteit van het platform, maar draagt ook bij aan een
-efficiënter gebruik van schaarse IV-capaciteit binnen de gemeentelijke
+de continuÃ¯teit van het platform, maar draagt ook bij aan een
+efficiÃ«nter gebruik van schaarse IV-capaciteit binnen de gemeentelijke
 sector.
 
 ### Doorontwikkeling van de governance
@@ -2988,7 +2988,7 @@ dienstverlening. Dit onderscheid zorgt ervoor dat:
 - Gegevens consistent en herbruikbaar kunnen worden toegepast over
   verschillende processen en systemen
 
-- Wijzigingen in één laag (bijvoorbeeld applicaties) beperkt effect
+- Wijzigingen in Ã©Ã©n laag (bijvoorbeeld applicaties) beperkt effect
   hebben op andere lagen
 
 - Een gemeenschappelijk begrip ontstaat tussen verschillende
@@ -3001,7 +3001,7 @@ De informatiearchitectuur geeft ook uitdrukking aan het [**Principe:
 Expliciete bedrijfslogica**](#principe-expliciete-bedrijfslogica):
 Bedrijfslogica wordt expliciet gemodelleerd en losgekoppeld van
 processen, gegevens en softwarecomponenten. Regels die voortkomen uit
-wetgeving, beleid of gemeentelijke afspraken worden éénmalig vastgelegd,
+wetgeving, beleid of gemeentelijke afspraken worden Ã©Ã©nmalig vastgelegd,
 centraal beheerd en meervoudig toegepast.
 
 Beslisregels vormen een zelfstandig bedrijfsobject binnen deze
@@ -3057,7 +3057,7 @@ Data-autonomie kent drie samenhangende aspecten:
   **regie**. Enerzijds betekent data-autonomie dat gemeenten en inwoners
   beschermd zijn tegen ongewenste afhankelijkheden van leveranciers,
   technologie of organisaties. Anderzijds betekent data-autonomie dat
-  gemeenten daadwerkelijk in staat zijn om zélf richting te geven aan
+  gemeenten daadwerkelijk in staat zijn om zÃ©lf richting te geven aan
   hun informatievoorziening: door afspraken te maken over gegevens,
   standaarden en architectuur en deze gezamenlijk te ontwikkelen en toe
   te passen. Autonomie is daarmee niet alleen een vorm van
@@ -3071,16 +3071,16 @@ invulling op de volgende niveaus:
 
 - **Semantisch niveau** (standaardisatie van betekenis)
 
-  - Bijvoorbeeld: begrippen als “zaak”, “verzoek” of “bericht” hebben
+  - Bijvoorbeeld: begrippen als â€œzaakâ€, â€œverzoekâ€ of â€œberichtâ€ hebben
     een eenduidige definitie en worden overal op dezelfde manier
-    geïnterpreteerd, ongeacht welk systeem of domein deze gebruikt.
+    geÃ¯nterpreteerd, ongeacht welk systeem of domein deze gebruikt.
 
 - **Logisch en functioneel niveau** (inrichting van dataservices en
   registraties)
 
   - Bijvoorbeeld: gegevens over zaken of klanten worden niet in meerdere
     applicaties opgeslagen, maar centraal ontsloten via registraties en
-    API’s, zodat verschillende processen dezelfde bron gebruiken.
+    APIâ€™s, zodat verschillende processen dezelfde bron gebruiken.
 
 <!-- -->
 
@@ -3113,7 +3113,7 @@ daarom worden gebruikt in de betekenis van bestuurlijke en
 organisatorische verantwoordelijkheid, niet als civielrechtelijk
 eigendom. Dit volgt [GIBIT Artikel
 21](https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf)
-(‘Intellectueel eigendom’).
+(â€˜Intellectueel eigendomâ€™).
 
 ### Implicaties voor de architectuur
 
@@ -3144,7 +3144,7 @@ langs de volgende samenhangende dimensies:
 - **Portabiliteit**
 
   Gegevens zijn beschikbaar in open, gedocumenteerde formaten en kunnen
-  onafhankelijk van leveranciers worden geëxporteerd, gemigreerd en
+  onafhankelijk van leveranciers worden geÃ«xporteerd, gemigreerd en
   hergebruikt.
 
 - **Transparantie en controleerbaarheid**
@@ -3188,7 +3188,7 @@ voor registraties en dataservices:
 - Gegevens blijven overdraagbaar en leverancier-onafhankelijk.
 
 Bovenstaande wordt verder uitgewerkt in het onderdeel Architectuur van
-API’s en registraties.
+APIâ€™s en registraties.
 
 ### Borging buiten de architectuur
 
@@ -3208,7 +3208,7 @@ Daaronder vallen onder andere:
 - Bewaartermijnen, archivering en vernietiging;
 
 - Contractuele afspraken over Open Source, overdraagbaarheid,
-  continuïteit en exit;
+  continuÃ¯teit en exit;
 
 - Toezicht, auditing en periodieke evaluatie.
 
@@ -3222,7 +3222,7 @@ Gegevens worden beheerd door de (door de bronhouder) daarvoor aangewezen
 bron en vanuit een (eveneens door de bronhouder aangewezen) bron
 beschikbaar gesteld aan afnemers. Processen, BusinessServices en
 applicaties gebruiken deze gegevens, maar worden daarvan geen eigenaar.
-Hiermee wordt uitvoering gegeven aan architectuurprincipe 4.4.8 – Data
+Hiermee wordt uitvoering gegeven aan architectuurprincipe 4.4.8 â€“ Data
 bij de bron.
 
 > **Principe: Data bij de bron:** Gegevens worden beheerd door de
@@ -3335,9 +3335,9 @@ gegevens.
 Hieruit volgt dat Data bij de bron niet alleen vraagt om een duidelijke
 bronregistratie, maar ook om ondersteuning van de volledige
 informatielevenscyclus, inclusief autorisatie, bewaartermijnen,
-vernietiging en – waar wettelijk vereist – overbrenging naar een
+vernietiging en â€“ waar wettelijk vereist â€“ overbrenging naar een
 archiefbewaarplaats. De architectuurimplicaties hiervan worden verder
-uitgewerkt in het onderdeel ‘Duurzame toegankelijkheid by design’.
+uitgewerkt in het onderdeel â€˜Duurzame toegankelijkheid by designâ€™.
 
 ### Implicaties voor ontwerp
 
@@ -3357,7 +3357,7 @@ de ontwikkeling van nieuwe functionaliteit geldt daarom het volgende:
   registraties en dataservices;
 
 - Alleen wanneer bestaande registraties aantoonbaar onvoldoende zijn,
-  wordt een nieuwe registratie geïntroduceerd.
+  wordt een nieuwe registratie geÃ¯ntroduceerd.
 
 Hiermee verschuift de verantwoordelijkheid van **procesgericht
 databeheer** naar **domeingericht gegevensbeheer**. Processen en
@@ -3367,7 +3367,7 @@ het voor het duurzaam beheer daarvan.
 ### Bronnen buiten de scope van het Platform
 
 Niet alle gemeentelijke gegevens bevinden zich binnen het Platform
-Dienstverlening. Voor voorzieningen zoals HR-, financiële of andere
+Dienstverlening. Voor voorzieningen zoals HR-, financiÃ«le of andere
 bedrijfsvoeringssystemen blijft het betreffende systeem de bron voor de
 gegevens waarvoor het verantwoordelijk is.
 
@@ -3398,10 +3398,10 @@ afgeweken. Daarbij geldt altijd dat:
 
 ## Duurzame toegankelijkheid by design
 
-In traditionele (zaak)systemen bevinden gegevens zich veelal binnen één
+In traditionele (zaak)systemen bevinden gegevens zich veelal binnen Ã©Ã©n
 applicatie. In een Common Ground-architectuur zijn informatieobjecten
 verdeeld over meerdere zelfstandige registraties en services. Hierdoor
-verschuift de uitdaging van het archiveren van één applicatie naar het
+verschuift de uitdaging van het archiveren van Ã©Ã©n applicatie naar het
 duurzaam toegankelijk houden van een samenhangend netwerk van
 informatieobjecten.
 
@@ -3454,7 +3454,7 @@ gezamenlijk invulling geven aan duurzame toegankelijkheid:
 
 - Ter beschikking stellen.
 
-Binnen het Platform Dienstverlening worden deze processen niet door één
+Binnen het Platform Dienstverlening worden deze processen niet door Ã©Ã©n
 component uitgevoerd, maar verdeeld over meerdere
 architectuurbouwblokken. Daarmee sluit de architectuur aan op het
 uitgangspunt dat iedere component verantwoordelijk is voor zijn eigen
@@ -3473,7 +3473,7 @@ De relevante bouwblokken zijn uitgewerkt in de
 
   De (applicatie)architectuur van
   [registraties](#architectuur-van-registraties) en
-  [API’s](#architectuur-van-apis) geeft invulling aan een belangrijk
+  [APIâ€™s](#architectuur-van-apis) geeft invulling aan een belangrijk
   deel van de eisen voor duurzame toegankelijkheid. Registraties leggen
   informatie duurzaam vast, inclusief historie, metadata en
   gebeurtenissen, terwijl handelingsgedreven API's zorgen voor
@@ -3507,7 +3507,7 @@ het Platform voldoet aan de gestelde eisen.
 <tr>
 <td><strong>F01 Bevriezing</strong></td>
 <td>ABB Registraties</td>
-<td>API’s op registraties dwingen af dat gegevens volgens bedrijfsregels
+<td>APIâ€™s op registraties dwingen af dat gegevens volgens bedrijfsregels
 worden vastgezet zodat ze niet meer kunnen worden gewijzigd. De interne
 logica van Registraties dwingt af dat de registratie van data niet
 aanpasbaar is, maar dat een mutatie een nieuwe registratie is.</td>
@@ -3529,14 +3529,14 @@ zou overbrenging naar het E-Depot kunnen zijn.</p></td>
 <td>ABB Processervice, ABB Diensten + ABB Registraties</td>
 <td>Creatie speelt over het hele platform een rol: vanaf formulieren
 (bepaling van velden, validatie), tot processervices (datamodellen,
-validatie, procesinrichting; Diensten(API’s) dwingen validatie en
+validatie, procesinrichting; Diensten(APIâ€™s) dwingen validatie en
 constraints af; registraties nemen informatieobjecten duurzaam op.</td>
 </tr>
 <tr>
 <td><strong>F04 Inwinning</strong></td>
 <td>ABB Processervices</td>
 <td>In de proceslaag worden gegevens opgehaald via gestandaardiseerde
-API’s van externe bronnen. Ze worden daar gevalideerd; via API’s en
+APIâ€™s van externe bronnen. Ze worden daar gevalideerd; via APIâ€™s en
 configuratie worden de gegevens met de juiste metadata (bron) verwerkt
 in registraties.</td>
 </tr>
@@ -3561,7 +3561,7 @@ gevolgd</td>
 <td><strong>F08 Opslag</strong></td>
 <td>ABB Registraties</td>
 <td>Registraties zijn verantwoordelijk voor duurzame opslag van
-informatieobjecten. Hier is een vast patroon voor (URN’s)</td>
+informatieobjecten. Hier is een vast patroon voor (URNâ€™s)</td>
 </tr>
 <tr>
 <td><strong>F09 Publicatie</strong></td>
@@ -3589,7 +3589,7 @@ context.</td>
 <tr>
 <td><strong>F13 Validatie</strong></td>
 <td>Crossfunctioneel</td>
-<td>Zie F03 – Creatie.</td>
+<td>Zie F03 â€“ Creatie.</td>
 </tr>
 <tr>
 <td><strong>F14 Verantwoording</strong></td>
@@ -3622,7 +3622,7 @@ Platform Dienstverlening. Registraties vormen daarbij de primaire
 bouwsteen voor het duurzaam beheren van informatieobjecten, terwijl
 diensten, dataservices, autorisatie, logging en connectiviteit
 gezamenlijk invulling geven aan de overige functies. Duurzame
-toegankelijkheid wordt daarmee niet gerealiseerd door één afzonderlijke
+toegankelijkheid wordt daarmee niet gerealiseerd door Ã©Ã©n afzonderlijke
 archiefcomponent, maar als een integrale eigenschap van het gehele
 platform.
 
@@ -3644,14 +3644,14 @@ gedeeltelijk uit te werken:
 - **Lifecyclebeheer van informatieobjecten**  
   Platformbrede ondersteuning voor lifecycle-overgangen, zoals
   archiefstatussen, overbrenging en vernietiging, vraagt verdere
-  standaardisatie. Daarbij moet – waarschijnlijk – ook invulling worden
+  standaardisatie. Daarbij moet â€“ waarschijnlijk â€“ ook invulling worden
   gegeven aan de eisen uit de Archiefwet voor de overbrenging van
   blijvend te bewaren informatie naar een archiefbewaarplaats (e-depot).
   De wijze waarop deze overbrenging plaatsvindt, is niet uitgewerkt.
   Daarbij spelen onder meer vragen over de
   verantwoordelijkheidsverdeling tussen registraties en
   archiefvoorzieningen, de benodigde metadata en de vraag of
-  informatieobjecten vóór overbrenging moeten worden geconverteerd, en
+  informatieobjecten vÃ³Ã³r overbrenging moeten worden geconverteerd, en
   welke service dat moet doen.
 
 - **Platformbreed metagegevensbeheer**  
@@ -3737,7 +3737,7 @@ architectuurcapabilities voorzien voor toekomstige ontwikkeling:
   autorisatie en doelbinding automatisch kunnen worden afgeschermd of
   geanonimiseerd. Deze capability sluit aan op de ABB **Duurzame
   toegankelijkheid**, waarin generieke ondersteuning voor maskering als
-  ontbrekende functie is geïdentificeerd.
+  ontbrekende functie is geÃ¯dentificeerd.
 
 - **Integratie met landelijke Woo-voorzieningen**, waaronder de
   Generieke Woo-voorziening (GWV) en eventuele opvolgende landelijke
@@ -3756,7 +3756,7 @@ Dienstverlening. Gemeenten zijn verantwoordelijk voor het voldoen aan de
 en de daarop gebaseerde normen, processen en risicobeheersing. Een
 volledige toetsing aan de BIO of ISO/NEN 27001 vindt plaats op het
 niveau van de ingerichte organisatie, de operationele beheerprocessen en
-de daadwerkelijk geïmplementeerde ICT-omgeving, en valt daarmee buiten
+de daadwerkelijk geÃ¯mplementeerde ICT-omgeving, en valt daarmee buiten
 de scope van deze Enterprise Architectuur.
 
 Deze architectuur beschrijft uitsluitend de architectonische
@@ -3836,7 +3836,7 @@ zelf: de businessobjecten, hun onderlinge relaties, de verdeling over
 generieke en domeinspecifieke registraties en de aansluiting op het
 Gemeentelijk Gegevensmodel (GGM). De nadruk ligt daarbij op de structuur
 en samenhang van gegevens, onafhankelijk van de wijze waarop deze
-technisch worden geïmplementeerd of ontsloten.
+technisch worden geÃ¯mplementeerd of ontsloten.
 
 De concrete realisatie van registraties, dataservices, API's en andere
 softwarecomponenten wordt in het hoofdstuk Applicatiearchitectuur
@@ -3875,7 +3875,7 @@ Deze scheiding kent twee complementaire dimensies.
     registraties die door meerdere BusinessServices kunnen worden
     gebruikt.
 
-<img src="gitbook/media/media/image19.png"
+<img src="media/media/image19.png"
 style="width:6.29167in;height:3.35417in" />
 
 Daarnaast bestaan domeinspecifieke registraties voor gegevens die
@@ -3886,7 +3886,7 @@ autorisatie- en validatieregels.
 
 Deze inrichting zorgt ervoor dat:
 
-- Gegevens éénmaal en eenduidig worden vastgelegd;
+- Gegevens Ã©Ã©nmaal en eenduidig worden vastgelegd;
 
 - Semantiek onafhankelijk van processen wordt beheerd;
 
@@ -3915,7 +3915,7 @@ onderscheiden.
 
 Dit zijn gegevens die een duurzame representatie van de werkelijkheid
 vormen en door meerdere processen en services worden gebruikt. Het gaat
-om gegevens met een duidelijke betekenis buiten één specifiek proces,
+om gegevens met een duidelijke betekenis buiten Ã©Ã©n specifiek proces,
 die consistent en eenduidig moeten worden beheerd.
 
 - Voorbeelden: personen, zaken, producten, beschikkingen
@@ -3923,11 +3923,11 @@ die consistent en eenduidig moeten worden beheerd.
 - Kenmerken: herbruikbaar en leidend voor besluitvorming
 
 - Positionering: vastgelegd in registraties (dataservices) en ontsloten
-  via API’s
+  via APIâ€™s
 
 Deze gegevens vormen de kern van de gegevenslaag en zijn de primaire
 bron voor dienstverlening. De informatie over een inwoner en diens
-situatie is daarbij niet geconcentreerd in één plek, maar verdeeld over
+situatie is daarbij niet geconcentreerd in Ã©Ã©n plek, maar verdeeld over
 meerdere registraties. Zo worden verschillende aspecten van de
 werkelijkheid afzonderlijk vastgelegd, elk vanuit hun eigen domein:
 
@@ -3937,12 +3937,12 @@ werkelijkheid afzonderlijk vastgelegd, elk vanuit hun eigen domein:
 
 - Gegevens over de voortgang van een zaak in de zaakregistratie
 
-Dit betekent dat de “toestand” van een inwoner of een casus altijd een
+Dit betekent dat de â€œtoestandâ€ van een inwoner of een casus altijd een
 samenspel is van meerdere gegevensbronnen. Door deze gegevens centraal
 en per domein te beheren, blijft de informatie onafhankelijk van
 specifieke applicaties of workflows. Hoe deze data duurzaam wordt
-geregistreerd is beschreven in het onderdeel ‘Architectuur van
-registraties’.
+geregistreerd is beschreven in het onderdeel â€˜Architectuur van
+registratiesâ€™.
 
 #### Procesdata (workflow- en uitvoeringsdata)
 
@@ -3988,7 +3988,7 @@ gezien als:
 Om die herbruikbaarheid en consistentie te borgen, worden deze regels
 ondergebracht in een losstaande rule-engine, die door meerdere services
 wordt gebruikt. Dit voorkomt dat dezelfde regels op meerdere plekken
-worden geïmplementeerd en uiteen gaan lopen, en maakt het mogelijk om
+worden geÃ¯mplementeerd en uiteen gaan lopen, en maakt het mogelijk om
 wijzigingen in beleid of wetgeving gecontroleerd en uniform door te
 voeren. Zie verder de applicatiearchitectuur.
 
@@ -4027,19 +4027,19 @@ organisatie](#bedrijfsarchitectuur-als-schakel-tussen-platform-inwoner-en-organi
 
 Systeemafhankelijke datakwaliteit betreft de mate waarin systemen de
 kwaliteit van data borgen tijdens gebruik. Een service-architectuur
-betekent dat datakwaliteit niet beperkt is tot één service of component,
-maar het resultaat is van het samenspel tussen services, API’s en
+betekent dat datakwaliteit niet beperkt is tot Ã©Ã©n service of component,
+maar het resultaat is van het samenspel tussen services, APIâ€™s en
 registraties tijdens invoer, verwerking en ontsluiting van gegevens:
 
 - **Interactieservices** vormen het eerste punt waar datakwaliteit wordt
-  beïnvloed. Zij begeleiden inwoners en medewerkers bij het invoeren van
+  beÃ¯nvloed. Zij begeleiden inwoners en medewerkers bij het invoeren van
   gegevens, voeren vroegtijdige validaties uit en voorkomen dat onjuiste
   of onvolledige informatie het systeem binnenkomt.
 
 - **Proces- en businessservices** zorgen vervolgens voor het correcte
   gebruik en de toepassing van gegevens. Zij combineren informatie uit
   verschillende bronnen, passen beslislogica toe en waarborgen dat
-  gegevens in de juiste context worden geïnterpreteerd en gebruikt.
+  gegevens in de juiste context worden geÃ¯nterpreteerd en gebruikt.
 
 - **Registraties (dataservices)** vormen tenslotte de bron van waarheid
   en borgen de structurele kwaliteit. Zij valideren gegevens bij opslag
@@ -4048,8 +4048,8 @@ registraties tijdens invoer, verwerking en ontsluiting van gegevens:
 
 ## Rapportage, datawarehousing & Platform Dienstverlening
 
-Verschillende stakeholders – zoals medewerkers, behandelaren,
-management, bestuur en externe partners (bijvoorbeeld het CBS) – hebben
+Verschillende stakeholders â€“ zoals medewerkers, behandelaren,
+management, bestuur en externe partners (bijvoorbeeld het CBS) â€“ hebben
 behoefte aan inzicht in het verloop van processen. Deze informatie is
 essentieel voor beleidsvorming, het beoordelen van prestaties, het
 verdelen van werkdruk en het bepalen van urgentie.
@@ -4087,10 +4087,10 @@ inrichting van de software. Daarbij gelden de volgende randvoorwaarden:
   correct gebruik en voorkomt verschillende interpretaties van dezelfde
   data.
 
-- **Koppeling met KPI’s en sturingsinformatie**
+- **Koppeling met KPIâ€™s en sturingsinformatie**
 
   De business moet voorafgaand aan de ontwikkeling expliciet aangeven
-  welke KPI’s en controlemechanismen relevant zijn, en hoe die relateren
+  welke KPIâ€™s en controlemechanismen relevant zijn, en hoe die relateren
   aan het informatiemodel. Op basis daarvan kan worden bepaald:
 
   - Welke datapunten noodzakelijk zijn
@@ -4101,7 +4101,7 @@ inrichting van de software. Daarbij gelden de volgende randvoorwaarden:
 
   - Op basis van welke grondslag.
 
-> Deze aanpak borgt dat data niet achteraf “bij elkaar gezocht” hoeft te
+> Deze aanpak borgt dat data niet achteraf â€œbij elkaar gezochtâ€ hoeft te
 > worden, maar by design beschikbaar is voor zowel operationele sturing
 > als strategische rapportage.
 
@@ -4133,7 +4133,7 @@ werkschermen en lichte dashboarding binnen applicaties. Ze zijn daarmee
 een integraal onderdeel van de uitvoering en operationele sturing.
 
 **Operationele overzichten** zijn onderdeel van de **processervices**
-(of ‘taakapplicaties). Dit is de plek waar het werk daadwerkelijk wordt
+(of â€˜taakapplicaties). Dit is de plek waar het werk daadwerkelijk wordt
 uitgevoerd en waar beslissingen over prioritering en werkverdeling
 worden genomen. Dit betekent dat bij het ontwerp en de implementatie van
 processervices expliciet rekening moet worden gehouden met de
@@ -4142,7 +4142,7 @@ zodat applicaties (zoals GZAC) deze informatie kunnen gebruiken binnen
 de workflow.
 
 **Rapportages** daarentegen voorzien in tactische en strategische
-sturingsinformatie. Zij bieden inzicht in KPI’s, historische
+sturingsinformatie. Zij bieden inzicht in KPIâ€™s, historische
 ontwikkelingen, trends en prestaties over langere perioden. Rapportages
 combineren gegevens uit meerdere processen en bronnen en maken analyse
 en verantwoording mogelijk. Daarmee dienen zij een wezenlijk ander doel
@@ -4152,7 +4152,7 @@ de operationele procesondersteuning.
 Binnen de referentie-architectuur worden rapportages gerealiseerd via
 een afzonderlijke **rapportageketen (datawarehouse)**. In deze keten
 wordt data uit verschillende bronservices verzameld, gevalideerd,
-getransformeerd en geïntegreerd. Vervolgens wordt deze data ontsloten in
+getransformeerd en geÃ¯ntegreerd. Vervolgens wordt deze data ontsloten in
 een vorm die geschikt is voor analyse, dashboards en
 managementinformatie.
 
@@ -4195,7 +4195,7 @@ design*).
 
 - **Opslagbeperking**  
   Persoonsgegevens worden niet langer bewaard dan noodzakelijk.
-  Bewaartermijnen, vernietiging en – waar wettelijk vereist –
+  Bewaartermijnen, vernietiging en â€“ waar wettelijk vereist â€“
   overbrenging worden ondersteund door de generieke voorzieningen voor
   duurzame toegankelijkheid.
 
@@ -4211,7 +4211,7 @@ design*).
 Persoonsgegevens worden uitsluitend verwerkt voor een expliciet
 gedefinieerd en rechtmatig doel en beperkt tot wat daarvoor noodzakelijk
 is. Voor rapportagedoeleinden wordt kritisch beoordeeld of
-persoonsgegevens überhaupt nodig zijn; waar mogelijk wordt gewerkt met
+persoonsgegevens Ã¼berhaupt nodig zijn; waar mogelijk wordt gewerkt met
 geaggregeerde, gepseudonimiseerde of geanonimiseerde gegevens.
 Persoonsgegevens worden standaard versleuteld opgeslagen en uitsluitend
 ontsloten aan geautoriseerde gebruikers en services overeenkomstig de
@@ -4268,7 +4268,7 @@ processervices. Dit voorkomt dat:
 
 - Er ongecontroleerde extracties van persoonsgegevens plaatsvinden.
 
-Het datawarehouse fungeert als de enige bron (“single point of truth”)
+Het datawarehouse fungeert als de enige bron (â€œsingle point of truthâ€)
 voor de samenstelling van de CBS-levering.
 
 #### Inrichting van de dataflow
@@ -4279,7 +4279,7 @@ De aanbevolen inrichting bestaat uit de volgende stappen:
     vastgelegd conform procesinrichting, inclusief relevante statussen
     en (noodzakelijke) persoonsgegevens.
 
-2.  **Ontsluiting naar datawarehouse** Data wordt via replica’s
+2.  **Ontsluiting naar datawarehouse** Data wordt via replicaâ€™s
     ontsloten naar het datawarehouse.Binnen Haven+ is dat
     CloudNativePG-kopie, die structureel up-to-date wordt gehouden en
     een parallelle bron geeft voor ander type (bulk) bevragingen.
@@ -4324,20 +4324,20 @@ gestandaardiseerd dataproduct binnen de organisatie:
 
 - Met een duidelijke eigenaar
 
-- Met expliciete SLA’s (tijdigheid, kwaliteit) en
+- Met expliciete SLAâ€™s (tijdigheid, kwaliteit) en
 
 - Met vaste definities.
 
 ## Ontsluiten van data
 
 Binnen de huidige Common Ground-implementaties stellen registraties
-primair operationele API’s beschikbaar. Deze API’s zijn ontworpen voor
+primair operationele APIâ€™s beschikbaar. Deze APIâ€™s zijn ontworpen voor
 transactieverwerking en het ondersteunen van processtappen binnen
-applicatieprocessen. Hoewel deze API’s technisch gebruikt kunnen worden
+applicatieprocessen. Hoewel deze APIâ€™s technisch gebruikt kunnen worden
 voor het vullen van een landing zone of datawarehouse (bijvoorbeeld door
 middel van iteratief ophalen/looping), is dit vanuit architectuur- en
 performanceperspectief niet optimaal. Dit leidt tot onnodige belasting
-van bronsystemen, inefficiënte dataverwerking en verhoogde complexiteit
+van bronsystemen, inefficiÃ«nte dataverwerking en verhoogde complexiteit
 in dataplatformen.
 
 Om datagebruik beter te faciliteren, wordt binnen Haven+ voorzien in
@@ -4347,17 +4347,17 @@ replica-databases beschikbaar gesteld.
 CloudNativePG is een Kubernetes-operator voor PostgreSQL die het
 mogelijk maakt om databases als schaalbare en beheersbare cloud-native
 workloads te draaien. Hierbij worden primaire databases (de operationele
-registraties) automatisch gerepliceerd naar één of meerdere
-read-replica’s. Deze replica’s worden continu gesynchroniseerd via
+registraties) automatisch gerepliceerd naar Ã©Ã©n of meerdere
+read-replicaâ€™s. Deze replicaâ€™s worden continu gesynchroniseerd via
 streaming replication en bevatten daardoor een (near) real-time
 afspiegeling van de brondatasets.
 
 Door deze architectuur ontstaat een duidelijke scheiding tussen:
 
 - **Transactionele belasting** op de primaire databases (ten behoeve van
-  procesvoering en API’s)
+  procesvoering en APIâ€™s)
 
-- **Analytische belasting** op de replica’s (ten behoeve van rapportage
+- **Analytische belasting** op de replicaâ€™s (ten behoeve van rapportage
   en data-analyse).
 
 De replica-databases zijn specifiek bedoeld voor analytische doeleinden
@@ -4365,22 +4365,22 @@ en worden ontsloten voor datateams binnen gemeenten. Zij kunnen hierop
 eigen queries uitvoeren, datasets samenstellen en data extraheren voor
 verdere verwerking in bijvoorbeeld een datawarehouse of dataplatform,
 zonder impact op de performance, stabiliteit en beschikbaarheid van de
-operationele processen en API’s.
+operationele processen en APIâ€™s.
 
 Daarnaast voorziet de roadmap van Common Ground-registraties in
-uitbreidingen waarmee data efficiënter en doelgerichter ontsloten kan
+uitbreidingen waarmee data efficiÃ«nter en doelgerichter ontsloten kan
 worden voor analyse- en rapportagedoeleinden. Hiervoor zijn
 verschillende implementatievarianten mogelijk:
 
-- **Bulk Data API (Data API)** Een API gericht op het in één keer
+- **Bulk Data API (Data API)** Een API gericht op het in Ã©Ã©n keer
   ontsluiten van volledige datasets of relevante deelverzamelingen
-  (bijvoorbeeld per domein of periode). Dit voorkomt inefficiënte
-  looping en maakt initiële vulling van een datawarehouse eenvoudiger en
+  (bijvoorbeeld per domein of periode). Dit voorkomt inefficiÃ«nte
+  looping en maakt initiÃ«le vulling van een datawarehouse eenvoudiger en
   betrouwbaarder.
 
 - **Delta API (wijzigingen sinds tijdstip X)** Een API die uitsluitend
   mutaties (inserts, updates, deletes) sinds een bepaald moment
-  retourneert. Dit ondersteunt efficiënte incrementele laadprocessen en
+  retourneert. Dit ondersteunt efficiÃ«nte incrementele laadprocessen en
   sluit aan bij gangbare datawarehouse-principes zoals change data
   capture (CDC).
 
@@ -4395,7 +4395,7 @@ verschillende implementatievarianten mogelijk:
   downloadbare datasets) die met minimale inspanning kunnen worden
   ingeladen in een datawarehouse.
 
-<img src="gitbook/media/media/image20.png"
+<img src="media/media/image20.png"
 style="width:6.28333in;height:4.18889in" />
 
 # Applicatiearchitectuur
@@ -4407,7 +4407,7 @@ informatie- en data-architectuur worden gerealiseerd met behulp van
 samenwerkende softwarecomponenten. Waar de voorgaande hoofdstukken
 beschrijven **wat** de dienstverlening is, **welke** informatie wordt
 beheerd en **hoe** gegevens logisch zijn georganiseerd, beschrijft dit
-hoofdstuk hoe deze uitgangspunten worden geïmplementeerd in applicaties,
+hoofdstuk hoe deze uitgangspunten worden geÃ¯mplementeerd in applicaties,
 services en interfaces.
 
 Dit hoofdstuk vormt daarmee de concrete uitwerking van de
@@ -4422,8 +4422,8 @@ architectuurprincipes:
 - [**Principe: Expliciete
   bedrijfslogica**](#principe-expliciete-bedrijfslogica)
 
-- [**Principe: Generiek vóór
-  specifiek**](#principe-generiek-vóór-specifiek)
+- [**Principe: Generiek vÃ³Ã³r
+  specifiek**](#principe-generiek-vÃ³Ã³r-specifiek)
 
 - [**Principe: Beleidsruimte als
   basis**](#principe-beleidsruimte-als-basis)
@@ -4453,15 +4453,15 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
 
 - **Connectiviteit** (aansluiting van afnemers en diensten)
 
-- **Diensten** (API’s)
+- **Diensten** (APIâ€™s)
 
 - **Gegevens** (registraties).
 
-  <img src="gitbook/media/media/image21.png"
+  <img src="media/media/image21.png"
   style="width:4.89063in;height:2.49226in" />
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden
-  in het onderdeel ‘Building Blocks’ verder toegelicht.
+  in het onderdeel â€˜Building Blocksâ€™ verder toegelicht.
 
 #### 
 
@@ -4489,13 +4489,13 @@ wordt geplaatst in de laag waarvoor zij primair verantwoordelijk is.
 Binnen de (historische) ontwikkeling van applicatie-architecturen zijn
 verschillende stijlen te onderscheiden:
 
-- **Monolithische architectuur:** Eén codebase en deployment. Eenvoudig
+- **Monolithische architectuur:** EÃ©n codebase en deployment. Eenvoudig
   te starten, maar beperkt schaalbaar en lastig aanpasbaar.
 
-- **Modulaire monoliet:** Logische scheiding binnen één applicatie.
-  Beter gestructureerd, maar nog steeds één deploybare eenheid.
+- **Modulaire monoliet:** Logische scheiding binnen Ã©Ã©n applicatie.
+  Beter gestructureerd, maar nog steeds Ã©Ã©n deploybare eenheid.
 
-- **Service-georiënteerde architectuur (SOA):** Services met centrale
+- **Service-georiÃ«nteerde architectuur (SOA):** Services met centrale
   orkestratie (bijv. via ESB). Flexibeler, maar vaak complex door
   centrale afhankelijkheden.
 
@@ -4521,7 +4521,7 @@ realisatie van het [**Principe: (Micro)
 servicearchitectuur**](#principe-micro-servicearchitectuur). Een service
 wordt gekenmerkt door:
 
-- **Single Responsibility Boundary:** Een service ondersteunt één
+- **Single Responsibility Boundary:** Een service ondersteunt Ã©Ã©n
   duidelijke business capability
 
 - **Autonomie:** Services zijn zelfstandig te ontwikkelen, testen en
@@ -4538,7 +4538,7 @@ meerdere perspectieven:
 - **Business capabilities:** Wat de dienstverlening moet leveren vormt
   de basis
 
-- **Performance en belasting:** Verschillende loadprofielen → aparte
+- **Performance en belasting:** Verschillende loadprofielen â†’ aparte
   services
 
 - **Foutisolatie:** Kritische onderdelen worden gescheiden.
@@ -4553,15 +4553,15 @@ het:
 
 - Introduceren van nieuwe services.
 
-Dit maakt onderdeel uit van het architecturaal continuüm, waarin de
+Dit maakt onderdeel uit van het architecturaal continuÃ¼m, waarin de
 architectuur meegroeit met de organisatie en het platform.
 
 ### Criteria voor services
 
 Elke service in het platform moet voldoen aan de volgende criteria:
 
-- **Single purpose (één duidelijke verantwoordelijkheid) -** Elke
-  service heeft één afgebakende taak of business capability. Dit
+- **Single purpose (Ã©Ã©n duidelijke verantwoordelijkheid) -** Elke
+  service heeft Ã©Ã©n afgebakende taak of business capability. Dit
   voorkomt dat logica onnodig wordt verweven met andere functionaliteit
 
 - **Hergebruik binnen het platform -** Services interacteren met
@@ -4582,7 +4582,7 @@ Elke service in het platform moet voldoen aan de volgende criteria:
 
 De microservice-architectuur biedt de volgende voordelen:
 
-- Single purpose (één duidelijke verantwoordelijkheid): Elke service
+- Single purpose (Ã©Ã©n duidelijke verantwoordelijkheid): Elke service
   heeft een afgebakende taak
 
 - Technologische flexibiliteit: Teams kiezen zelf technologie per
@@ -4592,7 +4592,7 @@ De microservice-architectuur biedt de volgende voordelen:
 
 - Schaalbaarheid: Alleen zwaar belaste onderdelen worden opgeschaald
 
-- Veerkracht en foutisolatie: Storingen blijven beperkt tot één service
+- Veerkracht en foutisolatie: Storingen blijven beperkt tot Ã©Ã©n service
 
 - Beheersbare codebases: Kleinere systemen zijn beter te begrijpen
 
@@ -4600,7 +4600,7 @@ De microservice-architectuur biedt de volgende voordelen:
 
 - Continue levering (CI/CD): Snelle en veilige releases
 
-- Experimenteerbaarheid: Nieuwe functionaliteit kan geïsoleerd
+- Experimenteerbaarheid: Nieuwe functionaliteit kan geÃ¯soleerd
   ontwikkeld worden.
 
 De gekozen architectuur stelt ook eisen aan de organisatie en techniek:
@@ -4610,7 +4610,7 @@ De gekozen architectuur stelt ook eisen aan de organisatie en techniek:
 - Volwassen DevOps-teams: Teams zijn verantwoordelijk voor de volledige
   lifecycle
 
-- Gestandaardiseerde interfaces: API’s en events moeten uniform zijn
+- Gestandaardiseerde interfaces: APIâ€™s en events moeten uniform zijn
 
 - Observability: Logging, monitoring en tracing zijn noodzakelijk
 
@@ -4620,7 +4620,7 @@ De gekozen architectuur stelt ook eisen aan de organisatie en techniek:
 ## Samenwerking tussen services
 
 Binnen een microservice-architectuur is de manier waarop services
-samenwerken een cruciale ontwerpkeuze. De architectuur schrijft niet één
+samenwerken een cruciale ontwerpkeuze. De architectuur schrijft niet Ã©Ã©n
 mechanisme voor, maar een set van gestandaardiseerde interactiepatronen,
 die afhankelijk van de situatie worden toegepast.
 
@@ -4630,7 +4630,7 @@ Er zijn drie hoofdvormen van interactie tussen services:
 
 - **Synchroon (request/response)**
 
-  - Services communiceren direct via API’s en wachten op een antwoord.
+  - Services communiceren direct via APIâ€™s en wachten op een antwoord.
     Toepasbaar bij:
 
     - directe validatie en
@@ -4654,7 +4654,7 @@ Er zijn drie hoofdvormen van interactie tussen services:
 
 - **API-compositie**
 
-  - Meerdere services worden gecombineerd tot één samenhangende
+  - Meerdere services worden gecombineerd tot Ã©Ã©n samenhangende
     response. Toepasbaar bij:
 
     - Gebruikersinterfaces en
@@ -4680,7 +4680,7 @@ Binnen het platform worden verschillende patronen gecombineerd:
   Verzoekenpatroon)
 
 - Request/response interacties: Voor directe interacties tussen services
-  (bijv. GZAC ↔ OpenZaak)
+  (bijv. GZAC â†” OpenZaak)
 
 - Compositiepatronen (BFF / aggregatie): Voor het samenstellen van
   gegevens voor gebruikers of systemen (bijv. IKO - Integraal Klant en
@@ -4696,7 +4696,7 @@ Deze combinatie zorgt voor:
 
 Net als bij services zelf zijn interactiepatronen niet statisch. Het
 kiezen en ontwikkelen van patronen maakt onderdeel uit van het
-architecturaal continuüm, waarbij de samenwerking tussen services wordt
+architecturaal continuÃ¼m, waarbij de samenwerking tussen services wordt
 verbeterd op basis van praktijkervaring. De concrete toepassing van
 patronen in betekenisvolle orkestratie wordt beschreven in [Toegepaste
 patronen](#toegepaste-patronen).
@@ -4713,7 +4713,7 @@ precieze invulling van individuele services zal daarbij in de tijd
 veranderen; de architectuurprincipes en verantwoordelijkheidsverdeling
 blijven leidend.
 
-<img src="gitbook/media/media/image22.png"
+<img src="media/media/image22.png"
 style="width:6.28333in;height:4.19375in" />
 
 Om deze samenhang duurzaam te borgen, is een gemeenschappelijke
@@ -4727,12 +4727,12 @@ van softwarecomponenten: building blocks.
 ## Building blocks (architectureel en solution)
 
 Binnen (enterprise) architectuur wordt onderscheid gemaakt tussen
-**Architectural Building Blocks (ABB’s)** en **Solution Building Blocks
-(SBB’s)**. Dit is een generiek architectuurprincipe dat ook binnen het
+**Architectural Building Blocks (ABBâ€™s)** en **Solution Building Blocks
+(SBBâ€™s)**. Dit is een generiek architectuurprincipe dat ook binnen het
 Platform Dienstverlening wordt toegepast.
 
 Een **Architectural Building Block (ABB)** beschrijft een generieke of
-abstracte specificatie van functionaliteit. ABB’s definiëren de
+abstracte specificatie van functionaliteit. ABBâ€™s definiÃ«ren de
 benodigde capabilities in termen van business-, informatie-, applicatie-
 en technologie-architectuur. Binnen dit kader wordt functionaliteit
 primair uitgedrukt als een **BusinessService**: een logisch afgebakende
@@ -4740,26 +4740,26 @@ dienst die waarde levert aan de business, onafhankelijk van de
 onderliggende implementatie.
 
 De concrete invulling van deze BusinessServices vindt plaats in
-**Solution Building Blocks (SBB’s)**. Dit zijn de gerealiseerde
+**Solution Building Blocks (SBBâ€™s)**. Dit zijn de gerealiseerde
 componenten binnen het platform, bestaande uit softwarecomponenten en/of
 configuraties die gezamenlijk de BusinessService implementeren.
 
-ABB’s worden binnen het platform op twee niveaus toegepast:
+ABBâ€™s worden binnen het platform op twee niveaus toegepast:
 
 1.  **Op het niveau van softwarecomponenten (services)**
 
-- ABB’s beschrijven hier de BusinessService en de bijbehorende
+- ABBâ€™s beschrijven hier de BusinessService en de bijbehorende
   functionele en architectonische eisen.
 
-- SBB’s zijn de concrete implementaties hiervan in de vorm van services
+- SBBâ€™s zijn de concrete implementaties hiervan in de vorm van services
   (bijv. registraties, proces- of integratieservices).
 
 2.  **Op het niveau van configuratie binnen componenten**
 
-- ABB’s beschrijven hier de functionele invulling van een
+- ABBâ€™s beschrijven hier de functionele invulling van een
   BusinessService binnen een component.
 
-- SBB’s zijn de concrete configuraties, zoals:
+- SBBâ€™s zijn de concrete configuraties, zoals:
 
   - Formulieren
 
@@ -4788,13 +4788,13 @@ Hiermee wordt geborgd dat:
 
 - Implementaties flexibel kunnen evolueren.
 
-ABB’s en SBB’s vormen daarmee de schakel tussen architectuur
+ABBâ€™s en SBBâ€™s vormen daarmee de schakel tussen architectuur
 (richtinggevend) en realisatie (concreet en configureerbaar).
 
-<img src="gitbook/media/media/image23.png"
+<img src="media/media/image23.png"
 style="width:6.28333in;height:4.18889in" />
 
-### Voorbeeld – Aanvragen van een uitkering
+### Voorbeeld â€“ Aanvragen van een uitkering
 
 De BusinessService **"Beoordelen uitkeringsaanvraag"** is een
 **Architectural Building Block (ABB)**. Deze beschrijft wat de
@@ -4813,26 +4813,26 @@ Hierdoor blijft de BusinessService hetzelfde, terwijl de
 softwarecomponenten of configuratie in de tijd kunnen veranderen zonder
 de architectuur aan te passen.
 
-## Architectural Building Blocks (ABB’s) en clusters
+## Architectural Building Blocks (ABBâ€™s) en clusters
 
 Architectural Building Blocks (ABB's) beschrijven generieke capabilities
 binnen het Platform Dienstverlening. Ze moeten tenslotte invulling geven
 aan de hele gemeentelijke dienstverlening. Een uitgangspunt voor de
-gemeentelijke processen zijn GEMMA’s applicatieservices. GEMMA biedt een
+gemeentelijke processen zijn GEMMAâ€™s applicatieservices. GEMMA biedt een
 overzicht van
 [referentiecomponenten](https://www.gemmaonline.nl/wiki/Overzicht_alle_referentiecomponenten)
 en de bijbehorende services die gerealiseerd kunnen worden. Waar
-GEMMA‑services vooral concrete softwarefuncties beschrijven, richten
-ABB’s zich op de onderliggende capabilities die in *alle* gemeentelijke
+GEMMAâ€‘services vooral concrete softwarefuncties beschrijven, richten
+ABBâ€™s zich op de onderliggende capabilities die in *alle* gemeentelijke
 domeinen terugkomen.
 
-### ABB’s per functionele laag
+### ABBâ€™s per functionele laag
 
 De architectuur maakt het mogelijk om generiek te ontwerpen en
 domeinoverstijgend te sturen. We clusteren functionaliteiten globaal op
 het vijflagenmodel.
 
-#### Laag 5 – Interactie
+#### Laag 5 â€“ Interactie
 
 - **Functionaliteit:** Portalen, formulieren, klant- en objectbeelden,
   medewerkerinterfaces, en beheerinterfaces.
@@ -4851,12 +4851,12 @@ het vijflagenmodel.
   - Maakt gebruik van onderliggende proces- en dataservices, zonder deze
     te dupliceren.
 
-#### Laag 4 – Procesinrichting
+#### Laag 4 â€“ Procesinrichting
 
 - **Functionaliteit:** Workflow, procesorkestratie, taakafhandeling,
   casusregie, besluitvorming en business rules.
 
-- **Doel:** Uitvoeren, coördineren en bewaken van gemeentelijke
+- **Doel:** Uitvoeren, coÃ¶rdineren en bewaken van gemeentelijke
   dienstverlening.
 
 - **Functionele eisen:**
@@ -4872,7 +4872,7 @@ het vijflagenmodel.
   - Maakt uitsluitend gebruik van gegevens uit de registraties en
     dataservices.
 
-#### Laag 3 – Connectiviteit
+#### Laag 3 â€“ Connectiviteit
 
 - **Functionaliteit**: API's, FSC, events, notificaties, omnichannel
   communicatie.
@@ -4890,7 +4890,7 @@ het vijflagenmodel.
 
   - Borgt interoperabiliteit door gebruik van open standaarden.
 
-#### Laag 2 – Diensten
+#### Laag 2 â€“ Diensten
 
 - **Functionaliteit**: Dataservices voor klanten, zaken, producten,
   verzoeken, berichten, taken en referentiegegevens.
@@ -4908,7 +4908,7 @@ het vijflagenmodel.
 
   - Ontsluit gegevens onafhankelijk van de onderliggende registratie.
 
-#### Laag 1 – Registraties
+#### Laag 1 â€“ Registraties
 
 - **Functionaliteit**: Klant-, zaak-, product- en domeinregistraties,
   referentielijsten en externe bronnen.
@@ -4927,15 +4927,15 @@ het vijflagenmodel.
   - Stellen gegevens uitsluitend beschikbaar via gestandaardiseerde
     dataservices.
 
-### Crossfunctionele Architectural Building Blocks (ABB’s) 
+### Crossfunctionele Architectural Building Blocks (ABBâ€™s) 
 
 Naast de vijf lagen kent het platform een aantal doorsnijdende
 Architectural Building Blocks. Deze leveren generieke functionaliteit
-die door meerdere lagen wordt gebruikt en zijn daarom niet aan één
+die door meerdere lagen wordt gebruikt en zijn daarom niet aan Ã©Ã©n
 specifieke laag toe te wijzen. Dit gaat om: Identity & Accessmanagement,
 Autorisatie, Logging, Auditing, Security,Privacy, Monitoring en
 Observability. Deze worden deels in de technische architectuur
-gerealiseerd (Haven+) en deels in ABB’s die haaks op het vijflagenmodel
+gerealiseerd (Haven+) en deels in ABBâ€™s die haaks op het vijflagenmodel
 staan.
 
 #### Functionele eisen:
@@ -4950,54 +4950,54 @@ staan.
 - Faciliteren omnichannel communicatie, notificaties en generieke
   platformdiensten.
 
-  <img src="gitbook/media/media/image24.png"
+  <img src="media/media/image24.png"
   style="width:6.3in;height:3.42778in" />
 
-### Specificatie ABB’s niveau 2 
+### Specificatie ABBâ€™s niveau 2 
 
-Op niveau 2 worden ABB’s uitgewerkt als configuraties binnen
+Op niveau 2 worden ABBâ€™s uitgewerkt als configuraties binnen
 componenten, waarmee de generieke services uit niveau 1 concreet worden
 ingevuld. Het gaat hier om de vertaling van een BusinessService naar
 configureerbare elementen zoals formulieren, BPMN-processen, business
 rules en gegevensmodellen.
 
-Het is mogelijk deze ABB’s structureel te mappen op de
-GEMMA-applicatieservices, zie daarvoor [BIJLAGE 1 - ABB’s GEMMA en
+Het is mogelijk deze ABBâ€™s structureel te mappen op de
+GEMMA-applicatieservices, zie daarvoor [BIJLAGE 1 - ABBâ€™s GEMMA en
 Platform
 Dienstverlening](#bijlage---abbs-gemma-en-platform-dienstverlening).
 
-## Solution Building Blocks (SBB’s) en mapping op ABB’s
+## Solution Building Blocks (SBBâ€™s) en mapping op ABBâ€™s
 
-Solution Building Blocks (SBB’s) vormen de concrete implementatie in het
-platform van de generieke capabilities zoals gedefinieerd in de ABB’s
+Solution Building Blocks (SBBâ€™s) vormen de concrete implementatie in het
+platform van de generieke capabilities zoals gedefinieerd in de ABBâ€™s
 (niveau 1).
 
 Ondanks het uitgangspunt dat er geen functionele dubbelingen zijn, hoeft
-de relatie tussen ABB’s en SBB’s niet 1:1 te zijn:
+de relatie tussen ABBâ€™s en SBBâ€™s niet 1:1 te zijn:
 
-- Één ABB kan door één of meerdere SBB’s worden gerealiseerd
+- Ã‰Ã©n ABB kan door Ã©Ã©n of meerdere SBBâ€™s worden gerealiseerd
   (bijvoorbeeld bij functionele opsplitsing of specialisatie)
 
-- Één SBB kan meerdere ABB’s realiseren (bijvoorbeeld bij
+- Ã‰Ã©n SBB kan meerdere ABBâ€™s realiseren (bijvoorbeeld bij
   platformcomponenten met bredere functionaliteit).
 
 Per cluster en ABB bestaat - op moment van schrijven - de volgende
 conceptuele mapping:
 
-#### Laag 5 – Interactie
+#### Laag 5 â€“ Interactie
 
-| **ABB (service die…)** | **Primaire SBB** |
+| **ABB (service dieâ€¦)** | **Primaire SBB** |
 |----|----|
 | Gebruikersinteractie via portalen faciliteert | NL Portal |
 | Self-service functionaliteit biedt voor inwoners en ondernemers | NL Portal |
 | Digitale formulieren aanbiedt en verwerkt | Open Formulieren |
-| Geïntegreerde klant- en objectbeelden toont | IKO |
+| GeÃ¯ntegreerde klant- en objectbeelden toont | IKO |
 | Procesuitvoering en werkvoorraad visualiseert voor medewerkers | GZAC (UI) |
 | Functioneel beheer en configuratie ondersteunt | OpenBeheer |
 
-#### Laag 4 – Procesinrichting
+#### Laag 4 â€“ Procesinrichting
 
-| **ABB (service die…)**             | **Primaire SBB**    |
+| **ABB (service dieâ€¦)**             | **Primaire SBB**    |
 |------------------------------------|---------------------|
 | Procesflows orkestreert en bewaakt | GZAC                |
 | Besluitvorming ondersteunt         | GZAC                |
@@ -5007,18 +5007,18 @@ conceptuele mapping:
 
 #### 
 
-#### Laag 3 – Connectiviteit
+#### Laag 3 â€“ Connectiviteit
 
-| **ABB (service die…)**                               | **Primaire SBB** |
+| **ABB (service dieâ€¦)**                               | **Primaire SBB** |
 |------------------------------------------------------|------------------|
 | Gegevensuitwisseling tussen organisaties faciliteert | OpenFSC          |
 | Notificaties publiceert en distribueert              | OpenNotificaties |
 | Omnichannel communicatie verzorgt                    | NotifyNL OMC     |
 | Logging, auditing en tracing faciliteert             | Platform         |
 
-#### Laag 2 – Diensten
+#### Laag 2 â€“ Diensten
 
-| **ABB (service die…)**                | **Primaire SBB**      |
+| **ABB (service dieâ€¦)**                | **Primaire SBB**      |
 |---------------------------------------|-----------------------|
 | Klantgegevens valideert en ontsluit   | OpenKlant API         |
 | Zaakgegevens valideert en ontsluit    | OpenZaak API          |
@@ -5029,9 +5029,9 @@ conceptuele mapping:
 | Referentiegegevens ontsluit           | Referentielijsten API |
 | Generieke objecten ontsluit           | Objects API           |
 
-#### Laag 1 – Registraties
+#### Laag 1 â€“ Registraties
 
-| **ABB (service die…)**                          | **Primaire SBB**        |
+| **ABB (service dieâ€¦)**                          | **Primaire SBB**        |
 |-------------------------------------------------|-------------------------|
 | Personen en organisaties registreert            | OpenKlant Registratie   |
 | Zaken en procescontext vastlegt                 | OpenZaak Registratie    |
@@ -5043,31 +5043,31 @@ conceptuele mapping:
 
 #### Doorsnijdende voorzieningen
 
-| **ABB (service die…)** | **Primaire SBB** |
+| **ABB (service dieâ€¦)** | **Primaire SBB** |
 |----|----|
 | Duurzame toegankelijkheid en bewaartermijnen beheert | Registraties, OpenArchiefBeheer |
 | Authenticatie en autorisatie verzorgt | Keycloak / Autorisatieservice |
 | Monitoring en observability ondersteunt | Platformvoorzieningen |
 | Privacy, security en compliance ondersteunt | Platformvoorzieningen |
 
-De SBB’s op niveau 1 staan ook verzameld onder [Overzicht
+De SBBâ€™s op niveau 1 staan ook verzameld onder [Overzicht
 services](#bijlage---overzicht-services). Een voorbeeldmapping:
 
-<img src="gitbook/media/media/image25.png"
+<img src="media/media/image25.png"
 style="width:6.29167in;height:3.39583in" />
 
 De bovenstaande mapping maakt inzichtelijk hoe de verschillende
 capabilities in de huidige situatie zijn belegd over componenten.
 Daarbij valt op dat GZAC een duidelijk zwaartepunt vormt binnen het
-procescluster, waar het meerdere ABB’s rondom processturing,
+procescluster, waar het meerdere ABBâ€™s rondom processturing,
 taakafhandeling en besluitvorming realiseert. Dit sluit aan bij het
 uitgangspunt dat het onderliggende Operaton-framework modellering biedt
 voor een breed scala aan usecases.
 
 Tegelijkertijd is in de praktijk zichtbaar dat GZAC als
 interactiecomponent beperkingen kent, bijvoorbeeld op het gebied van
-casusregie. Dit leidt tot de ontwikkeling van aanvullende SBB’s en een
-verdere specificatie van ABB’s om deze functionaliteit beter en
+casusregie. Dit leidt tot de ontwikkeling van aanvullende SBBâ€™s en een
+verdere specificatie van ABBâ€™s om deze functionaliteit beter en
 explicieter te beleggen.
 
 Een vergelijkbare ontwikkeling speelt binnen de Doorsnijdende
@@ -5079,9 +5079,9 @@ mapping is daarmee geen eindbeeld, maar een hulpmiddel om de
 architectuur gericht door te ontwikkelen en verantwoordelijkheden verder
 te verduidelijken.
 
-#### SBB’s niveau 2
+#### SBBâ€™s niveau 2
 
-De identificatie en realisatie van SBB’s op niveau 2 (vertaling van een
+De identificatie en realisatie van SBBâ€™s op niveau 2 (vertaling van een
 BusinessService naar configureerbare elementen zoals formulieren,
 BPMN-processen, business rules en gegevensmodellen) gebeurt op basis van
 businessbehoefte. Zie ook [Samenwerking en uitwisseling
@@ -5224,11 +5224,11 @@ Platform Dienstverlening worden aangeroepen, bijvoorbeeld voor:
 
 - het aansturen van dynamische formulieren en gebruikersinterfaces.
 
-  Hierdoor ontstaat één centrale plaats waar beslislogica wordt beheerd,
+  Hierdoor ontstaat Ã©Ã©n centrale plaats waar beslislogica wordt beheerd,
   terwijl processen, registraties en gebruikersinterfaces hiervan
   onafhankelijk kunnen evolueren.
 
-### Toepassing van ‘maatwerk’ (pro-code)
+### Toepassing van â€˜maatwerkâ€™ (pro-code)
 
 Wanneer configuratie onvoldoende is en maatwerk noodzakelijk blijkt,
 wordt eerst beoordeeld of de functionaliteit generiek toepasbaar is en
@@ -5248,7 +5248,7 @@ breiden zonder de kern van een service aan te passen.
 
 Een plugin is geschikt wanneer deze:
 
-- **Functioneel afgebakend** is (klein tot middelgroot en gericht op één
+- **Functioneel afgebakend** is (klein tot middelgroot en gericht op Ã©Ã©n
   specifieke uitbreiding
 
 - **Beperkt complex** is (aansluit op bestaande extensiepunten)
@@ -5291,7 +5291,7 @@ logisch gescheiden onderdelen:
 - De **dataservice (API)** waarmee deze gegevens gestandaardiseerd
   beschikbaar worden gesteld.
 
-  <img src="gitbook/media/media/image26.png"
+  <img src="media/media/image26.png"
   style="width:6.29167in;height:3.54167in" />
 
 Processen communiceren uitsluitend met de dataservice; de registratie
@@ -5311,7 +5311,7 @@ De **registratie** bestaat uit:
 
   - De actuele en historische toestand van de geregistreerde gegevens.
     Iedere wijziging resulteert in een nieuwe state, waardoor zowel de
-    actuele situatie als de formele en materiële historie behouden
+    actuele situatie als de formele en materiÃ«le historie behouden
     blijven.
 
 - **Events**
@@ -5333,11 +5333,11 @@ De **registratie** bestaat uit:
     handelingsgedreven API-acties voor betekenisvolle mutaties op de
     registratie. Iedere API-actie valideert de handeling, autoriseert de
     uitvoering, legt de bijbehorende gebeurtenis en metadata vast,
-    creëert indien nodig een nieuwe state en publiceert notificaties. De
+    creÃ«ert indien nodig een nieuwe state en publiceert notificaties. De
     architectuur van deze API's wordt verder uitgewerkt in paragraaf
     **7.11**.
 
-    <img src="gitbook/media/media/image27.png"
+    <img src="media/media/image27.png"
     style="width:2.68485in;height:2.17003in" />
 
 ### Functionele eisen aan registraties
@@ -5385,7 +5385,7 @@ Registraties:
 
 Registraties moeten:
 
-- Beschikken over één generieke en gestandaardiseerde aansluitingsvorm
+- Beschikken over Ã©Ã©n generieke en gestandaardiseerde aansluitingsvorm
 
 - Zowel protocollair (bijv. API-standaarden, eventformaten) als qua type
   aanroep (raadplegen, muteren, events) uniform zijn
@@ -5416,7 +5416,7 @@ context van registraties.
 
 De registratiearchitectuur sluit aan bij deze uitgangspunten. De
 verschillende UBB-concepten worden niet als afzonderlijke administraties
-geïmplementeerd, maar gerealiseerd door de samenhang tussen
+geÃ¯mplementeerd, maar gerealiseerd door de samenhang tussen
 **handelingsgedreven API-acties**, **events**, **states** en
 **metadata**.
 
@@ -5435,7 +5435,7 @@ Voorbeelden van gestandaardiseerde handelingen zijn:
 - **Corrigeren** (herstellen van onjuiste gegevens zonder verlies van
   historie);
 
-- **Herzien** (herstellen van één of meer historische states);
+- **Herzien** (herstellen van Ã©Ã©n of meer historische states);
 
 - **Ongedaan maken** (terugdraaien van een eerder uitgevoerde
   handeling);
@@ -5497,7 +5497,7 @@ informatie.
 Een betrouwbare registratie begint bij een eenduidig informatiemodel.
 Alleen wanneer objecten, eigenschappen en relaties op een consistente
 wijze zijn gemodelleerd, kunnen gegevens betrouwbaar worden
-uitgewisseld, hergebruikt en geïnterpreteerd door verschillende
+uitgewisseld, hergebruikt en geÃ¯nterpreteerd door verschillende
 processen, applicaties en organisaties. Datamodellering vormt daarmee de
 basis voor interoperabiliteit, semantische consistentie en duurzame
 gegevensuitwisseling.
@@ -5515,7 +5515,7 @@ conformeert aan het MIM**:**
 
 - Het informatiemodel beschrijft primair de werkelijkheid (objecten,
   eigenschappen en relaties) en niet de technische implementatie.
-  Technische structuren zoals tabellen, JSON of API’s zijn een afgeleide
+  Technische structuren zoals tabellen, JSON of APIâ€™s zijn een afgeleide
   van dit model.
 
 <!-- -->
@@ -5553,15 +5553,15 @@ uitgewerkt.
 - **Constraints en validatieregels** maken onderdeel uit van het
   datamodel. Dit betreft zowel structurele regels (zoals cardinaliteit
   en verplichtheid) als inhoudelijke regels. Deze worden niet
-  uitsluitend in applicatielogica geïmplementeerd.
+  uitsluitend in applicatielogica geÃ¯mplementeerd.
 
 - Het datamodel is **technologie-onafhankelijk opgesteld**. Keuzes voor
-  databases, datastructuren of uitwisselingsformaten beïnvloeden het
+  databases, datastructuren of uitwisselingsformaten beÃ¯nvloeden het
   model niet, maar volgen eruit.
 
 - Het model is ingericht op **interoperabiliteit en herbruikbaarheid**.
   Dit betekent dat het model begrijpelijk en toepasbaar moet zijn buiten
-  de context van één specifieke registratie of implementatie.
+  de context van Ã©Ã©n specifieke registratie of implementatie.
 
 - Het datamodel moet **zelfstandig interpreteerbaar** zijn, zonder
   afhankelijkheid van kennis van de technische implementatie of
@@ -5588,8 +5588,8 @@ typen onderscheiden.
 
 - **System API**
 
-  - Een System API ontsluit één registratie of bronvoorziening. Zij
-    vormt de gestandaardiseerde toegang tot gegevens binnen één
+  - Een System API ontsluit Ã©Ã©n registratie of bronvoorziening. Zij
+    vormt de gestandaardiseerde toegang tot gegevens binnen Ã©Ã©n
     afgebakend domein.
 
   - Binnen deze architectuur worden twee varianten onderscheiden:
@@ -5614,7 +5614,7 @@ typen onderscheiden.
     een specifiek kanaal of gebruikersgroep. Zij combineert bestaande
     API's zonder eigenaar te worden van gegevens of proceslogica.
 
-  - Er is – vooralsnog – geen usecase voor experience API’s op
+  - Er is â€“ vooralsnog â€“ geen usecase voor experience APIâ€™s op
     registraties; via IKO (Integraal Klant- en Objectbeeld) kan via de
     BFF wel een experience-API opgebouwd worden.
 
@@ -5644,7 +5644,7 @@ Handelingsgedreven API's:
 - Maken de businessintentie expliciet.
 
 - Centraliseren validaties, statustransities en businessregels binnen
-  één handeling.
+  Ã©Ã©n handeling.
 
 - Verminderen het aantal technische interacties tussen afnemer en
   platform.
@@ -5846,7 +5846,7 @@ Een request bevat minimaal:
 
 **Dataverwerking *binnen* laag 4/5**
 
-Wanneer een service op de proces- en interactielaag – zoals GZAC –
+Wanneer een service op de proces- en interactielaag â€“ zoals GZAC â€“
 gegevens verwerkt in een eigen servicedatabase of cache, vallen deze
 verwerkingen niet automatisch onder de centrale verwerkingslogging zoals
 ingericht rond interacties met registraties. De verantwoordelijkheid
@@ -5940,7 +5940,7 @@ Authenticatie wordt centraal verzorgd door Keycloak als Identity
 Provider (IdP). Dit omvat:
 
 - Authenticatie van gebruikers (bijv. via DigiD, eHerkenning of andere
-  IdP’s)
+  IdPâ€™s)
 
 - Uitgifte van tokens (bijv. OAuth2 / OpenID Connect)
 
@@ -5965,12 +5965,12 @@ voor digitale identificatie en attributenuitwisseling binnen Europa.
 Autorisatie *tussen* services wordt primair gerealiseerd op **laag 3
 (integratie- en servicelaag)** via de FSC. Binnen de FSC worden
 afspraken (contracten) vastgelegd tussen dienstaanbieders en afnemers.
-Toegang tot API’s wordt daarbij gecontroleerd op basis van deze
+Toegang tot APIâ€™s wordt daarbij gecontroleerd op basis van deze
 contracten en technisch afgedwongen met behulp van tokens (bijvoorbeeld
 JWT). Hierdoor is geborgd dat alleen geautoriseerde afnemers gebruik
 kunnen maken van specifieke services.
 
-Binnen afnemende services op **laag 4 en 5** — zoals KISS en GZAC —
+Binnen afnemende services op **laag 4 en 5** â€” zoals KISS en GZAC â€”
 wordt aanvullende autorisatie ingericht op basis van rollen en rechten.
 Dit betekent dat gebruikers binnen deze applicaties alleen toegang
 hebben tot functionaliteiten en gegevens die passen bij hun rol.
@@ -6027,7 +6027,7 @@ organisaties. Dit betekent dat:
   en is ook vastgelegd als (kandidaat) **toegepast patroon** in het
   onderdeel [Toegepaste patronen](#toegepaste-patronen).
 
-<img src="gitbook/media/media/image28.png"
+<img src="media/media/image28.png"
 style="width:6.29167in;height:2.625in" />
 
 # Toegepaste patronen
@@ -6049,7 +6049,7 @@ taak of het verzenden van een bericht.
 
 Een patroon bestaat daarbij uit een samenhang van registraties, API's,
 notificaties en procescomponenten die volgens vaste afspraken
-samenwerken. Een patroon kan gebruikmaken van één of meerdere
+samenwerken. Een patroon kan gebruikmaken van Ã©Ã©n of meerdere
 interactievormen. Zo combineert het Verzoekenpatroon bijvoorbeeld
 a-synchrone notificaties voor de registratie van een verzoek met
 synchrone API-calls voor de verdere procesafhandeling.
@@ -6070,7 +6070,7 @@ De belangrijkste uitgangspunten zijn:
 
 - Componenten publiceren gebeurtenissen; zij kennen hun afnemers niet.
 
-- Componenten ontvangen notificaties via abonnementen op één of meer
+- Componenten ontvangen notificaties via abonnementen op Ã©Ã©n of meer
   kanalen.
 
 - Notificaties bevatten uitsluitend verwijzingen naar gewijzigde
@@ -6194,7 +6194,7 @@ OMC/Notify:
 
 - Haalt berichtgegevens op.
 
-- Bepaalt – op basis van klantgegevens (KlantenAPI) via welk kanaal het
+- Bepaalt â€“ op basis van klantgegevens (KlantenAPI) via welk kanaal het
   bericht moet worden verzonden
 
 - Verzorgt de daadwerkelijke verzending.
@@ -6223,7 +6223,7 @@ contextafhankelijk uit te voeren.
 Het uitgangspunt is dat iedere service verantwoordelijk blijft voor zijn
 eigen gegevens en functionaliteit, maar autorisatiebeslissingen
 delegeert aan de centrale autorisatievoorziening. Hierdoor worden
-autorisatieregels éénmaal beheerd en platformbreed toegepast.
+autorisatieregels Ã©Ã©nmaal beheerd en platformbreed toegepast.
 
 Het patroon bestaat uit de volgende stappen:
 
@@ -6244,7 +6244,7 @@ Het patroon bestaat uit de volgende stappen:
   De service vraagt via de AuthZEN-interface een autorisatiebeslissing
   op bij de centrale Policy Decision Point (PDP). Daarbij worden
   beleidsregels uit het Policy Administration Point (PAP) toegepast,
-  aangevuld met gegevens uit één of meer Policy Information Points
+  aangevuld met gegevens uit Ã©Ã©n of meer Policy Information Points
   (PIP).
 
 - **Afdwingen van de beslissing**  
@@ -6283,7 +6283,7 @@ OpenTelemetry (OTel) vormt de technische standaard voor het vastleggen
 van logs, traces en events over de gehele keten. Het **Logboek
 Dataverwerkingen (LDV)** bouwt hierop voort door deze technische logging
 te verrijken met informatie over doelbinding, grondslag en de
-uitgevoerde gegevensverwerking. Hierdoor ontstaat één samenhangend beeld
+uitgevoerde gegevensverwerking. Hierdoor ontstaat Ã©Ã©n samenhangend beeld
 van een gegevensverwerking, ongeacht hoeveel services daarbij betrokken
 zijn.
 
@@ -6310,7 +6310,7 @@ Het patroon bestaat uit de volgende stappen:
   vastgelegd.
 
 - **Registratie in het Logboek Dataverwerkingen**  
-  Alle relevante gebeurtenissen worden samengebracht in één
+  Alle relevante gebeurtenissen worden samengebracht in Ã©Ã©n
   platformbreed Logboek Dataverwerkingen. Hierdoor ontstaat een complete
   en herleidbare registratie van de uitgevoerde gegevensverwerking.
 
@@ -6377,7 +6377,7 @@ De voorgaande paragrafen beschrijven patronen voor de samenwerking
 tussen services binnen het Platform Dienstverlening. In de praktijk
 bevindt elke gemeente zich reeds in een uitgangssituatie. Bestaande
 applicaties, contracten en investeringen maken dat de doelarchitectuur
-niet altijd in één stap kan worden gerealiseerd.
+niet altijd in Ã©Ã©n stap kan worden gerealiseerd.
 
 Om gemeenten hierin te ondersteunen onderscheidt het Platform
 Dienstverlening twee referentie-implementatiepatronen. Beide patronen
@@ -6387,8 +6387,8 @@ wordt ingepast tijdens de transitie.
 
 | **Patroon** | **Beschrijving** | **Voorbeeld** |
 |----|----|----|
-| **Patroon A – Volledig Platform Dienstverlening** | Alle lagen van het vijflagenmodel worden gerealiseerd met componenten conform de Common Ground-architectuur. | Een klachtenproces wordt volledig opgebouwd uit formulieren, procescomponenten, FSC, registraties, dataservices en omnichannelvoorzieningen. |
-| **Patroon B – Hybride implementatie** | De gegevenslaag en connectiviteitslaag volgen de Common Ground-architectuur; de proceslaag wordt (tijdelijk) ingevuld door een bestaande SaaS- of legacy-oplossing. | De aanvraag van een paspoort wordt afgehandeld in een bestaande zaaksysteemcomponent, terwijl gegevens, formulieren, API's en communicatie via het Platform Dienstverlening verlopen. |
+| **Patroon A â€“ Volledig Platform Dienstverlening** | Alle lagen van het vijflagenmodel worden gerealiseerd met componenten conform de Common Ground-architectuur. | Een klachtenproces wordt volledig opgebouwd uit formulieren, procescomponenten, FSC, registraties, dataservices en omnichannelvoorzieningen. |
+| **Patroon B â€“ Hybride implementatie** | De gegevenslaag en connectiviteitslaag volgen de Common Ground-architectuur; de proceslaag wordt (tijdelijk) ingevuld door een bestaande SaaS- of legacy-oplossing. | De aanvraag van een paspoort wordt afgehandeld in een bestaande zaaksysteemcomponent, terwijl gegevens, formulieren, API's en communicatie via het Platform Dienstverlening verlopen. |
 
 #### Duiding
 
@@ -6406,7 +6406,7 @@ verschillen in de wijze waarop deze wordt bereikt.
   architectuur van het Platform Dienstverlening. Hierdoor kan
   stapsgewijs worden toegewerkt naar Patroon A.
 
-### Patroon A – Volledige platformimplementatie
+### Patroon A â€“ Volledige platformimplementatie
 
 Binnen Patroon A worden processen volledig gerealiseerd met de
 componenten van het Platform Dienstverlening. Zowel de interactie,
@@ -6444,11 +6444,11 @@ uitgefaseerd.
 
   - Vereist volledige migratie van processen en gegevens.
 
-    <img src="gitbook/media/media/image29.png"
+    <img src="media/media/image29.png"
     style="width:3.54375in;height:4.55972in"
     alt="Afbeelding met tekst, schermopname, diagram, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
-### Patroon B – Hybride implementatie
+### Patroon B â€“ Hybride implementatie
 
 Patroon B is bedoeld voor situaties waarin bestaande SaaS- of
 legacy-oplossingen voorlopig gehandhaafd blijven. De procesuitvoering
@@ -6500,20 +6500,20 @@ Hierdoor ontstaat een hybride architectuur waarin:
 - Gefaseerd overnemen van functionaliteit totdat de bestaande applicatie
   kan worden uitgefaseerd.
 
-<img src="gitbook/media/media/image30.png"
+<img src="media/media/image30.png"
 style="width:3.77612in;height:2.64633in"
 alt="Afbeelding met tekst, schermopname, lijn, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
-## Registratiestrategie: één bron per informatiedomein
+## Registratiestrategie: Ã©Ã©n bron per informatiedomein
 
 Een belangrijk uitgangspunt binnen het Platform Dienstverlening is dat
-iedere organisatie voor ieder generiek informatiedomein één primaire
-registratie gebruikt. Voor zaakgegevens betekent dit dat binnen één
-gemeente wordt gestreefd naar **één centraal zaakregister**, waarop alle
+iedere organisatie voor ieder generiek informatiedomein Ã©Ã©n primaire
+registratie gebruikt. Voor zaakgegevens betekent dit dat binnen Ã©Ã©n
+gemeente wordt gestreefd naar **Ã©Ã©n centraal zaakregister**, waarop alle
 processervices aansluiten. Hetzelfde uitgangspunt geldt voor andere
 generieke registraties, zoals klanten, producten en organisaties.
 
-- Door één registratie als bron te gebruiken ontstaat:
+- Door Ã©Ã©n registratie als bron te gebruiken ontstaat:
 
 - Een eenduidige bron van waarheid (single source of truth);
 
@@ -6543,7 +6543,7 @@ het Platform Dienstverlening:
 De technische architectuur (ook wel aangeduid als **Laag 0**) vormt de
 onderliggende laag van het Platform Dienstverlening . Deze laag voorziet
 in de infrastructuur en generieke technische voorzieningen waarop alle
-hogere lagen – van dataservices tot procesapplicaties – draaien.
+hogere lagen â€“ van dataservices tot procesapplicaties â€“ draaien.
 
 De principes van data-autonomie, open standaarden en Open Source, werken
 ook door in deze laag. Dit betekent dat de technische architectuur
@@ -6619,7 +6619,7 @@ De technische architectuur:
 - Maakt het mogelijk om applicaties en data onafhankelijk van specifieke
   leveranciers te beheren en te verplaatsen.
 
-Daarmee is deze laag een essentiële voorwaarde voor het realiseren van
+Daarmee is deze laag een essentiÃ«le voorwaarde voor het realiseren van
 de bredere architectuurprincipes van Common Ground, zonder deze
 inhoudelijk in te vullen.
 
@@ -6640,7 +6640,7 @@ is aangesloten op een groot aantal bestaande standaarden,
 referentiearchitecturen en open specificaties.
 
 Dit hoofdstuk bundelt de standaarden die richtinggevend of normatief
-zijn in één overzicht. Het vormt daarmee een recapitulatie en naslagwerk
+zijn in Ã©Ã©n overzicht. Het vormt daarmee een recapitulatie en naslagwerk
 voor architecten, ontwerpers en ontwikkelaars.
 
 | **Domein** | **Standaard** | **Toepassing** |
@@ -6687,7 +6687,7 @@ de scope van Common Ground valt en, zo ja, welke aansluitvoorwaarden van
 toepassing zijn. Hiervoor geldt het volgende onderscheid:
 
 - Processen die uitsluitend de interne bedrijfsvoering ondersteunen,
-  zoals bij HRM-, ERP- en financiële systemen, vallen in beginsel buiten
+  zoals bij HRM-, ERP- en financiÃ«le systemen, vallen in beginsel buiten
   de scope van Common Ground.
 
 - Processen met een directe of indirecte relatie met gemeentelijke
@@ -6696,13 +6696,13 @@ toepassing zijn. Hiervoor geldt het volgende onderscheid:
   oplossing waarmee een inwoner, ondernemer of organisatie rechtstreeks
   contact heeft met de gemeente, als om een oplossing die onderdeel is
   van het achterliggende dienstverleningsproces. Dit gaat niet zuiver
-  over het domein Dienstverlening, maar – potentieel – over oplossingen
+  over het domein Dienstverlening, maar â€“ potentieel â€“ over oplossingen
   in alle domeinen.
 
 Valt de oplossing binnen deze scope? Dan gelden de Common Ground
 aansluitvoorwaarden.
 
-<img src="gitbook/media/media/image31.png"
+<img src="media/media/image31.png"
 style="width:4.19959in;height:1.81232in" />
 
 ## Common Ground en Platform Dienstverlening
@@ -6719,7 +6719,7 @@ architectuur](https://dienstverleningsplatform.gitbook.io/platform-generieke-die
 en realiseert een ontkoppeld landschap van (micro)services volgens het
 model van Common Ground:
 
-<img src="gitbook/media/media/image32.png"
+<img src="media/media/image32.png"
 style="width:3.49626in;height:1.7859in" />
 
 Bij een nieuwe functionele behoefte (of een bestaande die ingevuld
@@ -6731,7 +6731,7 @@ ontwikkelen of een SaaS-oplossing aan te schaffen. Dit proces volgt een
 beslisboom waarin twee patronen worden onderscheiden, die hieronder
 worden toegelicht.
 
-<img src="gitbook/media/media/image33.png"
+<img src="media/media/image33.png"
 style="width:6.3in;height:1.3375in" />
 
 ### Patroon A: Realisatie in Platform Dienstverlening
@@ -6771,9 +6771,9 @@ aansluitvoorwaarden Common Ground](#aansluitvoorwaarden-patroon-b) als
 Alleen wanneer ontwikkeling als platformservice niet doelmatig of
 haalbaar is, bijvoorbeeld vanwege de complexiteit, beperkte generieke
 toepasbaarheid, beschikbare ontwikkelcapaciteit of gewenste
-implementatiesnelheid, wordt – tijdelijk – gekozen voor een
+implementatiesnelheid, wordt â€“ tijdelijk â€“ gekozen voor een
 SaaS-oplossing. Het is van belang dat deze ontwikkeling wordt
-geadresseerd bij de PO’s van het Platform, zodat parallel gewerkt wordt
+geadresseerd bij de POâ€™s van het Platform, zodat parallel gewerkt wordt
 aan doorontwikkeling en de capabilities beschikbaar komen.
 
 Als gekozen wordt voor een SaaS-oplossing is het vereist dat deze
@@ -6786,9 +6786,9 @@ de leverancier (of community) en maakt geen onderdeel uit van het
 Platform Dienstverlening. De applicatie maakt gebruik van de generieke
 voorzieningen van het platform, zoals registraties, dataservices, API's
 en integratievoorzieningen. Het Platform biedt hier ruimte voor in de
-vorm van generieke aansluitingen (“stekkers”) op de gegevenslaag.
+vorm van generieke aansluitingen (â€œstekkersâ€) op de gegevenslaag.
 
-<img src="gitbook/media/media/image34.png"
+<img src="media/media/image34.png"
 style="width:6.3in;height:2.65764in" />
 
 Leveranciers en communities behouden vrijheid in de inrichting en
@@ -6825,7 +6825,7 @@ volledige Gemeentelijk Gegevensmodel (GGM) hierin gerealiseerd.
 
 Op dit moment zijn de volgende generieke registraties beschikbaar:
 
-- Klanten (Partijen – inwoners en organisaties);
+- Klanten (Partijen â€“ inwoners en organisaties);
 
 - Zaken;
 
@@ -6851,13 +6851,13 @@ In ontwikkeling zijn registraties voor:
 Iedere aangesloten oplossing voldoet aan de volgende uitgangspunten voor
 de gegevenslaag:
 
-- **Eis** – Informatieobjecten die binnen het Platform Dienstverlening
+- **Eis** â€“ Informatieobjecten die binnen het Platform Dienstverlening
   worden **opgevraagd,** **vastgelegd of gemuteerd**, volgen het
   gegevensmodel en de metadatering van de betreffende registratie.
   Hiermee wordt geborgd dat wordt voldaan aan de eisen voor duurzame
   toegankelijkheid, informatiebeheer en interoperabiliteit.
 
-- **Eis** – Wanneer een oplossing verantwoordelijk is voor het
+- **Eis** â€“ Wanneer een oplossing verantwoordelijk is voor het
   **opvragen,** **vastleggen of muteren** van gegevens in een
   registratie, draagt zij er zorg voor dat deze registratie actueel,
   volledig en consistent blijft. De betreffende registratie blijft
@@ -6866,7 +6866,7 @@ de gegevenslaag:
 ### Gebruik van generieke registraties
 
 Wanneer een oplossing verantwoordelijk is voor het **opvragen,**
-**vastleggen of muteren** van gegevens binnen één van de onderstaande
+**vastleggen of muteren** van gegevens binnen Ã©Ã©n van de onderstaande
 domeinen, maakt zij gebruik van de daarvoor aangewezen generieke
 registratie of voorziening van het Platform Dienstverlening.
 
@@ -6905,19 +6905,19 @@ samenwerken met registraties, API's en andere platformvoorzieningen.
 
 #### Eisen
 
-- **Eis –** Aangesloten oplossingen integreren met Keycloak via OpenID
+- **Eis â€“** Aangesloten oplossingen integreren met Keycloak via OpenID
   Connect (OIDC) zodat gebruikers van het platform zonder aanvullende
-  authenticatiestappen toegang krijgen tot de aangesloten oplossing. 
+  authenticatiestappen toegang krijgen tot de aangesloten oplossing.Â 
 
-- **Eis –** De oplossing past de functionele en technische
+- **Eis â€“** De oplossing past de functionele en technische
   aansluitpatronen toe zoals beschreven in de Enterprisearchitectuur
   Platform Dienstverlening.
 
-- **Eis –** Gegevensuitwisseling tussen applicaties en registraties
+- **Eis â€“** Gegevensuitwisseling tussen applicaties en registraties
   vindt plaats via de voorgeschreven API-, interactie- en eventpatronen
   van het Platform Dienstverlening.
 
-- **Eis –** Bij het realiseren van nieuwe functionaliteit worden de
+- **Eis â€“** Bij het realiseren van nieuwe functionaliteit worden de
   architectuurprincipes en aansluitpatronen van het Platform
   Dienstverlening gevolgd.
 
@@ -6928,7 +6928,7 @@ worden geacht nieuwe generieke registraties en nieuwe versies van
 bestaande registraties tijdig te ondersteunen, zodat aangesloten
 applicaties compatibel blijven met de referentiearchitectuur.
 
-- **Eis –** Wanneer binnen het Platform Dienstverlening een voor de
+- **Eis â€“** Wanneer binnen het Platform Dienstverlening een voor de
   oplossing relevante nieuwe generieke registratie of een nieuwe versie
   van een bestaande registratie de status **'In gebruik'** bereikt,
   ondersteunt de leverancier deze registratie uiterlijk zes maanden
@@ -6941,7 +6941,7 @@ worden waar mogelijk rechtstreeks geraadpleegd vanuit de authentieke
 registratie. Het structureel dupliceren van gegevens wordt zoveel
 mogelijk voorkomen.
 
-- **Wens –** Gegevens die via gestandaardiseerde API's realtime
+- **Wens â€“** Gegevens die via gestandaardiseerde API's realtime
   beschikbaar zijn vanuit een registratie of andere bronvoorziening
   worden niet structureel gekopieerd of structureel lokaal opgeslagen.
   Bij de uitvoering van een handeling in een afhandelcomponent worden de
@@ -6954,15 +6954,15 @@ Naast de gegevenslaag maakt iedere aangesloten oplossing gebruik van de
 generieke platformvoorzieningen voor gegevensuitwisseling,
 observability, authenticatie en autorisatie.
 
-- **Eis** – Communicatie met andere componenten verloopt via
+- **Eis** â€“ Communicatie met andere componenten verloopt via
   [Federatieve Service Connectiviteit
   (FSC).](https://docs.open-fsc.nl/introduction)
 
-- **Eis** – Gebeurtenissen worden geconsumeerd via **Open
+- **Eis** â€“ Gebeurtenissen worden geconsumeerd via **Open
   Notificaties**, conform het notificatiepatroon ([Open Notificaties
   GitHub](https://github.com/open-zaak/open-notificaties)).
 
-- **Eis** – Logging en telemetry volgen
+- **Eis** â€“ Logging en telemetry volgen
   [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/).
 
 #### Platformbrede voorzieningen
@@ -6971,13 +6971,13 @@ De onderstaande platformvoorzieningen bevinden zich nog in ontwikkeling.
 Vanaf zes maanden nadat een voorziening de status **'In gebruik'** heeft
 bereikt, gelden de volgende aanvullende aansluitvoorwaarden:
 
-- [OpenFTV/AuthZEN](https://vng-realisatie.github.io/ftv/) – Autorisatie
+- [OpenFTV/AuthZEN](https://vng-realisatie.github.io/ftv/) â€“ Autorisatie
   maakt gebruik van de centrale voorziening voor federatieve
   authenticatie en autorisatie
 
 - [Logboek
   Dataverwerkingen](https://github.com/Logius-standaarden/logboek-dataverwerkingen)
-  – De oplossing registreert gegevensverwerkingen via het centrale
+  â€“ De oplossing registreert gegevensverwerkingen via het centrale
   Logboek Dataverwerkingen.
 
 ## Aanvullende eisen voor platformservices
@@ -6988,7 +6988,7 @@ applicatie wordt een platformservice opgenomen in de
 referentiearchitectuur, valt deze onder de architectuurgovernance van
 het platform en wordt zij gezamenlijk beheerd en doorontwikkeld.
 
-<img src="gitbook/media/media/image35.png"
+<img src="media/media/image35.png"
 style="width:4.13027in;height:2.72847in" />
 
 Om die reden gelden voor platformservices, naast de (niet-)functionele
@@ -7008,7 +7008,7 @@ ingezet binnen een cloud-native Haven-infrastructuur en bijdragen aan
 een uniforme referentiearchitectuur.
 
 Gemeenten willen platformservices van verschillende leveranciers zonder
-maatwerk kunnen combineren binnen één samenhangend platform. Daarom
+maatwerk kunnen combineren binnen Ã©Ã©n samenhangend platform. Daarom
 worden eisen gesteld aan onder meer architectuur, hergebruik van
 bestaande voorzieningen, releasebeheer, deployment, security,
 observability, documentatie, registraties, API's en runtime-gedrag. Door
@@ -7037,14 +7037,14 @@ Dienstverlening. Afwijkingen zijn uitsluitend toegestaan wanneer deze
 vooraf zijn gemotiveerd en door het Platformmanagement zijn
 geaccepteerd.
 
-- **Eis** – De platformservice voldoet aan de architectuurprincipes
+- **Eis** â€“ De platformservice voldoet aan de architectuurprincipes
   zoals beschreven in de *Enterprisearchitectuur Common Ground &
   Platform Dienstverlening*.
 
-- **Eis** – De leverancier toont aan hoe de oplossing past binnen de
+- **Eis** â€“ De leverancier toont aan hoe de oplossing past binnen de
   referentiearchitectuur en de toegepaste architectuurpatronen.
 
-- **Eis** – Afwijkingen van de Enterprisearchitectuur worden vooraf
+- **Eis** â€“ Afwijkingen van de Enterprisearchitectuur worden vooraf
   gemotiveerd, vastgelegd en ter besluitvorming voorgelegd aan het
   Platformmanagement.
 
@@ -7060,16 +7060,16 @@ geaccepteerd.
 
 #### Eisen
 
-- Eis – De leverancier toont aan hoe de platformservice aansluit op de
+- Eis â€“ De leverancier toont aan hoe de platformservice aansluit op de
   businessarchitectuur en de architectuurprincipes van het Platform
   Dienstverlening.
 
-- Eis – De afbakening en verantwoordelijkheid van de platformservice
+- Eis â€“ De afbakening en verantwoordelijkheid van de platformservice
   sluiten aan op de businessarchitectuur en de daarin beschreven
   service-indeling.
 
-- Eis – Nieuwe functionaliteit wordt ontwikkeld conform het principe
-  Generiek vóór specifiek en draagt bij aan een samenhangend en
+- Eis â€“ Nieuwe functionaliteit wordt ontwikkeld conform het principe
+  Generiek vÃ³Ã³r specifiek en draagt bij aan een samenhangend en
   herbruikbaar platform.
 
 ### Registraties en API's
@@ -7085,25 +7085,25 @@ registraties en de architectuur van API's.
 
 **Eisen**
 
-- **Eis** – Nieuwe registraties worden uitsluitend gerealiseerd wanneer
+- **Eis** â€“ Nieuwe registraties worden uitsluitend gerealiseerd wanneer
   hiervoor een aantoonbare architectuurnoodzaak bestaat en bestaande
   registraties niet kunnen worden uitgebreid.
 
-- **Eis –** API's voldoen aan de binnen het Platform Dienstverlening
+- **Eis â€“** API's voldoen aan de binnen het Platform Dienstverlening
   toegepaste API-architectuur, standaarden en ontwerpprincipes zoals
   beschreven in de [Enterprisearchitectuur Platform
   Dienstverlening.](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur/applicatiearchitectuur/architectuur-van-registraties-en-api-laag-1-2)
 
-- **Eis –** REST API's voldoen aan de [REST API Design
+- **Eis â€“** REST API's voldoen aan de [REST API Design
   Rules](https://logius-standaarden.github.io/API-Design-Rules/)
 
-- **Eis –**API's worden gespecificeerd conform de [OpenAPI Specification
+- **Eis â€“**API's worden gespecificeerd conform de [OpenAPI Specification
   3.x](https://spec.openapis.org/oas/latest.html)
 
-- **Eis –** Eventgedreven integraties implementeren het [CloudEvents
+- **Eis â€“** Eventgedreven integraties implementeren het [CloudEvents
   NL-profiel](https://www.gemmaonline.nl/wiki/De_CloudEvents_standaard)
 
-- Eis – De leverancier toont aan dat registraties en API's aansluiten op
+- Eis â€“ De leverancier toont aan dat registraties en API's aansluiten op
   de referentiearchitectuur van het Platform Dienstverlening.
 
 ### Eisen aan releases
@@ -7115,7 +7115,7 @@ packaging, versiebeheer en testautomatisering.
 
 #### GitOps
 
-- **Eis** – Releasebeheer volgt de **GitOps-methodiek**
+- **Eis** â€“ Releasebeheer volgt de **GitOps-methodiek**
   (<https://opengitops.dev>) en is gebaseerd op een gedocumenteerd en
   beproefd proces.
 
@@ -7137,23 +7137,23 @@ packaging, versiebeheer en testautomatisering.
     gewenste toestand zoals vastgelegd in Git (*continuous
     reconciliation*) en herstellen afwijkingen automatisch.
 
-- **Eis** – Configuratiemanagement is volledig ingericht volgens de
+- **Eis** â€“ Configuratiemanagement is volledig ingericht volgens de
   GitOps-principes.
 
 #### Packaging en versiebeheer
 
-- **Eis** – De applicatie wordt verpakt en uitgerold met **Helm charts**
+- **Eis** â€“ De applicatie wordt verpakt en uitgerold met **Helm charts**
   (<https://helm.sh>) die voldoen aan de **Helm Chart Best Practices**
   (<https://helm.sh/docs/chart_best_practices/>).
 
-- **Eis** – Voor iedere release worden release notes opgesteld en actief
+- **Eis** â€“ Voor iedere release worden release notes opgesteld en actief
   beschikbaar gesteld, inclusief wijzigingen aan Helm charts.
 
-- **Eis** – Software, containerimages en Helm charts worden
+- **Eis** â€“ Software, containerimages en Helm charts worden
   versiebeheerd conform **Semantic Versioning 2.0.0 (SemVer)**
   (<https://semver.org>).
 
-- **Eis** – Vanaf versie **1.0.0** (*production ready*) worden minimaal
+- **Eis** â€“ Vanaf versie **1.0.0** (*production ready*) worden minimaal
   maandelijks nieuwe patch-releases van de containerimages beschikbaar
   gesteld, zodat beveiligingsupdates van het onderliggende
   besturingssysteem en gebruikte libraries tijdig kunnen worden
@@ -7161,27 +7161,27 @@ packaging, versiebeheer en testautomatisering.
 
 #### Containerimages
 
-- **Eis** – Containerimages bevatten uitsluitend de functionaliteit die
+- **Eis** â€“ Containerimages bevatten uitsluitend de functionaliteit die
   noodzakelijk is voor de werking van de applicatie. Hierdoor wordt het
   aanvalsvlak beperkt, de herkomst van softwarecomponenten inzichtelijk
   gehouden en de signaal-ruisverhouding van kwetsbaarheidsscanners,
   zoals **CVE** (<https://www.cve.org>), verbeterd.
 
-- **Eis** – Er wordt gebruikgemaakt van minimale containerimages, bij
+- **Eis** â€“ Er wordt gebruikgemaakt van minimale containerimages, bij
   voorkeur **distroless images**
   (<https://edu.chainguard.dev/chainguard/chainguard-images/about/>).
   Indien dit niet mogelijk is, bevatten containerimages geen
   OS-packagemanagers of shells. Wanneer dergelijke componenten tijdens
-  het buildproces noodzakelijk zijn, worden zij vóór oplevering uit het
+  het buildproces noodzakelijk zijn, worden zij vÃ³Ã³r oplevering uit het
   uiteindelijke containerimage verwijderd.
 
 #### Geautomatiseerde kwaliteitscontroles
 
-- **Eis** – Iedere release doorloopt een geautomatiseerde
+- **Eis** â€“ Iedere release doorloopt een geautomatiseerde
   CI/CD-pipeline. De testmethodieken, testresultaten en opvolging zijn
   volledig transparant en reproduceerbaar vanuit de Git-repository.
 
-- **Eis** – Uit de documentatie blijkt:
+- **Eis** â€“ Uit de documentatie blijkt:
 
   - Welke kwaliteitscontroles zijn uitgevoerd;
 
@@ -7196,7 +7196,7 @@ packaging, versiebeheer en testautomatisering.
   - Waarom een geregistreerde uitzondering (*exception*) is
     geaccepteerd.
 
-- **Eis** – De CI/CD-pipeline bevat ten minste de volgende
+- **Eis** â€“ De CI/CD-pipeline bevat ten minste de volgende
   geautomatiseerde kwaliteitscontroles:
 
   - Regressietests op een Haven-omgeving in combinatie met
@@ -7210,34 +7210,34 @@ packaging, versiebeheer en testautomatisering.
     (<https://trivy.dev>);
 
   - Statische analyse van de applicatiecode (*Static Application
-    Security Testing – SAST*);
+    Security Testing â€“ SAST*);
 
-- **API fuzz testing** voor het identificeren van fouten en potentiële
+- **API fuzz testing** voor het identificeren van fouten en potentiÃ«le
   kwetsbaarheden.
 
 ### Eisen aan technische documentatie
 
-Platformservices moeten zelfstandig kunnen worden geïnstalleerd,
+Platformservices moeten zelfstandig kunnen worden geÃ¯nstalleerd,
 geconfigureerd, beheerd en doorontwikkeld. Daarom is actuele, volledige
 en technisch inhoudelijke documentatie beschikbaar voor implementatie,
 beheer, integratie en operationeel gebruik.
 
-- **Eis** – Installatieprocedures, configuratieopties en
+- **Eis** â€“ Installatieprocedures, configuratieopties en
   beheermogelijkheden zijn volledig gedocumenteerd.
 
-- **Eis** – De documentatie bevat een **High Level Design (HLD)** en
+- **Eis** â€“ De documentatie bevat een **High Level Design (HLD)** en
   **Low Level Design (LLD)** van de applicatie, inclusief de
   architectuur, componenten en integratiemogelijkheden met andere
   platformcomponenten.
 
-- **Eis** – De documentatie beschrijft het gebruikers- en
+- **Eis** â€“ De documentatie beschrijft het gebruikers- en
   autorisatiemodel, waaronder de beschikbare rollen, rechten en de
   mogelijkheden om deze te configureren of uit te breiden.
 
-- **Eis** – De minimale systeemeisen van de applicatie, waaronder CPU-,
+- **Eis** â€“ De minimale systeemeisen van de applicatie, waaronder CPU-,
   geheugen- en eventuele opslagvereisten, zijn gedocumenteerd.
 
-- **Eis** – De documentatie bevat een schaalbaarheidsadvies waarin is
+- **Eis** â€“ De documentatie bevat een schaalbaarheidsadvies waarin is
   beschreven hoe de applicatie horizontaal en/of verticaal kan worden
   opgeschaald, welke randvoorwaarden daarvoor gelden en welk gedrag van
   de applicatie tijdens het schalen mag worden verwacht.
@@ -7248,11 +7248,11 @@ Platformservices worden uitgevoerd binnen een Kubernetes-gebaseerde
 Haven-omgeving. Daarom gelden aanvullende eisen aan interoperabiliteit,
 runtime-gedrag, security, observability en beheerbaarheid. Deze eisen
 waarborgen dat componenten van verschillende leveranciers op een
-uniforme wijze kunnen worden geïmplementeerd, beheerd en doorontwikkeld.
+uniforme wijze kunnen worden geÃ¯mplementeerd, beheerd en doorontwikkeld.
 
 #### Authenticatie en autorisatie
 
-- **Eis** – Integratie met een **Identity Provider (IdP)** vindt plaats
+- **Eis** â€“ Integratie met een **Identity Provider (IdP)** vindt plaats
   op basis van **OpenID Connect
   [(OIDC)](https://openid.net/developers/how-connect-works/)**. De
   applicatie ondersteunt iedere OIDC-conforme Identity Provider en mag
@@ -7261,59 +7261,59 @@ uniforme wijze kunnen worden geïmplementeerd, beheerd en doorontwikkeld.
 
 #### Integratie
 
-- **Eis** – Verkeer van en naar API's is mogelijk binnen het
+- **Eis** â€“ Verkeer van en naar API's is mogelijk binnen het
   Haven-cluster. Daarnaast is inkomende en uitgaande integratie via
   **Federatieve Service Connectiviteit (FSC)** aantoonbaar werkend en
   gedocumenteerd. Hiervoor worden demonstratievoorzieningen beschikbaar
   gesteld in de demo-directory.
 
-- **Eis** – De applicatie ondersteunt de [**Gateway
+- **Eis** â€“ De applicatie ondersteunt de [**Gateway
   API**](https://gateway-api.sigs.k8s.io), de opvolger van de Kubernetes
   Ingress API, zodat deze onafhankelijk is van de gebruikte
   ingress-implementatie (zoals Istio of Traefik).
 
 #### Runtime
 
-- **Eis** – De applicatie is **stateless** en kan volledig redundant
+- **Eis** â€“ De applicatie is **stateless** en kan volledig redundant
   worden uitgevoerd. Alle persistente gegevens worden opgeslagen in
   externe voorzieningen, zoals databases, caches, queues of
   objectopslag.
 
-- **Eis** – De applicatie is bestand tegen verstoringen in afhankelijke
+- **Eis** â€“ De applicatie is bestand tegen verstoringen in afhankelijke
   systemen en voorkomt cascade- of domino-effecten wanneer componenten
   binnen de keten tijdelijk niet beschikbaar zijn.
 
-- **Eis** – Monitoring-endpoints voor health, logging en metrics zijn
+- **Eis** â€“ Monitoring-endpoints voor health, logging en metrics zijn
   beschikbaar zodat de operationele toestand van de applicatie continu
   kan worden bewaakt.
 
 #### Observability
 
-- **Eis** – Logs, traces en metrics worden beschikbaar gesteld via
+- **Eis** â€“ Logs, traces en metrics worden beschikbaar gesteld via
   [**OpenTelemetry
   (OTel)**](https://opentelemetry.io/docs/what-is-opentelemetry/).
 
-- **Wens** – Bij de applicatie worden standaard
+- **Wens** â€“ Bij de applicatie worden standaard
   [**Grafana**](https://grafana.com)-dashboards en bijbehorende
   alert-definities meegeleverd.
 
 #### Security
 
-- **Eis** – De pod-definitie en applicatie voldoen aan de [**Kubernetes
-  Pod Security Standards –
+- **Eis** â€“ De pod-definitie en applicatie voldoen aan de [**Kubernetes
+  Pod Security Standards â€“
   Restricted**](https://kubernetes.io/docs/concepts/security/pod-security-standards/).
 
-- **Eis** – Secrets worden niet in de applicatie of containerimage
+- **Eis** â€“ Secrets worden niet in de applicatie of containerimage
   opgeslagen. Secret-referenties zijn configureerbaar via GitOps/Helm,
   zodat integratie met een centraal secretmanagementsysteem mogelijk is.
 
 #### Applicatiearchitectuur
 
-- **Eis** – De beheerinterface is logisch en technisch te scheiden van
+- **Eis** â€“ De beheerinterface is logisch en technisch te scheiden van
   de gebruikersinterface en API, zodat deze op afzonderlijke endpoints
   of load balancers kan worden aangeboden.
 
-- **Eis** – De applicatie voldoet zoveel mogelijk aan de principes van
+- **Eis** â€“ De applicatie voldoet zoveel mogelijk aan de principes van
   de [**Twelve-Factor App**](https://12factor.net). Afwijkingen zijn
   toegestaan, mits deze expliciet zijn gemotiveerd en gedocumenteerd.
 
@@ -7451,7 +7451,7 @@ naleving van de geldende Code of Conduct.
 ### Samenwerking
 
 Platformservices maken onderdeel uit van een gezamenlijk ontwikkeld
-platform. Nieuwe functionaliteit wordt niet geïsoleerd ontwikkeld, maar
+platform. Nieuwe functionaliteit wordt niet geÃ¯soleerd ontwikkeld, maar
 afgestemd op de gezamenlijke architectuur, roadmap en
 ontwikkelprioriteiten.
 
@@ -7465,22 +7465,22 @@ het platform.
 
 **Eisen**
 
-- **Eis** – Nieuwe functionaliteit wordt afgestemd met de
+- **Eis** â€“ Nieuwe functionaliteit wordt afgestemd met de
   verantwoordelijke Lead Product Owner voordat met ontwikkeling wordt
   gestart.
 
-- **Eis** – Functionele uitbreidingen en architectuurwijzigingen worden
+- **Eis** â€“ Functionele uitbreidingen en architectuurwijzigingen worden
   ingebracht via de gezamenlijke backlog van het Platform
   Dienstverlening.
 
-- **Eis** – Ontwikkeling van platformservices sluit aan op de
+- **Eis** â€“ Ontwikkeling van platformservices sluit aan op de
   gezamenlijke roadmap en de prioriteiten van het Platformmanagement.
 
-- **Eis** – Wijzigingen met impact op de architectuur of op andere
+- **Eis** â€“ Wijzigingen met impact op de architectuur of op andere
   platformservices worden vooraf afgestemd met de Technische Stuurgroep
   en het Platformmanagement.
 
-- **Eis** – Leveranciers werken transparant samen met gemeenten en
+- **Eis** â€“ Leveranciers werken transparant samen met gemeenten en
   andere leveranciers en delen relevante ontwerpkeuzes, planning en
   voortgang voor zover deze betrekking hebben op de gezamenlijke
   ontwikkeling van het platform.
@@ -7501,24 +7501,24 @@ uitmaakt van het Platform Dienstverlening.
 
 Dit uitgangspunt stelt de volgende eisen:
 
-- **Eis** – De broncode wordt beheerd in een publiek toegankelijk
+- **Eis** â€“ De broncode wordt beheerd in een publiek toegankelijk
   versiebeheersysteem op basis van Git.
 
-- **Eis** – De volledige ontwikkelhistorie, inclusief issues,
+- **Eis** â€“ De volledige ontwikkelhistorie, inclusief issues,
   wijzigingen en pull requests, is inzichtelijk, tenzij zwaarwegende
   redenen anders vereisen.
 
-- **Eis** – De software wordt gepubliceerd onder de **European Union
+- **Eis** â€“ De software wordt gepubliceerd onder de **European Union
   Public Licence (EUPL)**
 
-- **Eis** – Het intellectueel eigendom wordt zodanig georganiseerd dat
-  continuïteit, gezamenlijk beheer en overdraagbaarheid van de software
+- **Eis** â€“ Het intellectueel eigendom wordt zodanig georganiseerd dat
+  continuÃ¯teit, gezamenlijk beheer en overdraagbaarheid van de software
   zijn gewaarborgd.
 
-- **Eis** – De leverancier levert wijzigingen en verbeteringen terug aan
+- **Eis** â€“ De leverancier levert wijzigingen en verbeteringen terug aan
   de oorspronkelijke Open Source-community (*upstream first*)
 
-- **Eis** – De build-, test- en deploymentconfiguratie maken integraal
+- **Eis** â€“ De build-, test- en deploymentconfiguratie maken integraal
   onderdeel uit van de broncode, zodat de software reproduceerbaar kan
   worden gebouwd en uitgerold.
 
@@ -7553,7 +7553,7 @@ organisatorische aansluitvoorwaarden van het Platform Dienstverlening.
 
 # BIJLAGEN
 
-## BIJLAGE – In te vullen gaps in de Enterprisearchitectuur
+## BIJLAGE â€“ In te vullen gaps in de Enterprisearchitectuur
 
 #### Informatiebeheer, Security- en compliance-uitwerking
 
@@ -7561,20 +7561,20 @@ organisatorische aansluitvoorwaarden van het Platform Dienstverlening.
   toekomstige regelgeving) zijn randvoorwaardelijk voor architectuur,
   maar worden in dit document alleen schetsmatig uitgewerkt.
 
-- Datzelfde geldt voor het principe ‘Duurzame toegankelijkheid by
-  design’.
+- Datzelfde geldt voor het principe â€˜Duurzame toegankelijkheid by
+  designâ€™.
 
 <!-- -->
 
-- **Strategie, businessarchitectuur – Capabilities**
+- **Strategie, businessarchitectuur â€“ Capabilities**
 
-  - Het architectuurconcept ‘Capabilities’ is in deze architectuur niet
+  - Het architectuurconcept â€˜Capabilitiesâ€™ is in deze architectuur niet
     uitgewerkt. Dat kan wel een ankerpunt zijn om de architectuur te
     verbinden aan bijv. NDS.
 
 - **Datakwaliteit**
 
-  - Wordt beperkt uitgewerkt. Overweeg [NORA’s Framework voor
+  - Wordt beperkt uitgewerkt. Overweeg [NORAâ€™s Framework voor
     datakwaliteit](https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit)
     te gebruiken.
 
@@ -7587,7 +7587,7 @@ organisatorische aansluitvoorwaarden van het Platform Dienstverlening.
 - **Relaties met ketenpartners en overheidsbrede dienstverlening**
 
   - Relaties en patronen met ketenpartners en overheidsbrede
-    dienstverlening zijn – buiten de verhandeling over FSC – niet
+    dienstverlening zijn â€“ buiten de verhandeling over FSC â€“ niet
     uitgewerkt.
 
 ## BIJLAGE - Korte geschiedenis van gemeentelijke informatisering
@@ -7595,8 +7595,8 @@ organisatorische aansluitvoorwaarden van het Platform Dienstverlening.
 #### Historische ontwikkeling van gemeentelijke automatisering
 
 De gemeentelijke informatievoorziening is historisch opgebouwd rond
-afzonderlijke werkprocessen. Lange tijd gold het uitgangspunt: *“elk
-proces zijn eigen pakket.”* Deze aanpak sloot aan bij de behoefte om
+afzonderlijke werkprocessen. Lange tijd gold het uitgangspunt: *â€œelk
+proces zijn eigen pakket.â€* Deze aanpak sloot aan bij de behoefte om
 specifieke processen met gespecialiseerde software te ondersteunen.
 Naarmate de onderlinge afhankelijkheid tussen processen toenam, leidde
 dit echter tot een groeiend aantal koppelingen tussen systemen, met als
@@ -7605,13 +7605,13 @@ gevolg toenemende complexiteit, beheerslast en kosten.
 Deze ontwikkeling past binnen een bredere bestuurlijke logica waarin
 processen, afdelingen en verantwoordelijkheden gescheiden zijn
 georganiseerd. Precies deze verkokering is kenmerkend voor de
-traditionele, postindustriële inrichting van de overheid.
+traditionele, postindustriÃ«le inrichting van de overheid.
 
 #### Opkomst van suites per domein
 
 Als reactie hierop zijn gemeenten overgegaan op een nieuwe benadering:
 het bundelen van functies en koppelingen in zogenaamde suites. Grote
-leveranciers introduceerden geïntegreerde softwareoplossingen voor
+leveranciers introduceerden geÃ¯ntegreerde softwareoplossingen voor
 bijvoorbeeld het sociaal domein of vergunningverlening in de fysieke
 leefomgeving. Deze suites boden voordelen zoals vooraf ingerichte
 interne koppelingen, een vermindering van het aantal
@@ -7630,32 +7630,32 @@ steeds vaker een belemmering.
 
 Daarnaast leidt de sterke afhankelijkheid van een enkele leverancier tot
 beperkte flexibiliteit. Migratie naar een andere aanbieder is voor
-gemeenten complex en kostbaar, waardoor reële keuzevrijheid ontbreekt.
+gemeenten complex en kostbaar, waardoor reÃ«le keuzevrijheid ontbreekt.
 Nieuwe toetreders tot de markt kunnen de concurrentie nauwelijks
 aangaan, gezien de hoge investeringsdrempels voor het ontwikkelen van
 een concurrerende suite. Dit leidt tot marktconcentratie en afnemende
-innovatiekracht. De balans tussen efficiëntie en wendbaarheid is
+innovatiekracht. De balans tussen efficiÃ«ntie en wendbaarheid is
 zoekgeraakt.
 
 Deze situatie weerspiegelt een breder probleem: systemen zijn leidend
 geworden, terwijl gegevens en publieke waarden dat zouden moeten zijn.
 Hierdoor ontstaat een informatiehuishouding die onvoldoende aansluit op
-de behoeften van uitvoering en samenleving.<span id="_BIJLAGE_–_Alle"
+de behoeften van uitvoering en samenleving.<span id="_BIJLAGE_â€“_Alle"
 class="anchor"></span>
 
 ## BIJLAGE - BusinessServices
 
-De ‘BusinessService’ is een belangrijk concept in architectuur van het
-Platform. ‘BusinessService’ is een begrip dat contextgevoelig is en
+De â€˜BusinessServiceâ€™ is een belangrijk concept in architectuur van het
+Platform. â€˜BusinessServiceâ€™ is een begrip dat contextgevoelig is en
 daardoor in architectuurdiscussies regelmatig langs elkaar heen wordt
-gebruikt. (zie onderaan voor ambiguïteit).
+gebruikt. (zie onderaan voor ambiguÃ¯teit).
 
 In het Platform Dienstverlening is een BusinessService een logisch
 geheel dat businessobjecten en -regels encapsuleert in herbruikbare
 functionaliteit. Het wordt hier met twee hoofdletters geschreven om het
 te onderscheiden van andere concepten.
 
-<img src="gitbook/media/media/image36.png"
+<img src="media/media/image36.png"
 style="width:6.3in;height:6.50625in"
 alt="Afbeelding met tekst, schermopname, nummer, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -7673,14 +7673,14 @@ De service is een *logisch* geheel, maar bestaat binnen het platform
 
 | **Common Ground-laag** | **Rol van de laag** | **BusinessService (SOA/IT-definitie)** |
 |----|----|----|
-| **5. Interactie-laag** | Afhandeling van gebruikers- of kanaalinteractie | De BusinessService manifesteert zich hier als één samenhangende functionaliteit voor het kanaal (bijv. “aanvraag indienen”), of het proces (bijv. ‘vastleggen Inkomen) |
+| **5. Interactie-laag** | Afhandeling van gebruikers- of kanaalinteractie | De BusinessService manifesteert zich hier als Ã©Ã©n samenhangende functionaliteit voor het kanaal (bijv. â€œaanvraag indienenâ€), of het proces (bijv. â€˜vastleggen Inkomen) |
 | **4. Proces-laag** | Orkestratie van stappen en volgorde | De BusinessService bestaat hier uit BPMN-fragmenten per processtap, die samen het end-to-end gedrag vormen maar zelfstandig uitvoerbaar zijn. |
 | De BusinessServices worden aangestuurd door DMN-modellen\* die valideren en orkestreren op basis van beslis- en procesregels. |  |  |
 | **3. Integratie-laag** | Uitwisseling data |  |
 | **2. Toegang tot data** | Technische ontsluiting en validatie | De BusinessService interacteert met specifieke **API-calls,** verantwoordelijk voor extra validatie, verwerking en het wegschrijven van data. |
 | **1. Data / Registratie-laag** | Duurzame vastlegging van gegevens | De BusinessService heeft geen eigen database maar gebruikt een registratie waarin de door de service beheerde gegevens consistent, leidend en deelbaar worden vastgelegd. |
 
-<img src="gitbook/media/media/image37.png"
+<img src="media/media/image37.png"
 style="width:6.29861in;height:2.18194in"
 alt="Afbeelding met tekst, lijn, ontvangst, nummer Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -7692,7 +7692,7 @@ alt="Afbeelding met tekst, lijn, ontvangst, nummer Door AI gegenereerde inhoud i
 
 **Laag 5**
 
-Een BusinessService ‘vaststellen’ persoon bestaat op de interactie-laag
+Een BusinessService â€˜vaststellenâ€™ persoon bestaat op de interactie-laag
 uit een formulier voor de behandelaar dat met de volgende
 functionaliteit:
 
@@ -7721,7 +7721,7 @@ functionaliteit:
 **Laag 4**
 
 Op laag 2 vindt het proces plaats waarin bovenstaande (het formulier)
-één gebruikerstaak is.
+Ã©Ã©n gebruikerstaak is.
 
 - Het proces start met het ophalen van relevante invoer uit de aanvraag
   en eerdere vastleggingen (persoon, BRP-keuze, toelichting).
@@ -7729,7 +7729,7 @@ Op laag 2 vindt het proces plaats waarin bovenstaande (het formulier)
 - Deze gegevens worden voorbereid en samengebracht als input voor
   vaststelling.
 
-- Vervolgens wordt een subproces “vaststelling persoon” aangeroepen
+- Vervolgens wordt een subproces â€œvaststelling persoonâ€ aangeroepen
   waarin de beoordeling plaatsvindt (zie bovenstaand formulier)
 
 - In dit subproces wordt vastgelegd of de persoon is vastgesteld, met
@@ -7845,7 +7845,7 @@ persoon",
 
 Op laag 1 worden de door de service beheerde gegevens consistent,
 leidend en deelbaar vastgelegd. Op het niveau van businessobjecten zijn
-registraties beschikbaar (’Common Ground-registraties’) voor Zaken,
+registraties beschikbaar (â€™Common Ground-registratiesâ€™) voor Zaken,
 Producten, Klanten.
 
 Voor specifieke (domeingebonden gegevens) zoals Burgerzaken of processen
@@ -7864,13 +7864,13 @@ name de volgende factoren leidend:
   voorbeeld is de service *vaststellen persoon* generiek toepasbaar,
   omdat deze functionaliteit in veel processen terugkomt. Wanneer aan
   deze service ook proces- of domeinspecifieke functionaliteit wordt
-  toegevoegd — zoals het toekennen van een paspoort — neemt de
+  toegevoegd â€” zoals het toekennen van een paspoort â€” neemt de
   herbruikbaarheid af. Dergelijke functionaliteit hoort daarom thuis in
   een aparte BusinessService die een ander businessdoel dient.
 
 - **Herhaalbaarheid van de service.** Een BusinessService moet meerdere
   keren op dezelfde wijze kunnen worden uitgevoerd, met vergelijkbare
-  invoer en uitkomsten. Als een handeling slechts éénmalig of sterk
+  invoer en uitkomsten. Als een handeling slechts Ã©Ã©nmalig of sterk
   contextafhankelijk is, is deze minder geschikt als zelfstandige
   BusinessService.
 
@@ -7879,10 +7879,10 @@ name de volgende factoren leidend:
   Als een bedrijfsobject groot is en de vereiste consistentie zich
   uitstrekt over alle attributen (bijvoorbeeld identiteit, naam en
   geboortedatum in samenhang), is het logisch om deze validatie binnen
-  één BusinessService te concentreren. Hierdoor kan de service als
+  Ã©Ã©n BusinessService te concentreren. Hierdoor kan de service als
   consistente eenheid optreden richting afnemers.
 
-- **Cohesie van het businessconcept.** Een BusinessService moet één
+- **Cohesie van het businessconcept.** Een BusinessService moet Ã©Ã©n
   duidelijk businessconcept vertegenwoordigen.
 
 ### Blauwdruk gebruik van BusinessServices
@@ -7892,12 +7892,12 @@ proces leent zich goed voor standaardisatie in de vorm van
 BusinessServices omdat er een breedgedragen ontologie is geformuleerd
 (<https://github.com/VNG-Realisatie/Ontologie-Inkomen/>).
 
-Op basis van wat er ‘bestaat’ in het domein (concepten, relaties,
-handelingen) worden BusinessServices geïdentificeerd. Een
+Op basis van wat er â€˜bestaatâ€™ in het domein (concepten, relaties,
+handelingen) worden BusinessServices geÃ¯dentificeerd. Een
 **informatiemodel**, waarbij de Ontologie Inkomen een heel gedetailleerd
 en gereviseerd voorbeeld betreft, is voorwaardelijk.
 
-#### BusinessService - Ambiguïteit.
+#### BusinessService - AmbiguÃ¯teit.
 
 | **Context** |  | **Betekenis** | **Definitie** |
 |----|----|----|----|
@@ -7905,28 +7905,28 @@ en gereviseerd voorbeeld betreft, is voorwaardelijk.
 | **ArchiMate (business layer)** |  | Formeel gedefinieerd architectuurconcept | Een *businessservice* is een service die vanuit de businesslaag wordt aangeboden aan een business actor of role, en die wordt gerealiseerd door businessprocessen en/of businessfuncties. |
 | **SOA / IT-architectuur (informeel gebruik)** |  | IT-service met businesssemantiek | Een *BusinessService* is een applicatieservice die businessobjecten en -regels encapsuleert en herbruikbare functionaliteit biedt aan andere applicaties of kanalen. - in platformcontext: **een logisch geheel dat businessobjecten en -regels encapsuleert met een vastgestelde in - en output en herbruikbare functionaliteit.** |
 | **Capability-gebaseerde architectuur** |  | Concretisering van een capability | Een *businessservice* is een afgebakende levering van waarde die laat zien hoe een capability extern of intern wordt benut door de organisatie. |
-| **Product-georiënteerde organisaties** |  | Markt- of productdienst | Een *businessservice* is een door een team of product aangeboden dienst met een duidelijke scope, eigenaar en prestatieafspraken, gericht op continue waardecreatie voor gebruikers of klanten. |
-| **Operating-model / service-management** |  | Organisatorische dienst | Een *businessservice* is een stabiel gedefinieerde organisatorische dienst waarvoor afspraken bestaan over kwaliteit, kosten en beschikbaarheid, vaak vastgelegd in SLA’s. |
+| **Product-georiÃ«nteerde organisaties** |  | Markt- of productdienst | Een *businessservice* is een door een team of product aangeboden dienst met een duidelijke scope, eigenaar en prestatieafspraken, gericht op continue waardecreatie voor gebruikers of klanten. |
+| **Operating-model / service-management** |  | Organisatorische dienst | Een *businessservice* is een stabiel gedefinieerde organisatorische dienst waarvoor afspraken bestaan over kwaliteit, kosten en beschikbaarheid, vaak vastgelegd in SLAâ€™s. |
 
 ### Samenwerking en uitwisseling bouwstenen
 
 <https://samendelen.opengem.nl/> - Samen Delen is de plek waar de
 inrichting van applicaties gedeeld kan worden met elkaar. Als een
 applicatie een exportfunctie heeft, kunnen deze exports hier worden
-geüpload. Anderen kunnen deze exports weer downloaden en importeren in
+geÃ¼pload. Anderen kunnen deze exports weer downloaden en importeren in
 hun applicatie.
 
 Voor **GZAC** is een Exchange.gzac.nl beschikbaar, met daarop:
 
 [App](https://exchange.gzac.nl/)
 
-- **Process Blue Prints** – Startklare basisprocessen; altijd lokaal te
+- **Process Blue Prints** â€“ Startklare basisprocessen; altijd lokaal te
   configureren en soms uit te breiden met maatwerk (bijv. een plugin).
 
-- **Building Blocks** – Herbruikbare onderdelen zoals formulieren,
+- **Building Blocks** â€“ Herbruikbare onderdelen zoals formulieren,
   zaakdefinities en subprocessen.
 
-- **Plugins** – Uitbreidingen voor extra functionaliteit, vaak voor
+- **Plugins** â€“ Uitbreidingen voor extra functionaliteit, vaak voor
   generieke koppelingen met andere systemen.
 
 ## BIJLAGE - Overzicht services
@@ -7934,11 +7934,11 @@ Voor **GZAC** is een Exchange.gzac.nl beschikbaar, met daarop:
 Overzicht van services en link naar documentatie binnen Platform
 Dienstverlening.
 
-**Laag 1/2 – Registraties & API-laag (Data & Services)**
+**Laag 1/2 â€“ Registraties & API-laag (Data & Services)**
 
 **OpenZaak**
 
-Moderne open-source implementatie van de ZGW-API’s voor zaak- en
+Moderne open-source implementatie van de ZGW-APIâ€™s voor zaak- en
 documentbeheer.
 
 <https://github.com/open-zaak/open-zaak>
@@ -7982,7 +7982,7 @@ objecten binnen Common Ground.
 
 **Objecttypes API**
 
-API voor het definiëren en beheren van objecttypen die gebruikt worden
+API voor het definiÃ«ren en beheren van objecttypen die gebruikt worden
 door Objects API-implementaties.
 
 <https://github.com/maykinmedia/objecttypes-api>
@@ -8015,12 +8015,12 @@ Open-componenten.
 
 <https://github.com/maykinmedia/open-api-framework>
 
-**Laag 4/5 – Interactie & Toepassingen (Portalen & UI)**
+**Laag 4/5 â€“ Interactie & Toepassingen (Portalen & UI)**
 
 **GZAC**
 
 Zaakafhandelcomponent gericht op proces- en taakondersteuning bovenop
-ZGW-API’s.
+ZGW-APIâ€™s.
 
 <https://github.com/generiekzaakafhandelcomponent>
 
@@ -8032,7 +8032,7 @@ via configuratie, zonder dat hiervoor maatwerk per proces nodig is.
 **ZAC**
 
 Zaakafhandelcomponent gericht op proces- en taakondersteuning bovenop
-ZGW-API’s.
+ZGW-APIâ€™s.
 
 <https://github.com/infonl/dimpact-zaakafhandelcomponent>
 
@@ -8057,9 +8057,9 @@ Common Ground-componenten.
 
 <https://github.com/maykinmedia/open-inwoner>
 
-**IKO – Integraal Klant- en Objectbeeld**
+**IKO â€“ Integraal Klant- en Objectbeeld**
 
-Integreert klant- en objectgegevens tot één overzicht voor
+Integreert klant- en objectgegevens tot Ã©Ã©n overzicht voor
 case-medewerkers
 
 *Doc pagina (functieomschrijving):*
@@ -8070,7 +8070,7 @@ case-medewerkers
 Faciliteert het modelleren, aanbieden en verwerken van digitale
 formulieren voor inwoners en organisaties. Het component verzorgt de
 gestructureerde uitvraag van gegevens, valideert invoer en legt
-inzendingen vast via gestandaardiseerde API’s.
+inzendingen vast via gestandaardiseerde APIâ€™s.
 
 <https://github.com/open-formulieren/open-forms/>
 
@@ -8108,7 +8108,7 @@ Deze voorzieningen zijn integraal onderdeel van het platform, maar
 worden ingezet als generieke capabilities die door meerdere services en
 processen worden gebruikt.
 
-## BIJLAGE - ABB’s GEMMA en Platform Dienstverlening
+## BIJLAGE - ABBâ€™s GEMMA en Platform Dienstverlening
 
 GEMMA biedt een overzicht van
 [referentiecomponenten](https://www.gemmaonline.nl/wiki/Overzicht_alle_referentiecomponenten)
@@ -8179,10 +8179,10 @@ scope is, met als onderscheid:
 | [Uitvoeren processen](https://www.gemmaonline.nl/wiki/GEMMA/id-4e099407-da8d-11e1-7023-0050568a1905) | x |  |
 | [Beheren en inwinnen BRO-gegevens](https://www.gemmaonline.nl/wiki/GEMMA/id-9dc22a80-fc84-48e1-a5ba-55c754fb4da0) | x |  |
 | [Ondersteunen van baliedienstverlening](https://www.gemmaonline.nl/wiki/GEMMA/id-b2738be2-8c74-11e5-1099-005056a83192) | x |  |
-| [Bedrijfscontinuïteitsplanning](https://www.gemmaonline.nl/wiki/GEMMA/id-7bc33993-21ee-492a-8632-1c525bc32bee) |  |  |
+| [BedrijfscontinuÃ¯teitsplanning](https://www.gemmaonline.nl/wiki/GEMMA/id-7bc33993-21ee-492a-8632-1c525bc32bee) |  |  |
 | [Beheren van processen](https://www.gemmaonline.nl/wiki/GEMMA/id-8280287e-da88-11e1-7023-0050568a1905) | x |  |
 | [Analyseren processen](https://www.gemmaonline.nl/wiki/GEMMA/id-eb5cb7da-c5b6-11e5-11ba-005056a85f9c) | x |  |
-| [Definiëren processen](https://www.gemmaonline.nl/wiki/GEMMA/id-4e09940f-da8d-11e1-7023-0050568a1905) | x |  |
+| [DefiniÃ«ren processen](https://www.gemmaonline.nl/wiki/GEMMA/id-4e09940f-da8d-11e1-7023-0050568a1905) | x |  |
 | [Monitoren processen](https://www.gemmaonline.nl/wiki/GEMMA/id-4e09940b-da8d-11e1-7023-0050568a1905) | x |  |
 | [Aanmaken, delen, verwijderen en wijzigen van bedrijven- en instellingengegevens](https://www.gemmaonline.nl/wiki/GEMMA/id-9f1cee85-dc61-11e5-11ba-005056a85f9c) | x |  |
 | [Ondersteunen van belasting subject- en objectregistratie](https://www.gemmaonline.nl/wiki/GEMMA/id-7b0e775f-7852-4d2c-b213-f196ad83c2b8) | x |  |
@@ -8227,13 +8227,13 @@ scope is, met als onderscheid:
 | [Peilen van meningen bij inwoners en ondernemers](https://www.gemmaonline.nl/wiki/GEMMA/id-5f1eb6ee-78aa-11e5-1099-005056a83192) |  | x |
 | [Beheren contracten](https://www.gemmaonline.nl/wiki/GEMMA/id-2148f40d-0c73-4588-a61a-eb51dbb12807) |  | x |
 | [Ondersteunen van contracten- en SLA-beheer](https://www.gemmaonline.nl/wiki/GEMMA/id-1f9b69f7-89bd-11e3-67ab-0050568a6153) |  | x |
-| [Ondersteunen coördinatie crises en rampen](https://www.gemmaonline.nl/wiki/GEMMA/id-3d19033c-2c3d-47e5-b1ae-bbae6a2438f7) |  |  |
+| [Ondersteunen coÃ¶rdinatie crises en rampen](https://www.gemmaonline.nl/wiki/GEMMA/id-3d19033c-2c3d-47e5-b1ae-bbae6a2438f7) |  |  |
 | [Analyseren van grote hoeveelheden criminaliteitsdata](https://www.gemmaonline.nl/wiki/GEMMA/id-d84592ad-8fbd-4b1b-b0be-58ef895a7633) |  |  |
 | [Berekenen van relatienetwerken](https://www.gemmaonline.nl/wiki/GEMMA/id-a51221c4-4e87-4116-962e-970bd67c3d02) |  |  |
 | [Machine learning criminaliteitsdata](https://www.gemmaonline.nl/wiki/GEMMA/id-c989f4fd-9d73-430a-99ba-87b890546d49) |  |  |
 | [Beheren backup](https://www.gemmaonline.nl/wiki/GEMMA/id-65a4e23a-54e9-49dc-b654-c2947f8ee4ea) | x |  |
-| [Risicobeheer en continuïteit](https://www.gemmaonline.nl/wiki/GEMMA/id-11c6f30f-db79-4e66-a79f-e7935baec1c4) |  |  |
-| [Beheren risico’s](https://www.gemmaonline.nl/wiki/GEMMA/id-87722827-5910-47c2-8d40-a2a20414f4c3) |  |  |
+| [Risicobeheer en continuÃ¯teit](https://www.gemmaonline.nl/wiki/GEMMA/id-11c6f30f-db79-4e66-a79f-e7935baec1c4) |  |  |
+| [Beheren risicoâ€™s](https://www.gemmaonline.nl/wiki/GEMMA/id-87722827-5910-47c2-8d40-a2a20414f4c3) |  |  |
 | [Registreren en delen van gegevenssets](https://www.gemmaonline.nl/wiki/GEMMA/id-bafa0219-44ba-11e4-67ab-0050568a6153) | x |  |
 | [Delen van gegevenssets](https://www.gemmaonline.nl/wiki/GEMMA/id-b7b0f990-6779-11e4-67ab-0050568a6153) | x |  |
 | [Inzamelen en transformeren van gegevens](https://www.gemmaonline.nl/wiki/GEMMA/id-05e0f14e-641b-11e4-67ab-0050568a6153) |  |  |
@@ -8259,7 +8259,7 @@ scope is, met als onderscheid:
 | [Beheren van erfpachtrechten](https://www.gemmaonline.nl/wiki/GEMMA/id-6b81251d-f958-438c-b5c0-9a1a3bd7b5b9) | x |  |
 | [Ondersteunen van uitlenen facilitaire middelen](https://www.gemmaonline.nl/wiki/GEMMA/id-8683ad61-d4af-11e5-11ba-005056a85f9c) |  |  |
 | [Beheren van bruto c.q. netto verwerking](https://www.gemmaonline.nl/wiki/GEMMA/id-fd1337ac-2bbb-463f-9bd7-abc73566ce22) |  |  |
-| [Ondersteunen van financiële processen](https://www.gemmaonline.nl/wiki/GEMMA/id-9a7ec620-d716-11e5-11ba-005056a85f9c) |  |  |
+| [Ondersteunen van financiÃ«le processen](https://www.gemmaonline.nl/wiki/GEMMA/id-9a7ec620-d716-11e5-11ba-005056a85f9c) |  |  |
 | [Beheren budgettering](https://www.gemmaonline.nl/wiki/GEMMA/id-20ce6b29-a4db-11e5-11ba-005056a85f9c) |  |  |
 | [Beheren crediteuren](https://www.gemmaonline.nl/wiki/GEMMA/id-20ce6b23-a4db-11e5-11ba-005056a85f9c) |  |  |
 | [Beheren debiteuren](https://www.gemmaonline.nl/wiki/GEMMA/id-20ce6b25-a4db-11e5-11ba-005056a85f9c) |  |  |
@@ -8306,7 +8306,7 @@ scope is, met als onderscheid:
 | [Ondersteunen van helpdeskwerkzaamheden](https://www.gemmaonline.nl/wiki/GEMMA/id-8683ad63-d4af-11e5-11ba-005056a85f9c) |  |  |
 | [Inbraakdetectie en signalering](https://www.gemmaonline.nl/wiki/GEMMA/id-1b73db85-e6cc-4e43-9d61-2ca1c6bcf2e2) |  |  |
 | [Ondersteunen van IT-objectenbeheer](https://www.gemmaonline.nl/wiki/GEMMA/id-8683ad59-d4af-11e5-11ba-005056a85f9c) |  |  |
-| [Beheren van ingediende ideeën](https://www.gemmaonline.nl/wiki/GEMMA/id-18cca752-136b-416e-bad0-f5e6a472bdb2) |  |  |
+| [Beheren van ingediende ideeÃ«n](https://www.gemmaonline.nl/wiki/GEMMA/id-18cca752-136b-416e-bad0-f5e6a472bdb2) |  |  |
 | [Beheren van levensonderhoud en inkomensondersteuning](https://www.gemmaonline.nl/wiki/GEMMA/id-7b100353-c9bd-43c8-83b5-3978c03e2767) | x |  |
 | [Beheren van de besluitvorming levensonderhoud](https://www.gemmaonline.nl/wiki/GEMMA/id-065ff639-8c51-11e5-1099-005056a83192) | x |  |
 | [Beheren van inkomensbeslaglegging derden](https://www.gemmaonline.nl/wiki/GEMMA/id-065ff64c-8c51-11e5-1099-005056a83192) | x |  |
@@ -8418,7 +8418,7 @@ scope is, met als onderscheid:
 | [Beheren van sociale werkvoorziening](https://www.gemmaonline.nl/wiki/GEMMA/id-62f0295b-86e4-11e5-1099-005056a83192) |  | x |
 | [Beheren softwarelicenties](https://www.gemmaonline.nl/wiki/GEMMA/id-3e1b9937-a92a-4290-9592-1007fdc7d05b) |  |  |
 | [Ontwikkelen van applicaties](https://www.gemmaonline.nl/wiki/GEMMA/id-2c4db9d2-3f7a-4f3f-9d11-f82992bcbf54) | x |  |
-| [Coördineren van releases](https://www.gemmaonline.nl/wiki/GEMMA/id-67d1ab35-6851-4dca-86af-3cef1b2df051) | x |  |
+| [CoÃ¶rdineren van releases](https://www.gemmaonline.nl/wiki/GEMMA/id-67d1ab35-6851-4dca-86af-3cef1b2df051) | x |  |
 | [Testen van applicaties](https://www.gemmaonline.nl/wiki/GEMMA/id-572af569-41d8-4c42-8767-2ae053a6c1f1) | x |  |
 | [Beheren van subsidies](https://www.gemmaonline.nl/wiki/GEMMA/id-b2738bd6-8c74-11e5-1099-005056a83192) | x |  |
 | [Registreren en delen technische logging](https://www.gemmaonline.nl/wiki/GEMMA/id-55a0f5b8-9c0a-44c6-b950-9e87cf82d3fd) | x |  |
@@ -8470,5 +8470,6 @@ scope is, met als onderscheid:
 | [Beheren van zelfredzaamheidontwikkeling](https://www.gemmaonline.nl/wiki/GEMMA/id-62f02949-86e4-11e5-1099-005056a83192) |  | x |
 
 [^1]: Oorspronkelijk was het een CIO-opdracht binnen Utrecht om een
-    ‘thema-architectuur Common Ground’ te beschrijven. Deze doelstelling
+    â€˜thema-architectuur Common Groundâ€™ te beschrijven. Deze doelstelling
     en het G4-belang zijn samengevoegd in dit resultaat.
+
