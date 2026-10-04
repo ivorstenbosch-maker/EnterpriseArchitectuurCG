@@ -405,7 +405,7 @@ Development Method (ADM)**.
 
 <img
 src="media/media/image1.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:3.00278in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 [TOGAF](https://www.opengroup.org/togaf) is een internationaal erkende
 methode voor het ontwikkelen en beheren van enterprise-architecturen. De
@@ -479,7 +479,7 @@ dimensies:
 
   <img
   src="media/media/image2.png"
-  style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:2.83914in;height:2.64532in"
+  style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
   alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
 Waar mogelijk sluit deze architectuur expliciet aan bij relevante
@@ -761,7 +761,7 @@ onvoldoende aan op deze ambities.
 
 <img
 src="media/media/image3.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:4.25158in;height:2.29825in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Breder kader 
 
@@ -861,7 +861,7 @@ aard is.
 
 <img
 src="media/media/image4.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:3.38194in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Overzicht drijfveren
 
@@ -893,7 +893,7 @@ de ontwikkeling van een gezamenlijk Platform Dienstverlening.
 
 <img
 src="media/media/image5.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:2.84861in"
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
 #### Externe drijfveren
@@ -915,7 +915,7 @@ technologische veranderingen.
 
 <img
 src="media/media/image6.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:2.99375in"
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
 ## Common Ground & Platform Dienstverlening
@@ -1102,7 +1102,7 @@ verantwoordelijkheid.
 
 <img
 src="media/media/image7.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.28333in;height:3.14167in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Strategisch niveau
 
@@ -1147,7 +1147,7 @@ beleid met portfolio, verandering en uitvoering:
 
 <img
 src="media/media/image8.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:3.88679in;height:3.04174in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Op strategisch niveau draagt architectuur onder meer bij aan:
 
@@ -1242,7 +1242,7 @@ AI geen betrouwbare of uitlegbare bijdrage leveren.
 
 <img
 src="media/media/image9.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29167in;height:4.1875in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Andere landelijke ontwikkelingen
 
@@ -1332,7 +1332,7 @@ gegevensuitwisseling, registraties en informatiemodellen.
 
 <img
 src="media/media/image10.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:2.96111in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Relatie met Platform Dienstverlening
 
@@ -1391,7 +1391,7 @@ servicedesigns.
 
     <img
     src="media/media/image11.png"
-    style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:3.05694in" />
+    style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### G4D/Dimpact (Amsterdam, Rotterdam, Den Haag, Utrecht)
 
@@ -1415,7 +1415,7 @@ servicedesigns.
 
       <img
       src="media/media/image12.png"
-      style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:3.70057in;height:2.16071in" />
+      style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Platform Dienstverlening in context
 
@@ -1510,7 +1510,7 @@ organisatorische effecten van het Platform Dienstverlening.
 
 <img
 src="media/media/image13.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:2.2125in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Meer regie
 
@@ -1939,7 +1939,7 @@ en in mindere mate op sturing en bedrijfsvoering.
 
 <img
 src="media/media/image14.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:4.08056in"
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, diagram, ontwerp Door AI gegenereerde inhoud is mogelijk onjuist." />
 
 #### Besturende functies
@@ -2180,7 +2180,7 @@ buitenkant en de samenhangende uitvoering aan de binnenkant.
 
 <img
 src="media/media/image15.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29097in;height:3.17431in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Bedrijfsarchitectuur als schakel tussen platform, inwoner en organisatie
 
@@ -2290,7 +2290,7 @@ verbinding tussen de buitenwereld en de interne bedrijfsvoering.
 
 <img
 src="media/media/image16.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:2.14583in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### BusinessServices als ontwerpprincipe
 
@@ -2473,7 +2473,7 @@ werken. De volgende ontwerpstappen gelden:
 
     <img
     src="media/media/image17.png"
-    style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:2.42361in" />
+    style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Domain-Driven Design als ontwerppraktijk
 
@@ -2528,7 +2528,7 @@ duidelijke verantwoordelijkheid.
 
 <img
 src="media/media/image18.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:4.00266in;height:3.49218in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Implicaties voor de bestaande organisatie
 
@@ -3689,7 +3689,7 @@ Deze scheiding kent twee complementaire dimensies.
 
 <img
 src="media/media/image19.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29167in;height:3.35417in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Daarnaast bestaan domeinspecifieke registraties voor gegevens die
 uitsluitend binnen een bepaald beleidsdomein relevant zijn. Ook deze
@@ -4210,7 +4210,7 @@ verschillende implementatievarianten mogelijk:
 
 <img
 src="media/media/image20.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.28333in;height:4.18889in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 # Applicatiearchitectuur
 
@@ -4277,7 +4277,7 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
 
   <img
   src="media/media/image21.png"
-  style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:4.89063in;height:2.49226in" />
+  style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden
   in het onderdeel ‘Building Blocks’ verder toegelicht.
@@ -4534,7 +4534,7 @@ blijven leidend.
 
 <img
 src="media/media/image22.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.28333in;height:4.19375in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Om deze samenhang duurzaam te borgen, is een gemeenschappelijke
 beschrijving van applicatiefuncties nodig die onafhankelijk is van
@@ -4613,7 +4613,7 @@ ABB’s en SBB’s vormen daarmee de schakel tussen architectuur
 
 <img
 src="media/media/image23.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.28333in;height:4.18889in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Voorbeeld – Aanvragen van een uitkering
 
@@ -4773,7 +4773,7 @@ staan.
 
   <img
   src="media/media/image24.png"
-  style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:3.42778in" />
+  style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Specificatie ABB’s niveau 2 
 
@@ -4877,7 +4877,7 @@ services](#bijlage---overzicht-services). Een voorbeeldmapping:
 
 <img
 src="media/media/image25.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29167in;height:3.39583in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 De bovenstaande mapping maakt inzichtelijk hoe de verschillende
 capabilities in de huidige situatie zijn belegd over componenten.
@@ -5116,7 +5116,7 @@ logisch gescheiden onderdelen:
 
   <img
   src="media/media/image26.png"
-  style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29167in;height:3.54167in" />
+  style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Processen communiceren uitsluitend met de dataservice; de registratie
 blijft verantwoordelijk voor de kwaliteit, integriteit en historie van
@@ -5163,7 +5163,7 @@ De **registratie** bestaat uit:
 
     <img
     src="media/media/image27.png"
-    style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:2.68485in;height:2.17003in" />
+    style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Functionele eisen aan registraties
 
@@ -5684,7 +5684,7 @@ In de huidige vorm van het platform is logging als volgt in te richten:
 
 <img
 src="media/media/image28.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29861in;height:4.40278in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 - **Logging van verkeer tussen services (groene lijn)** vindt plaats in
   de onderliggende infrastructuur, binnen de servicemesh (Istio) en de
@@ -5715,7 +5715,7 @@ De doelarchitectuur ziet er als volgt uit:
 
 <img
 src="media/media/image29.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29861in;height:2.89583in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 De doelarchitectuur logging is (o.a.) gebaseerd op het Logboek
 dataverwerkingen. De doelarchitectuur maakt onderscheid tussen de
@@ -6007,7 +6007,7 @@ organisaties. Dit betekent dat:
 
 <img
 src="media/media/image30.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29167in;height:2.625in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 # Toegepaste patronen
 
@@ -6429,7 +6429,7 @@ uitgefaseerd.
 
     <img
     src="media/media/image31.png"
-    style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:3.54375in;height:4.55972in"
+    style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
     alt="Afbeelding met tekst, schermopname, diagram, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
 ### Patroon B – Hybride implementatie
@@ -6486,7 +6486,7 @@ Hierdoor ontstaat een hybride architectuur waarin:
 
 <img
 src="media/media/image32.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:3.77612in;height:2.64633in"
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, lijn, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
 ## Registratiestrategie: één bron per informatiedomein
@@ -6693,7 +6693,7 @@ aansluitvoorwaarden.
 
 <img
 src="media/media/image33.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:4.19959in;height:1.81232in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Common Ground en Platform Dienstverlening
 
@@ -6711,7 +6711,7 @@ model van Common Ground:
 
 <img
 src="media/media/image34.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:3.49626in;height:1.7859in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Bij een nieuwe functionele behoefte (of een bestaande die ingevuld
 wordt, maar waarvan de software niet langer voldoet of contractueel
@@ -6724,7 +6724,7 @@ worden toegelicht.
 
 <img
 src="media/media/image35.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:1.3375in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Patroon A: Realisatie in Platform Dienstverlening
 
@@ -6782,7 +6782,7 @@ vorm van generieke aansluitingen (“stekkers”) op de gegevenslaag.
 
 <img
 src="media/media/image36.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:2.65764in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Leveranciers en communities behouden vrijheid in de inrichting en
 implementatie van hun software, voor zover de applicatie voldoet aan de
@@ -6983,7 +6983,7 @@ het platform en wordt zij gezamenlijk beheerd en doorontwikkeld.
 
 <img
 src="media/media/image37.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:4.13027in;height:2.72847in" />
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Om die reden gelden voor platformservices, naast de (niet-)functionele
 aansluitvoorwaarden Common Ground, aanvullende eisen op het gebied van
@@ -7651,7 +7651,7 @@ te onderscheiden van andere concepten.
 
 <img
 src="media/media/image38.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.3in;height:6.50625in"
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, nummer, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
 ### BusinessService: een generiek concept
@@ -7677,7 +7677,7 @@ De service is een *logisch* geheel, maar bestaat binnen het platform
 
 <img
 src="media/media/image39.png"
-style="width:80%;height:auto;display:block;margin-left:auto;margin-right:auto;;width:6.29861in;height:2.18194in"
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, lijn, ontvangst, nummer Door AI gegenereerde inhoud is mogelijk onjuist." />
 
 > \* Voorbeeld DMN-tabel: op basis van het type proces, de huidige fase,
