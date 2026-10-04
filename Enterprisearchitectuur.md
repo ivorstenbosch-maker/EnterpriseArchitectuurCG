@@ -352,7 +352,7 @@ rollen verantwoordelijkheden binnen gemeenten.
 
 | **Abstract/TL;DR** |
 |----|
-| **Dit** hoofdstuk legt uit wat dit document is, waarom het bestaat en hoe je het moet lezen**.** Het is de gezamenlijke enterprise-architectuur voor het Platform Dienstverlening van de G4 en geeft richting aan de ontwikkeling van generieke voorzieningen binnen Common Ground. De architectuur volgt de TOGAF-werkwijze en verbindt business, informatie, applicaties en techniek. Ook wordt afgebakend wat dit document wel en niet pretendeert te zijn. |
+| Dit hoofdstuk legt uit wat dit document is, waarom het bestaat en hoe je het moet lezen. Het is de gezamenlijke enterprise-architectuur voor het Platform Dienstverlening van de G4 en geeft richting aan de ontwikkeling van generieke voorzieningen binnen Common Ground. De architectuur volgt de TOGAF-werkwijze en verbindt business, informatie, applicaties en techniek. Ook wordt afgebakend wat dit document wel en niet pretendeert te zijn. |
 
 ## Doel van dit document
 
@@ -717,16 +717,11 @@ informatie te verifiëren en ontbrekende informatie op te halen.
 </colgroup>
 <thead>
 <tr>
-<th>Waarom zijn we hier eigenlijk aan begonnen? Omdat de gemeentelijke
-informatievoorziening inmiddels behoorlijk veel koppelingen,
-applicaties, leveranciersafhankelijkheid en historisch gegroeide
-complexiteit kent. Gemeenten leveren honderden producten en draaien meer
-dan duizend processen, maar hoeven daarvoor niet duizend keer hetzelfde
-wiel uit te vinden. Common Ground en het Platform Dienstverlening moeten
-de beweging maken naar herbruikbare componenten, data bij de bron,
-gezamenlijke ontwikkeling en meer regie. Oftewel: minder
-ieder-voor-zich-met-een-eigen-pakket, meer samen organiseren en
-hergebruiken.</th>
+<th>De gemeentelijke informatievoorziening is in de loop der jaren
+complex geworden, met veel applicaties, leveranciersafhankelijkheden en
+historisch gegroeide oplossingen. Common Ground en het Platform
+Dienstverlening maken daarom de beweging naar een overheid die
+eenvoudiger, samenhangender en beter herbruikbaar kan werken</th>
 </tr>
 </thead>
 <tbody>
