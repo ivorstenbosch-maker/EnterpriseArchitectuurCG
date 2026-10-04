@@ -59,7 +59,7 @@ toepassen van artificiële intelligentie (prioriteit 3). Zonder data kan
 AI geen betrouwbare of uitlegbare bijdrage leveren.
 
 <img
-src="media/media/image9.png"
+src="../media/media/image9.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Andere landelijke ontwikkelingen
@@ -149,7 +149,7 @@ beleidsdomeinen heen en vormt daarmee de basis voor eenduidige
 gegevensuitwisseling, registraties en informatiemodellen.
 
 <img
-src="media/media/image10.png"
+src="../media/media/image10.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Relatie met Platform Dienstverlening
@@ -208,7 +208,7 @@ servicedesigns.
   - [Website Common Ground](https://commonground.nl/)
 
     <img
-    src="media/media/image11.png"
+    src="../media/media/image11.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### G4D/Dimpact (Amsterdam, Rotterdam, Den Haag, Utrecht)
@@ -232,7 +232,7 @@ servicedesigns.
       Public](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public)
 
       <img
-      src="media/media/image12.png"
+      src="../media/media/image12.png"
       style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Platform Dienstverlening in context

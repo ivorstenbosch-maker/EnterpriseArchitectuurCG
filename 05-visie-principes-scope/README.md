@@ -67,7 +67,7 @@ Gezamenlijk beschrijven zij de beoogde maatschappelijke en
 organisatorische effecten van het Platform Dienstverlening.
 
 <img
-src="media/media/image13.png"
+src="../media/media/image13.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Meer regie
@@ -496,7 +496,7 @@ en in mindere mate op sturing en bedrijfsvoering.
   worden ingevuld door het platformmanagement
 
 <img
-src="media/media/image14.png"
+src="../media/media/image14.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, diagram, ontwerp Door AI gegenereerde inhoud is mogelijk onjuist." />
 

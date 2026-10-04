@@ -417,7 +417,7 @@ uitgefaseerd.
   - Vereist volledige migratie van processen en gegevens.
 
     <img
-    src="media/media/image31.png"
+    src="../media/media/image31.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
     alt="Afbeelding met tekst, schermopname, diagram, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -474,7 +474,7 @@ Hierdoor ontstaat een hybride architectuur waarin:
   kan worden uitgefaseerd.
 
 <img
-src="media/media/image32.png"
+src="../media/media/image32.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, lijn, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 

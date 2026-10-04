@@ -28,7 +28,7 @@ De governance kent verschillende niveaus met elk een eigen
 verantwoordelijkheid.
 
 <img
-src="media/media/image7.png"
+src="../media/media/image7.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Strategisch niveau
@@ -73,7 +73,7 @@ Binnen elke individuele gemeente verbindt architectuur strategie en
 beleid met portfolio, verandering en uitvoering:
 
 <img
-src="media/media/image8.png"
+src="../media/media/image8.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Op strategisch niveau draagt architectuur onder meer bij aan:

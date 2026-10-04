@@ -60,7 +60,7 @@ informatievoorziening. De huidige suite-architecturen sluiten
 onvoldoende aan op deze ambities.
 
 <img
-src="media/media/image3.png"
+src="../media/media/image3.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Breder kader 
@@ -160,7 +160,7 @@ berichtenverkeer, documentgeneratie en logging – in de kern generiek van
 aard is.
 
 <img
-src="media/media/image4.png"
+src="../media/media/image4.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Overzicht drijfveren
@@ -192,7 +192,7 @@ kostenstructuur. Deze interne factoren vormen de directe aanleiding voor
 de ontwikkeling van een gezamenlijk Platform Dienstverlening.
 
 <img
-src="media/media/image5.png"
+src="../media/media/image5.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -214,7 +214,7 @@ meer autonomie geeft en beter kan meebewegen met maatschappelijke en
 technologische veranderingen.
 
 <img
-src="media/media/image6.png"
+src="../media/media/image6.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 

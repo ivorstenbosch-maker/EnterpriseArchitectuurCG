@@ -54,7 +54,7 @@ De opbouw van deze Enterprisearchitectuur volgt de **TOGAF® Architecture
 Development Method (ADM)**.
 
 <img
-src="media/media/image1.png"
+src="../media/media/image1.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 [TOGAF](https://www.opengroup.org/togaf) is een internationaal erkende
@@ -128,7 +128,7 @@ dimensies:
   roadmap is vastgelegd.
 
   <img
-  src="media/media/image2.png"
+  src="../media/media/image2.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
   alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
