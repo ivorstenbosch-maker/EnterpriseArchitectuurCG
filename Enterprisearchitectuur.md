@@ -677,7 +677,7 @@ De opbouw van deze Enterprisearchitectuur volgt de **TOGAF® Architecture
 Development Method (ADM)**.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image1.png"
+src="media/media/image1.png"
 style="width:6.3in;height:3.00278in" />
 
 [TOGAF](https://www.opengroup.org/togaf) is een internationaal erkende
@@ -751,7 +751,7 @@ dimensies:
   roadmap is vastgelegd.
 
   <img
-  src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image2.png"
+  src="media/media/image2.png"
   style="width:2.83914in;height:2.64532in"
   alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -1072,7 +1072,7 @@ informatievoorziening. De huidige suite-architecturen sluiten
 onvoldoende aan op deze ambities.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image3.png"
+src="media/media/image3.png"
 style="width:4.25158in;height:2.29825in" />
 
 #### Breder kader 
@@ -1172,7 +1172,7 @@ berichtenverkeer, documentgeneratie en logging – in de kern generiek van
 aard is.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image4.png"
+src="media/media/image4.png"
 style="width:6.3in;height:3.38194in" />
 
 ### Overzicht drijfveren
@@ -1204,7 +1204,7 @@ kostenstructuur. Deze interne factoren vormen de directe aanleiding voor
 de ontwikkeling van een gezamenlijk Platform Dienstverlening.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image5.png"
+src="media/media/image5.png"
 style="width:6.3in;height:2.84861in"
 alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -1226,7 +1226,7 @@ meer autonomie geeft en beter kan meebewegen met maatschappelijke en
 technologische veranderingen.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image6.png"
+src="media/media/image6.png"
 style="width:6.3in;height:2.99375in"
 alt="Afbeelding met tekst, schermopname, diagram, lijn Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -1454,7 +1454,7 @@ De governance kent verschillende niveaus met elk een eigen
 verantwoordelijkheid.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image7.png"
+src="media/media/image7.png"
 style="width:6.28333in;height:3.14167in" />
 
 ### Strategisch niveau
@@ -1499,7 +1499,7 @@ Binnen elke individuele gemeente verbindt architectuur strategie en
 beleid met portfolio, verandering en uitvoering:
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image8.png"
+src="media/media/image8.png"
 style="width:3.88679in;height:3.04174in" />
 
 Op strategisch niveau draagt architectuur onder meer bij aan:
@@ -1632,7 +1632,7 @@ toepassen van artificiële intelligentie (prioriteit 3). Zonder data kan
 AI geen betrouwbare of uitlegbare bijdrage leveren.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image9.png"
+src="media/media/image9.png"
 style="width:6.29167in;height:4.1875in" />
 
 ## Andere landelijke ontwikkelingen
@@ -1722,7 +1722,7 @@ beleidsdomeinen heen en vormt daarmee de basis voor eenduidige
 gegevensuitwisseling, registraties en informatiemodellen.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image10.png"
+src="media/media/image10.png"
 style="width:6.3in;height:2.96111in" />
 
 #### Relatie met Platform Dienstverlening
@@ -1781,7 +1781,7 @@ servicedesigns.
   - [Website Common Ground](https://commonground.nl/)
 
     <img
-    src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image11.png"
+    src="media/media/image11.png"
     style="width:6.3in;height:3.05694in" />
 
 #### G4D/Dimpact (Amsterdam, Rotterdam, Den Haag, Utrecht)
@@ -1805,7 +1805,7 @@ servicedesigns.
       Public](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public)
 
       <img
-      src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image12.png"
+      src="media/media/image12.png"
       style="width:3.70057in;height:2.16071in" />
 
 ## Platform Dienstverlening in context
@@ -1936,7 +1936,7 @@ Gezamenlijk beschrijven zij de beoogde maatschappelijke en
 organisatorische effecten van het Platform Dienstverlening.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image13.png"
+src="media/media/image13.png"
 style="width:6.3in;height:2.2125in" />
 
 #### Meer regie
@@ -2365,7 +2365,7 @@ en in mindere mate op sturing en bedrijfsvoering.
   worden ingevuld door het platformmanagement
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image14.png"
+src="media/media/image14.png"
 style="width:6.3in;height:4.08056in"
 alt="Afbeelding met tekst, schermopname, diagram, ontwerp Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -2644,7 +2644,7 @@ ondersteunt beide perspectieven: de beleving van de inwoner aan de
 buitenkant en de samenhangende uitvoering aan de binnenkant.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image15.png"
+src="media/media/image15.png"
 style="width:6.29097in;height:3.17431in" />
 
 ## Bedrijfsarchitectuur als schakel tussen platform, inwoner en organisatie
@@ -2754,7 +2754,7 @@ BusinessServices de uitvoering van het werk. Samen vormen zij de
 verbinding tussen de buitenwereld en de interne bedrijfsvoering.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image16.png"
+src="media/media/image16.png"
 style="width:6.3in;height:2.14583in" />
 
 ### BusinessServices als ontwerpprincipe
@@ -2937,7 +2937,7 @@ werken. De volgende ontwerpstappen gelden:
     zich continu ontwikkelt.
 
     <img
-    src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image17.png"
+    src="media/media/image17.png"
     style="width:6.3in;height:2.42361in" />
 
 ## Domain-Driven Design als ontwerppraktijk
@@ -2992,7 +2992,7 @@ BusinessService-benadering, zoals cohesie, herbruikbaarheid en
 duidelijke verantwoordelijkheid.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image18.png"
+src="media/media/image18.png"
 style="width:4.00266in;height:3.49218in" />
 
 ## Implicaties voor de bestaande organisatie
@@ -4191,7 +4191,7 @@ Deze scheiding kent twee complementaire dimensies.
     gebruikt.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image19.png"
+src="media/media/image19.png"
 style="width:6.29167in;height:3.35417in" />
 
 Daarnaast bestaan domeinspecifieke registraties voor gegevens die
@@ -4712,7 +4712,7 @@ verschillende implementatievarianten mogelijk:
   ingeladen in een datawarehouse.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image20.png"
+src="media/media/image20.png"
 style="width:6.28333in;height:4.18889in" />
 
 # Applicatiearchitectuur
@@ -4817,7 +4817,7 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
 - **Gegevens** (registraties).
 
   <img
-  src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image21.png"
+  src="media/media/image21.png"
   style="width:4.89063in;height:2.49226in" />
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden
@@ -5074,7 +5074,7 @@ veranderen; de architectuurprincipes en verantwoordelijkheidsverdeling
 blijven leidend.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image22.png"
+src="media/media/image22.png"
 style="width:6.28333in;height:4.19375in" />
 
 Om deze samenhang duurzaam te borgen, is een gemeenschappelijke
@@ -5153,7 +5153,7 @@ ABB’s en SBB’s vormen daarmee de schakel tussen architectuur
 (richtinggevend) en realisatie (concreet en configureerbaar).
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image23.png"
+src="media/media/image23.png"
 style="width:6.28333in;height:4.18889in" />
 
 ### Voorbeeld – Aanvragen van een uitkering
@@ -5313,7 +5313,7 @@ staan.
   platformdiensten.
 
   <img
-  src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image24.png"
+  src="media/media/image24.png"
   style="width:6.3in;height:3.42778in" />
 
 ### Specificatie ABB’s niveau 2 
@@ -5417,7 +5417,7 @@ De SBB’s op niveau 1 staan ook verzameld onder [Overzicht
 services](#bijlage---overzicht-services). Een voorbeeldmapping:
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image25.png"
+src="media/media/image25.png"
 style="width:6.29167in;height:3.39583in" />
 
 De bovenstaande mapping maakt inzichtelijk hoe de verschillende
@@ -5656,7 +5656,7 @@ logisch gescheiden onderdelen:
   beschikbaar worden gesteld.
 
   <img
-  src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image26.png"
+  src="media/media/image26.png"
   style="width:6.29167in;height:3.54167in" />
 
 Processen communiceren uitsluitend met de dataservice; de registratie
@@ -5703,7 +5703,7 @@ De **registratie** bestaat uit:
     **7.11**.
 
     <img
-    src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image27.png"
+    src="media/media/image27.png"
     style="width:2.68485in;height:2.17003in" />
 
 ### Functionele eisen aan registraties
@@ -6259,7 +6259,7 @@ wanneer ze gebruikmaken van dezelfde onderliggende opslag.
 In de huidige vorm van het platform is logging als volgt in te richten:
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image28.png"
+src="media/media/image28.png"
 style="width:6.29861in;height:4.40278in" />
 
 - **Logging van verkeer tussen services (groene lijn)** vindt plaats in
@@ -6290,7 +6290,7 @@ buildingblocks zijn bestaande (OpenSource) oplossingen beschikbaar.
 De doelarchitectuur ziet er als volgt uit:
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image29.png"
+src="media/media/image29.png"
 style="width:6.29861in;height:2.89583in" />
 
 De doelarchitectuur logging is (o.a.) gebaseerd op het Logboek
@@ -6623,7 +6623,7 @@ organisaties. Dit betekent dat:
   onderdeel [Toegepaste patronen](#toegepaste-patronen).
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image30.png"
+src="media/media/image30.png"
 style="width:6.29167in;height:2.625in" />
 
 # Toegepaste patronen
@@ -7081,7 +7081,7 @@ uitgefaseerd.
   - Vereist volledige migratie van processen en gegevens.
 
     <img
-    src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image31.png"
+    src="media/media/image31.png"
     style="width:3.54375in;height:4.55972in"
     alt="Afbeelding met tekst, schermopname, diagram, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -7138,7 +7138,7 @@ Hierdoor ontstaat een hybride architectuur waarin:
   kan worden uitgefaseerd.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image32.png"
+src="media/media/image32.png"
 style="width:3.77612in;height:2.64633in"
 alt="Afbeelding met tekst, schermopname, lijn, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -7379,7 +7379,7 @@ Valt de oplossing binnen deze scope? Dan gelden de Common Ground
 aansluitvoorwaarden.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image33.png"
+src="media/media/image33.png"
 style="width:4.19959in;height:1.81232in" />
 
 ## Common Ground en Platform Dienstverlening
@@ -7397,7 +7397,7 @@ en realiseert een ontkoppeld landschap van (micro)services volgens het
 model van Common Ground:
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image34.png"
+src="media/media/image34.png"
 style="width:3.49626in;height:1.7859in" />
 
 Bij een nieuwe functionele behoefte (of een bestaande die ingevuld
@@ -7410,7 +7410,7 @@ beslisboom waarin twee patronen worden onderscheiden, die hieronder
 worden toegelicht.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image35.png"
+src="media/media/image35.png"
 style="width:6.3in;height:1.3375in" />
 
 ### Patroon A: Realisatie in Platform Dienstverlening
@@ -7468,7 +7468,7 @@ en integratievoorzieningen. Het Platform biedt hier ruimte voor in de
 vorm van generieke aansluitingen (“stekkers”) op de gegevenslaag.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image36.png"
+src="media/media/image36.png"
 style="width:6.3in;height:2.65764in" />
 
 Leveranciers en communities behouden vrijheid in de inrichting en
@@ -7669,7 +7669,7 @@ referentiearchitectuur, valt deze onder de architectuurgovernance van
 het platform en wordt zij gezamenlijk beheerd en doorontwikkeld.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image37.png"
+src="media/media/image37.png"
 style="width:4.13027in;height:2.72847in" />
 
 Om die reden gelden voor platformservices, naast de (niet-)functionele
@@ -8337,7 +8337,7 @@ functionaliteit. Het wordt hier met twee hoofdletters geschreven om het
 te onderscheiden van andere concepten.
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image38.png"
+src="media/media/image38.png"
 style="width:6.3in;height:6.50625in"
 alt="Afbeelding met tekst, schermopname, nummer, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -8363,7 +8363,7 @@ De service is een *logisch* geheel, maar bestaat binnen het platform
 | **1. Data / Registratie-laag** | Duurzame vastlegging van gegevens | De BusinessService heeft geen eigen database maar gebruikt een registratie waarin de door de service beheerde gegevens consistent, leidend en deelbaar worden vastgelegd. |
 
 <img
-src="C:\Users\Gebruiker\OneDrive\Bureaublad\GU\gitbook-conversie\gitbook\media/media/image39.png"
+src="media/media/image39.png"
 style="width:6.29861in;height:2.18194in"
 alt="Afbeelding met tekst, lijn, ontvangst, nummer Door AI gegenereerde inhoud is mogelijk onjuist." />
 
