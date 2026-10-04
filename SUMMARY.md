@@ -1,0 +1,18 @@
+# Summary
+
+* [Managementsamenvatting](README.md)
+* [1. Over dit document](01-over-dit-document/README.md)
+* [2. Motivatie, strategie, uitkomst](02-motivatie-strategie-uitkomst/README.md)
+* [3. Governance](03-governance/README.md)
+* [4. Samenhang met andere ontwikkelingen](04-samenhang-met-andere-ontwikkelingen/README.md)
+* [5. Visie, principes, scope](05-visie-principes-scope/README.md)
+* [6. Businessarchitectuur](06-businessarchitectuur/README.md)
+* [7. Informatie- en data-architectuur](07-informatie-en-data-architectuur/README.md)
+* [8. Applicatiearchitectuur](08-applicatiearchitectuur/README.md)
+* [9. Logging](09-logging/README.md)
+* [10. Identificatie, authenticatie en autorisatie](10-identificatie-authenticatie-en-autorisatie/README.md)
+* [11. Toegepaste patronen](11-toegepaste-patronen/README.md)
+* [12. Technische architectuur](12-technische-architectuur/README.md)
+* [13. Standaarden](13-standaarden/README.md)
+* [14. Aansluitvoorwaarden Platform Dienstverlening](14-aansluitvoorwaarden-platform-dienstverlening/README.md)
+* [15. BIJLAGEN](15-bijlagen/README.md)
