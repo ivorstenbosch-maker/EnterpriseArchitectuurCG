@@ -700,43 +700,9 @@ informatie te verifiëren en ontbrekende informatie op te halen.
 
 # Motivatie, strategie, uitkomst
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>De gemeentelijke informatievoorziening is in de loop der jaren
-complex geworden, met veel applicaties, leveranciersafhankelijkheden en
-historisch gegroeide oplossingen. Common Ground en het Platform
-Dienstverlening maken daarom de beweging naar een overheid die
-eenvoudiger, samenhangender en beter herbruikbaar kan werken</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| De gemeentelijke informatievoorziening is in de loop der jaren complex geworden, met veel applicaties, leveranciersafhankelijkheden en historisch gegroeide oplossingen. Common Ground en het Platform Dienstverlening maken daarom de beweging naar een overheid die eenvoudiger, samenhangender en beter herbruikbaar kan werken |
 
 ## Inleiding
 
@@ -1107,47 +1073,6 @@ uitgewerkt.
 
 # Governance
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Een architectuur zonder afspraken is niet handig. Daarom beschrijft
-dit hoofdstuk hoe het Platform Dienstverlening wordt bestuurd en
-doorontwikkeld. De G4 en Dimpact dragen gezamenlijk
-verantwoordelijkheid; op strategisch niveau bepalen de Common
-Ground-programma’s de koers, tactisch worden prioriteiten en
-samenwerking afgestemd en operationeel sturen Lead Product Owners de
-ontwikkeling. De Technische Stuurgroep bewaakt de architectonische
-samenhang.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
-
 ## Inleiding
 
 Het Platform Dienstverlening is iteratief ontwikkeld vanuit een
@@ -1257,47 +1182,9 @@ organiseren.
 
 # Samenhang met andere ontwikkelingen 
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Het Platform Dienstverlening is geen eiland. Dit hoofdstuk legt uit
-hoe het platform zich verhoudt tot de NDS, andere landelijke
-ontwikkelingen en de gemeentelijke praktijk. De grote lijn: landelijke
-ambities rond standaarden, hergebruik, data delen, digitale autonomie en
-gezamenlijke voorzieningen worden vertaald naar een concrete
-gemeentelijke inrichting. Het platform is daarmee niet nóg een
-strategisch praatstuk, maar probeert de stap te maken van “we vinden dit
-allemaal belangrijk” naar “zo gaan we het daadwerkelijk bouwen en
-gebruiken”.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| Het Platform Dienstverlening is geen eiland. Dit hoofdstuk legt uit hoe het platform zich verhoudt tot de NDS, andere landelijke ontwikkelingen en de gemeentelijke praktijk. De grote lijn: landelijke ambities rond standaarden, hergebruik, data delen, digitale autonomie en gezamenlijke voorzieningen worden vertaald naar een concrete gemeentelijke inrichting. Het platform is daarmee niet nóg een strategisch praatstuk, maar probeert de stap te maken van “we vinden dit allemaal belangrijk” naar “zo gaan we het daadwerkelijk bouwen en gebruiken”. |
 
 Het Platform Dienstverlening is een zelfstandig architectuur- en
 ontwikkelprogramma met een eigen scope, governance en roadmap. Het vormt
@@ -1555,45 +1442,9 @@ overheid.
 
 # Visie, principes, scope
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Hier wordt bepaald waar we naartoe willen en volgens welke
-spelregels. De visie draait om dienstverlening die meer samenhangend,
-informatiegericht, herbruikbaar en minder afhankelijk van individuele
-leveranciers is. De architectuurprincipes vertalen dat naar concrete
-uitgangspunten, zoals data bij de bron, data-autonomie, hergebruik, Open
-Source, generiek vóór specifiek en portabiliteit. Ook wordt de scope
-bepaald.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| Hier wordt bepaald waar we naartoe willen en volgens welke spelregels. De visie draait om dienstverlening die meer samenhangend, informatiegericht, herbruikbaar en minder afhankelijk van individuele leveranciers is. De architectuurprincipes vertalen dat naar concrete uitgangspunten, zoals data bij de bron, data-autonomie, hergebruik, Open Source, generiek vóór specifiek en portabiliteit. Ook wordt de scope bepaald. |
 
 ## Inleiding
 
@@ -2151,47 +2002,9 @@ gegevensbeschikbaarheid, integraties of beveiligingsvoorzieningen.
 
 # Businessarchitectuur
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Dit hoofdstuk verplaatst de aandacht van “welke applicatie hebben
-we?” naar “welke dienstverlening willen we leveren?” De bestaande
-verkokering moet plaatsmaken voor samenhangende waardestromen en
-herbruikbare BusinessServices. Domain-Driven Design helpt om
-verantwoordelijkheden, domeinen en grenzen scherp te krijgen. De
-bedoeling is dat gemeenten niet voor ieder probleem opnieuw een
-maatwerkoplossing optuigen, maar eerst kijken wat al generiek kan. Dat
-vraagt overigens niet alleen nieuwe software, maar ook een andere manier
-van organiseren, sturen en samenwerken.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| Dit hoofdstuk verplaatst de aandacht van architectuur naar van “welke applicatie hebben we?” naar “welke dienstverlening willen we leveren?” De bestaande verkokering moet plaatsmaken voor samenhangende waardestromen en herbruikbare BusinessServices. Domain-Driven Design helpt om verantwoordelijkheden, domeinen en grenzen scherp te krijgen. De bedoeling is dat gemeenten niet voor ieder probleem opnieuw een maatwerkoplossing optuigen, maar eerst kijken wat al generiek kan. Dat vraagt overigens niet alleen nieuwe software, maar ook een andere manier van organiseren, sturen en samenwerken. |
 
 ## Inleiding
 
@@ -2912,47 +2725,9 @@ dat fundamentele architectuurkeuzes opnieuw hoeven te worden gemaakt.
 
 # Informatie- en data-architectuur
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Data hoort niet verstopt te zitten in de applicatiekelder. Dit
-hoofdstuk beschrijft hoe informatie wordt georganiseerd vanuit de
-werkelijkheid die de gemeente wil registreren, met zelfstandige
-registraties, duidelijke domeinen en gestandaardiseerde ontsluiting.
-Belangrijke uitgangspunten zijn data bij de bron, data-autonomie,
-kwaliteit by design, duurzame toegankelijkheid en een duidelijke
-scheiding tussen registraties, dataservices en processen. Kortom: eerst
-bepalen welke gegevens waar thuishoren, daarna pas bedenken welke
-software ermee mag spelen.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| Data hoort niet verstopt te zitten in de applicatiekelder. Dit hoofdstuk beschrijft hoe informatie wordt georganiseerd vanuit de werkelijkheid die de gemeente wil registreren, met zelfstandige registraties, duidelijke domeinen en gestandaardiseerde ontsluiting. Belangrijke uitgangspunten zijn data bij de bron, data-autonomie, kwaliteit by design, duurzame toegankelijkheid en een duidelijke scheiding tussen registraties, dataservices en processen. Kortom: eerst bepalen welke gegevens waar thuishoren, daarna pas bedenken welke software ermee mag spelen. |
 
 ## Inleiding
 
@@ -4439,47 +4214,9 @@ style="width:6.28333in;height:4.18889in" />
 
 # Applicatiearchitectuur
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Hier wordt het allemaal wat technischer. De applicatiearchitectuur
-vertaalt de eerdere uitgangspunten naar services, API’s, events en
-componenten. Het vijf-lagenmodel onderscheidt interactie, proces,
-connectiviteit, diensten en gegevens. Functionaliteit wordt zoveel
-mogelijk opgebouwd uit zelfstandige, herbruikbare componenten met een
-duidelijke verantwoordelijkheid. De kernboodschap: geen monolithische
-alleskunner die tegelijk je registratie, proces, formulier, API en
-koffieautomaat wil zijn, maar kleinere bouwstenen die netjes
-samenwerken.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| Hier wordt het allemaal wat technischer. De applicatiearchitectuur vertaalt de eerdere uitgangspunten naar services, API’s, events en componenten. Het vijf-lagenmodel onderscheidt interactie, proces, connectiviteit, diensten en gegevens. Functionaliteit wordt zoveel mogelijk opgebouwd uit zelfstandige, herbruikbare componenten met een duidelijke verantwoordelijkheid. De kernboodschap: geen monolithische alleskunner die tegelijk je registratie, proces, formulier, API en koffieautomaat wil zijn, maar kleinere bouwstenen die netjes samenwerken. |
 
 ## Inleiding
 
@@ -5745,44 +5482,9 @@ Handelingsgedreven API's:
 
 # Logging
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Dit hoofdstuk beschrijft de uitgangspunten voor logging en
-observability binnen het Platform Dienstverlening. Logging moet helpen
-om systemen, gebeurtenissen en ketens te begrijpen, fouten te vinden en
-beheer en toezicht te ondersteunen. Het gaat dus niet om zoveel mogelijk
-logregels verzamelen, maar om voldoende informatie om te kunnen
-reconstrueren wat er is gebeurd.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| Dit hoofdstuk beschrijft de uitgangspunten voor logging en observability binnen het Platform Dienstverlening. Logging moet helpen om systemen, gebeurtenissen en ketens te begrijpen, fouten te vinden en beheer en toezicht te ondersteunen. Het gaat dus niet om zoveel mogelijk logregels verzamelen, maar om voldoende informatie om te kunnen reconstrueren wat er is gebeurd. |
 
 Logging is een essentieel onderdeel van de kwaliteitseisen van het
 Platform Dienstverlening en geeft invulling aan het principe Kwaliteit
@@ -6201,47 +5903,6 @@ patroon** in het onderdeel [Toegepaste patronen](#toegepaste-patronen).
 
 # Identificatie, authenticatie en autorisatie
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Dit hoofdstuk gaat over de klassieke drie vragen: wie ben je, mag je
-erin en wat mag je vervolgens doen? Identificatie en authenticatie
-worden onder meer ingevuld met voorzieningen zoals Keycloak en DigiD.
-Voor autorisatie wordt toegewerkt naar een meer beleidsgerichte
-benadering, waaronder Policy Based Access Control en Federatieve
-Toegangsverlening. Het uitgangspunt is dat toegangsrechten niet ergens
-diep in een applicatie verstopt zitten, maar expliciet, beheersbaar en
-herbruikbaar worden georganiseerd.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
-
 Binnen het Platform wordt een scheiding aangebracht tussen
 identificatie/authenticatie en autorisatie:
 
@@ -6350,45 +6011,9 @@ style="width:6.29167in;height:2.625in" />
 
 # Toegepaste patronen
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Dit hoofdstuk beschrijft herbruikbare oplossingspatronen voor
-veelvoorkomende vormen van dienstverlening, zoals notificaties,
-verzoeken, taken en berichten. Ook worden implementatiepatronen en de
-registratiestrategie beschreven. De gedachte is simpel: als iets vaker
-voorkomt, maken we er een patroon van. Scheelt discussie, scheelt
-maatwerk en vooral: scheelt opnieuw dezelfde architectuurpresentatie
-maken.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| Dit hoofdstuk beschrijft herbruikbare oplossingspatronen voor veelvoorkomende vormen van dienstverlening, zoals notificaties, verzoeken, taken en berichten. Ook worden implementatiepatronen en de registratiestrategie beschreven. De gedachte is simpel: als iets vaker voorkomt, maken we er een patroon van. |
 
 ## Inleiding
 
@@ -7039,43 +6664,9 @@ voor architecten, ontwerpers en ontwikkelaars.
 
 # Aansluitvoorwaarden Platform Dienstverlening
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Abstract/TL;DR</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th>Wie wil aansluiten op het Platform Dienstverlening krijgt een aantal
-voorwaarden. Dit hoofdstuk beschrijft wanneer en hoe oplossingen binnen
-Common Ground passen, welke eisen gelden voor platformservices en
-Patroon B, hoe softwarekwaliteit wordt geborgd en welke organisatorische
-voorwaarden gelden.</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+| **Abstract/TL;DR** |
+|----|
+| Wie wil aansluiten op het Platform Dienstverlening krijgt een aantal voorwaarden. Dit hoofdstuk beschrijft wanneer en hoe oplossingen binnen Common Ground passen, welke eisen gelden voor platformservices en Patroon B, hoe softwarekwaliteit wordt geborgd en welke organisatorische voorwaarden gelden. |
 
 ## Handleiding bij de aansluitvoorwaarden
 
