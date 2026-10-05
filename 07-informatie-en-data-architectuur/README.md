@@ -876,9 +876,10 @@ beveiliging van hun eigen services.
 
 ### Verantwoordelijkheid van services
 
-De beschikbaarheid van generieke platformvoorzieningen ontslaat
-individuele services niet van hun eigen verantwoordelijkheid. Iedere
-service blijft verantwoordelijk voor onder andere:
+De beschikbaarheid van generieke platformvoorzieningen ontslaat de
+proceseigenaar niet van de eigen verantwoordelijkheid voor de inrichting
+van de service. Bij iedere implementatie blijft de proceseigenaar
+verantwoordelijk voor onder andere:
 
 - Correcte autorisatie van bedrijfsfunctionaliteit;
 
@@ -890,7 +891,9 @@ service blijft verantwoordelijk voor onder andere:
 
 - Veilige softwareontwikkeling en onderhoud.
 
-Platformbeveiliging en applicatiebeveiliging vullen elkaar daarmee aan.
+Platformbeveiliging en applicatiebeveiliging vullen elkaar daarmee aan;
+maar ook bij de uitbesteding van ontwikkeling of beheer blijft de
+proceseigenaar eindverantwoordelijk.
 
 ### Verdere uitwerking
 
@@ -909,6 +912,11 @@ naar:
 - De gemeentelijke BIO-governance, waarin risicomanagement,
   classificatie, incidentmanagement, leveranciersmanagement, auditing en
   compliance zijn belegd.
+
+- Een Security Handboek waarin de BIO2-beheersmaatregelen voor de
+  relevante domeinen worden uitgewerkt tot concrete
+  beveiligingsstandaarden voor het platform en services. Dit document is
+  in ontwikkeling. Publicatie volgt.
 
 ## Data-architectuur
 
