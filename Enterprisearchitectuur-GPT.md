@@ -1294,6 +1294,10 @@ Overheid. Het biedt generieke architectuurblokken en herbruikbare
 softwarecomponenten die gemeenten kunnen inzetten bij de inrichting en
 doorontwikkeling van hun dienstverlening. Een globale mapping als volgt:
 
+<img
+src="media/media/image10.png"
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
+
 ### Federatief Datastelsel (FDS)
 
 Het [**Federatief Datastelsel
@@ -1341,7 +1345,7 @@ beleidsdomeinen heen en vormt daarmee de basis voor eenduidige
 gegevensuitwisseling, registraties en informatiemodellen.
 
 <img
-src="media/media/image10.png"
+src="media/media/image11.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Relatie met Platform Dienstverlening
@@ -1400,7 +1404,7 @@ servicedesigns.
   - [Website Common Ground](https://commonground.nl/)
 
     <img
-    src="media/media/image11.png"
+    src="media/media/image12.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### G4D/Dimpact (Amsterdam, Rotterdam, Den Haag, Utrecht)
@@ -1424,7 +1428,7 @@ servicedesigns.
       Public](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public)
 
       <img
-      src="media/media/image12.png"
+      src="media/media/image13.png"
       style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Platform Dienstverlening in context
@@ -1519,7 +1523,7 @@ Gezamenlijk beschrijven zij de beoogde maatschappelijke en
 organisatorische effecten van het Platform Dienstverlening.
 
 <img
-src="media/media/image13.png"
+src="media/media/image14.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Meer regie
@@ -1944,7 +1948,7 @@ en in mindere mate op sturing en bedrijfsvoering.
   worden ingevuld door het platformmanagement
 
 <img
-src="media/media/image14.png"
+src="media/media/image15.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, diagram, ontwerp Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -2186,7 +2190,7 @@ ondersteunt beide perspectieven: de beleving van de inwoner aan de
 buitenkant en de samenhangende uitvoering aan de binnenkant.
 
 <img
-src="media/media/image15.png"
+src="media/media/image16.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Bedrijfsarchitectuur als schakel tussen platform, inwoner en organisatie
@@ -2296,7 +2300,7 @@ BusinessServices de uitvoering van het werk. Samen vormen zij de
 verbinding tussen de buitenwereld en de interne bedrijfsvoering.
 
 <img
-src="media/media/image16.png"
+src="media/media/image17.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### BusinessServices als ontwerpprincipe
@@ -2476,7 +2480,7 @@ werken. De volgende ontwerpstappen gelden:
     zich continu ontwikkelt.
 
     <img
-    src="media/media/image17.png"
+    src="media/media/image18.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Domain-Driven Design als ontwerppraktijk
@@ -2531,7 +2535,7 @@ BusinessService-benadering, zoals cohesie, herbruikbaarheid en
 duidelijke verantwoordelijkheid.
 
 <img
-src="media/media/image18.png"
+src="media/media/image19.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Implicaties voor de bestaande organisatie
@@ -3700,7 +3704,7 @@ Deze scheiding kent twee complementaire dimensies.
     gebruikt.
 
 <img
-src="media/media/image19.png"
+src="media/media/image20.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Daarnaast bestaan domeinspecifieke registraties voor gegevens die
@@ -4221,7 +4225,7 @@ verschillende implementatievarianten mogelijk:
   ingeladen in een datawarehouse.
 
 <img
-src="media/media/image20.png"
+src="media/media/image21.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 # Applicatiearchitectuur
@@ -4288,7 +4292,7 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
 - **Gegevens** (registraties).
 
   <img
-  src="media/media/image21.png"
+  src="media/media/image22.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden
@@ -4545,7 +4549,7 @@ veranderen; de architectuurprincipes en verantwoordelijkheidsverdeling
 blijven leidend.
 
 <img
-src="media/media/image22.png"
+src="media/media/image23.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Om deze samenhang duurzaam te borgen, is een gemeenschappelijke
@@ -4624,7 +4628,7 @@ ABB’s en SBB’s vormen daarmee de schakel tussen architectuur
 (richtinggevend) en realisatie (concreet en configureerbaar).
 
 <img
-src="media/media/image23.png"
+src="media/media/image24.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Voorbeeld – Aanvragen van een uitkering
@@ -4784,7 +4788,7 @@ staan.
   platformdiensten.
 
   <img
-  src="media/media/image24.png"
+  src="media/media/image25.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Specificatie ABB’s niveau 2 
@@ -4888,7 +4892,7 @@ De SBB’s op niveau 1 staan ook verzameld onder [BIJLAGE - Overzicht
 services](#bijlage---overzicht-services). Een voorbeeldmapping:
 
 <img
-src="media/media/image25.png"
+src="media/media/image26.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 De bovenstaande mapping maakt inzichtelijk hoe de verschillende
@@ -5127,7 +5131,7 @@ logisch gescheiden onderdelen:
   beschikbaar worden gesteld.
 
   <img
-  src="media/media/image26.png"
+  src="media/media/image27.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Processen communiceren uitsluitend met de dataservice; de registratie
@@ -5174,7 +5178,7 @@ De **registratie** bestaat uit:
     van API's](#architectuur-van-apis).
 
     <img
-    src="media/media/image27.png"
+    src="media/media/image28.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Functionele eisen aan registraties
@@ -5696,7 +5700,7 @@ wanneer ze gebruikmaken van dezelfde onderliggende opslag.
 In de huidige vorm van het platform is logging als volgt in te richten:
 
 <img
-src="media/media/image28.png"
+src="media/media/image29.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 - **Logging van verkeer tussen services (groene lijn)** vindt plaats in
@@ -5727,7 +5731,7 @@ buildingblocks zijn bestaande (OpenSource) oplossingen beschikbaar.
 De doelarchitectuur ziet er als volgt uit:
 
 <img
-src="media/media/image29.png"
+src="media/media/image30.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 De doelarchitectuur logging is (o.a.) gebaseerd op het Logboek
@@ -6018,7 +6022,7 @@ organisaties. Dit betekent dat:
   onderdeel [Toegepaste patronen](#toegepaste-patronen).
 
 <img
-src="media/media/image30.png"
+src="media/media/image31.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 # Toegepaste patronen
@@ -6441,7 +6445,7 @@ uitgefaseerd.
   - Vereist volledige migratie van processen en gegevens.
 
     <img
-    src="media/media/image31.png"
+    src="media/media/image32.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
     alt="Afbeelding met tekst, schermopname, diagram, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -6498,7 +6502,7 @@ Hierdoor ontstaat een hybride architectuur waarin:
   kan worden uitgefaseerd.
 
 <img
-src="media/media/image32.png"
+src="media/media/image33.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, lijn, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -6705,7 +6709,7 @@ Valt de oplossing binnen deze scope? Dan gelden de Common Ground
 aansluitvoorwaarden.
 
 <img
-src="media/media/image33.png"
+src="media/media/image34.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Common Ground en Platform Dienstverlening
@@ -6723,7 +6727,7 @@ en realiseert een ontkoppeld landschap van (micro)services volgens het
 model van Common Ground:
 
 <img
-src="media/media/image34.png"
+src="media/media/image35.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Bij een nieuwe functionele behoefte (of een bestaande die ingevuld
@@ -6736,7 +6740,7 @@ beslisboom waarin twee patronen worden onderscheiden, die hieronder
 worden toegelicht.
 
 <img
-src="media/media/image35.png"
+src="media/media/image36.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Patroon A: Realisatie in Platform Dienstverlening
@@ -6794,7 +6798,7 @@ en integratievoorzieningen. Het Platform biedt hier ruimte voor in de
 vorm van generieke aansluitingen (“stekkers”) op de gegevenslaag.
 
 <img
-src="media/media/image36.png"
+src="media/media/image37.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Leveranciers en communities behouden vrijheid in de inrichting en
@@ -6995,7 +6999,7 @@ referentiearchitectuur, valt deze onder de architectuurgovernance van
 het platform en wordt zij gezamenlijk beheerd en doorontwikkeld.
 
 <img
-src="media/media/image37.png"
+src="media/media/image38.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Om die reden gelden voor platformservices, naast de (niet-)functionele
@@ -7665,7 +7669,7 @@ functionaliteit. Het wordt hier met twee hoofdletters geschreven om het
 te onderscheiden van andere concepten.
 
 <img
-src="media/media/image38.png"
+src="media/media/image39.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, nummer, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -7691,7 +7695,7 @@ De service is een *logisch* geheel, maar bestaat binnen het platform
 | **1. Data / Registratie-laag** | Duurzame vastlegging van gegevens | De BusinessService heeft geen eigen database maar gebruikt een registratie waarin de door de service beheerde gegevens consistent, leidend en deelbaar worden vastgelegd. |
 
 <img
-src="media/media/image39.png"
+src="media/media/image40.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, lijn, ontvangst, nummer Door AI gegenereerde inhoud is mogelijk onjuist." />
 

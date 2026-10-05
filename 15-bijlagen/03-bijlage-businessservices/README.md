@@ -11,7 +11,7 @@ functionaliteit. Het wordt hier met twee hoofdletters geschreven om het
 te onderscheiden van andere concepten.
 
 <img
-src="../../media/media/image38.png"
+src="../../media/media/image39.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, nummer, Lettertype Door AI gegenereerde inhoud is mogelijk onjuist." />
 
@@ -37,7 +37,7 @@ De service is een *logisch* geheel, maar bestaat binnen het platform
 | **1. Data / Registratie-laag** | Duurzame vastlegging van gegevens | De BusinessService heeft geen eigen database maar gebruikt een registratie waarin de door de service beheerde gegevens consistent, leidend en deelbaar worden vastgelegd. |
 
 <img
-src="../../media/media/image39.png"
+src="../../media/media/image40.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, lijn, ontvangst, nummer Door AI gegenereerde inhoud is mogelijk onjuist." />
 

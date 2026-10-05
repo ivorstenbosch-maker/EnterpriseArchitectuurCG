@@ -50,5 +50,5 @@ BusinessService-benadering, zoals cohesie, herbruikbaarheid en
 duidelijke verantwoordelijkheid.
 
 <img
-src="../../media/media/image18.png"
+src="../../media/media/image19.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />

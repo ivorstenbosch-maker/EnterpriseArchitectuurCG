@@ -7,7 +7,7 @@ referentiearchitectuur, valt deze onder de architectuurgovernance van
 het platform en wordt zij gezamenlijk beheerd en doorontwikkeld.
 
 <img
-src="../../media/media/image37.png"
+src="../../media/media/image38.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Om die reden gelden voor platformservices, naast de (niet-)functionele

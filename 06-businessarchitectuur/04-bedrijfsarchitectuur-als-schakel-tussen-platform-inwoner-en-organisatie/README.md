@@ -105,7 +105,7 @@ BusinessServices de uitvoering van het werk. Samen vormen zij de
 verbinding tussen de buitenwereld en de interne bedrijfsvoering.
 
 <img
-src="../../media/media/image16.png"
+src="../../media/media/image17.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### BusinessServices als ontwerpprincipe

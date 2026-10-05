@@ -86,7 +86,7 @@ De SBB’s op niveau 1 staan ook verzameld onder [BIJLAGE - Overzicht
 services](#bijlage---overzicht-services). Een voorbeeldmapping:
 
 <img
-src="../../media/media/image25.png"
+src="../../media/media/image26.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 De bovenstaande mapping maakt inzichtelijk hoe de verschillende

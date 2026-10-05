@@ -47,5 +47,5 @@ organisaties. Dit betekent dat:
   onderdeel [Toegepaste patronen](../../11-toegepaste-patronen/README.md#toegepaste-patronen).
 
 <img
-src="../../media/media/image30.png"
+src="../../media/media/image31.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />

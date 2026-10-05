@@ -125,5 +125,5 @@ ondersteunt beide perspectieven: de beleving van de inwoner aan de
 buitenkant en de samenhangende uitvoering aan de binnenkant.
 
 <img
-src="../../media/media/image15.png"
+src="../../media/media/image16.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />

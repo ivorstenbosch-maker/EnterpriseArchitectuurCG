@@ -11,7 +11,7 @@ veranderen; de architectuurprincipes en verantwoordelijkheidsverdeling
 blijven leidend.
 
 <img
-src="../../media/media/image22.png"
+src="../../media/media/image23.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Om deze samenhang duurzaam te borgen, is een gemeenschappelijke

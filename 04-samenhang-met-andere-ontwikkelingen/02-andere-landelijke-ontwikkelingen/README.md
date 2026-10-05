@@ -38,6 +38,10 @@ Overheid. Het biedt generieke architectuurblokken en herbruikbare
 softwarecomponenten die gemeenten kunnen inzetten bij de inrichting en
 doorontwikkeling van hun dienstverlening. Een globale mapping als volgt:
 
+<img
+src="../../media/media/image10.png"
+style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
+
 ### Federatief Datastelsel (FDS)
 
 Het [**Federatief Datastelsel
@@ -85,7 +89,7 @@ beleidsdomeinen heen en vormt daarmee de basis voor eenduidige
 gegevensuitwisseling, registraties en informatiemodellen.
 
 <img
-src="../../media/media/image10.png"
+src="../../media/media/image11.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Relatie met Platform Dienstverlening

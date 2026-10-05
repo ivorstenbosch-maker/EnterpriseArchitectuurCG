@@ -15,7 +15,7 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
 - **Gegevens** (registraties).
 
   <img
-  src="../../media/media/image21.png"
+  src="../../media/media/image22.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden

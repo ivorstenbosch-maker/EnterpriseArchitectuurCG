@@ -22,7 +22,7 @@ logisch gescheiden onderdelen:
   beschikbaar worden gesteld.
 
   <img
-  src="../../media/media/image26.png"
+  src="../../media/media/image27.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Processen communiceren uitsluitend met de dataservice; de registratie
@@ -69,7 +69,7 @@ De **registratie** bestaat uit:
     van API's](../11-architectuur-van-api-s/README.md#architectuur-van-apis).
 
     <img
-    src="../../media/media/image27.png"
+    src="../../media/media/image28.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Functionele eisen aan registraties

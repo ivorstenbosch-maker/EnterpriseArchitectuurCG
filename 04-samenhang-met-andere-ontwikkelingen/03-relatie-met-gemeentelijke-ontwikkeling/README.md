@@ -42,7 +42,7 @@ servicedesigns.
   - [Website Common Ground](https://commonground.nl/)
 
     <img
-    src="../../media/media/image11.png"
+    src="../../media/media/image12.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### G4D/Dimpact (Amsterdam, Rotterdam, Den Haag, Utrecht)
@@ -66,5 +66,5 @@ servicedesigns.
       Public](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public)
 
       <img
-      src="../../media/media/image12.png"
+      src="../../media/media/image13.png"
       style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />

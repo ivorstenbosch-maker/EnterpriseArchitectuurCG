@@ -136,7 +136,7 @@ staan.
   platformdiensten.
 
   <img
-  src="../../media/media/image24.png"
+  src="../../media/media/image25.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Specificatie ABB’s niveau 2 

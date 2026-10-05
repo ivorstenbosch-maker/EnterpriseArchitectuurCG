@@ -348,5 +348,5 @@ verschillende implementatievarianten mogelijk:
   ingeladen in een datawarehouse.
 
 <img
-src="../../media/media/image20.png"
+src="../../media/media/image21.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />

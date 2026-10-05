@@ -22,5 +22,5 @@ Valt de oplossing binnen deze scope? Dan gelden de Common Ground
 aansluitvoorwaarden.
 
 <img
-src="../../media/media/image33.png"
+src="../../media/media/image34.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />

@@ -15,7 +15,7 @@ Gezamenlijk beschrijven zij de beoogde maatschappelijke en
 organisatorische effecten van het Platform Dienstverlening.
 
 <img
-src="../../media/media/image13.png"
+src="../../media/media/image14.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Meer regie

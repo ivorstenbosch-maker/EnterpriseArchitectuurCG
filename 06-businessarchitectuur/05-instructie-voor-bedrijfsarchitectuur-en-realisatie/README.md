@@ -93,5 +93,5 @@ werken. De volgende ontwerpstappen gelden:
     zich continu ontwikkelt.
 
     <img
-    src="../../media/media/image17.png"
+    src="../../media/media/image18.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />

@@ -3,7 +3,7 @@
 In de huidige vorm van het platform is logging als volgt in te richten:
 
 <img
-src="../../media/media/image28.png"
+src="../../media/media/image29.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 - **Logging van verkeer tussen services (groene lijn)** vindt plaats in

@@ -30,7 +30,7 @@ en in mindere mate op sturing en bedrijfsvoering.
   worden ingevuld door het platformmanagement
 
 <img
-src="../../media/media/image14.png"
+src="../../media/media/image15.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%"
 alt="Afbeelding met tekst, schermopname, diagram, ontwerp Door AI gegenereerde inhoud is mogelijk onjuist." />
 

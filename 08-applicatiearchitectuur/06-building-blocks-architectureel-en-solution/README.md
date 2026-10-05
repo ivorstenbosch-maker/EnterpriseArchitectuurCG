@@ -66,7 +66,7 @@ ABB’s en SBB’s vormen daarmee de schakel tussen architectuur
 (richtinggevend) en realisatie (concreet en configureerbaar).
 
 <img
-src="../../media/media/image23.png"
+src="../../media/media/image24.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Voorbeeld – Aanvragen van een uitkering
