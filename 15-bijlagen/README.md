@@ -90,8 +90,7 @@ zoekgeraakt.
 Deze situatie weerspiegelt een breder probleem: systemen zijn leidend
 geworden, terwijl gegevens en publieke waarden dat zouden moeten zijn.
 Hierdoor ontstaat een informatiehuishouding die onvoldoende aansluit op
-de behoeften van uitvoering en samenleving.<span id="_BIJLAGE_–_Alle"
-class="anchor"></span>
+de behoeften van uitvoering en samenleving.
 
 ## BIJLAGE - BusinessServices
 
@@ -192,11 +191,11 @@ Op laag 2 vindt het proces plaats waarin bovenstaande (het formulier)
 
 - Na afronding worden de resultaten weggeschreven:
 
-  - vastgestelde persoonsgegevens,
+  - Vastgestelde persoonsgegevens,
 
-  - aanvullende vastleggingsvelden,
+  - Aanvullende vastleggingsvelden,
 
-  - en brondata uit de BRP.
+  - En brondata uit de brp.
 
 - De vastlegging gebeurt op vaste locaties voor de gegevens
 
@@ -300,10 +299,8 @@ leidend en deelbaar vastgelegd. Op het niveau van businessobjecten zijn
 registraties beschikbaar (’Common Ground-registraties’) voor Zaken,
 Producten, Klanten.
 
-Voor specifieke (domeingebonden gegevens) zoals Burgerzaken of processen
-in het Sociaal Domein worden
-[Domeinregistraties](https://www.notion.so/Samenvatting-Domeinregisters-23a78b5f4db4808893e9c0d54d319fbd?pvs=21)
-gebruikt.
+Voor specifieke (domeingebonden gegevens) zoals bijvoorbeeld Burgerzaken
+of processen in het Sociaal Domein worden Domeinregistraties gebruikt.
 
 **Granulariteit van BusinessServices**
 
@@ -962,7 +959,7 @@ betreffende URL is opgenomen. Alle bronnen zijn geraadpleegd in oktober
 | \[L029\] | NL-SBB | [<u>\[link\]</u>](https://docs.geostandaarden.nl/nl-sbb/nl-sbb/) |
 | \[L030\] | DICTU | [<u>\[link\]</u>](https://www.dictu.nl/sites/default/files/bestanden/website/DICTU%20Toetsingsinstrument%20Soevereiniteit%20Clouddiensten%20v1.0.1.pdf) |
 | \[L031\] | Nederlands recht | [<u>\[link\]</u>](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2540&showbutton=true&keyword=ECLI%253aNL%253aRBAMS%253a2023%253a2540&idx=1) |
-| \[L032\] | GIBIT 2025 | [<u>\[link\]</u>](https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf) |
+| \[L032\] | GIBIT | [<u>\[link\]</u>](https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf) |
 | \[L033\] | Domeinarchitectuur Gegevensuitwisseling - NORA | [<u>\[link\]</u>](https://www.noraonline.nl/wiki/Domeinarchitectuur_Gegevensuitwisseling) |
 | \[L034\] | DAMA | [<u>\[link\]</u>](https://dama-nl.org/wp-content/uploads/2022/09/Two-pager-Data-Governance-2-DAMA-NL.pdf) |
 | \[L035\] | Bronhouder | [<u>\[link\]</u>](https://www.noraonline.nl/wiki/Rollen_Domeinarchitectuur_Gegevensuitwisseling) |

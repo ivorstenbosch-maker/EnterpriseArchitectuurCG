@@ -66,9 +66,9 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden
-  in het onderdeel ‘Building Blocks’ verder toegelicht.
-
-#### 
+  in [Architectural Building Blocks (ABB’s) en
+  clusters](#architectural-building-blocks-abbs-en-clusters) verder
+  toegelicht.
 
 #### Interpretatie van het lagenmodel
 
@@ -180,8 +180,8 @@ Elke service in het platform moet voldoen aan de volgende criteria:
   applicatie infrastructuur (waaronder technische notificaties, logging,
   authorisatie, identificatie)
 
-- De [Patronen en API-specificaties](#_Patronen_en_API-specificaties)
-  worden gevolgd.
+- De [Patronen en API-specificaties](../11-toegepaste-patronen/README.md#toegepaste-patronen) worden
+  gevolgd.
 
 ### Voordelen van de gekozen architectuur
 
@@ -570,7 +570,7 @@ configureerbare elementen zoals formulieren, BPMN-processen, business
 rules en gegevensmodellen.
 
 Het is mogelijk deze ABB’s structureel te mappen op de
-GEMMA-applicatieservices, zie daarvoor [BIJLAGE 1 - ABB’s GEMMA en
+GEMMA-applicatieservices, zie daarvoor [BIJLAGE - ABB’s GEMMA en
 Platform
 Dienstverlening](#bijlage---abbs-gemma-en-platform-dienstverlening).
 
@@ -658,7 +658,7 @@ conceptuele mapping:
 | Monitoring en observability ondersteunt | Platformvoorzieningen |
 | Privacy, security en compliance ondersteunt | Platformvoorzieningen |
 
-De SBB’s op niveau 1 staan ook verzameld onder [Overzicht
+De SBB’s op niveau 1 staan ook verzameld onder [BIJLAGE - Overzicht
 services](#bijlage---overzicht-services). Een voorbeeldmapping:
 
 <img
@@ -821,17 +821,17 @@ minimaal aan de volgende uitgangspunten:
 De centrale beslisservice kan door uiteenlopende services binnen het
 Platform Dienstverlening worden aangeroepen, bijvoorbeeld voor:
 
-- het bepalen van de vervolgstap in een proces;
+- Het bepalen van de vervolgstap in een proces;
 
-- het toetsen van wettelijke voorwaarden;
+- Het toetsen van wettelijke voorwaarden;
 
-- het uitvoeren van gemeentelijke beleidsregels;
+- Het uitvoeren van gemeentelijke beleidsregels;
 
-- het berekenen van bedragen of tarieven;
+- Het berekenen van bedragen of tarieven;
 
-- het bepalen van rechten of verplichtingen;
+- Het bepalen van rechten of verplichtingen;
 
-- het aansturen van dynamische formulieren en gebruikersinterfaces.
+- Het aansturen van dynamische formulieren en gebruikersinterfaces.
 
   Hierdoor ontstaat één centrale plaats waar beslislogica wordt beheerd,
   terwijl processen, registraties en gebruikersinterfaces hiervan
@@ -944,8 +944,8 @@ De **registratie** bestaat uit:
     registratie. Iedere API-actie valideert de handeling, autoriseert de
     uitvoering, legt de bijbehorende gebeurtenis en metadata vast,
     creëert indien nodig een nieuwe state en publiceert notificaties. De
-    architectuur van deze API's wordt verder uitgewerkt in paragraaf
-    **7.11**.
+    architectuur van deze API's wordt verder uitgewerkt in [Architectuur
+    van API's](#architectuur-van-apis).
 
     <img
     src="../media/media/image27.png"
@@ -1055,7 +1055,8 @@ Voorbeelden van gestandaardiseerde handelingen zijn:
 
 Deze API-acties vormen de technische invulling van betekenisvolle
 domeinhandelingen en sluiten aan op de handelingsgedreven
-API-architectuur zoals beschreven in paragraaf 7.11.
+API-architectuur zoals beschreven in [Architectuur van
+API's](#architectuur-van-apis).
 
 #### Historie en reproduceerbaarheid
 
@@ -1152,7 +1153,7 @@ conformeert aan het MIM**:**
 
   <!-- -->
 
-  - Een fysiek/.technisch datamodel (implementatie).
+  - Een fysiek/technisch datamodel (implementatie).
 
 Modellering start op conceptueel niveau en wordt daarna pas technisch
 uitgewerkt.

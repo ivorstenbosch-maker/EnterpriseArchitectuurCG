@@ -228,7 +228,7 @@ GitHub links.
 Iedere aangesloten oplossing past de functionele en technische
 aansluitpatronen toe zoals beschreven in de [Enterprisearchitectuur
 Platform
-Dienstverlening](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur/applicatiearchitectuur/functionele-en-technische-aansluiting-op-platform-dienstverlening#patronen).
+Dienstverlening](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur).
 Deze patronen beschrijven de uniforme wijze waarop applicaties
 samenwerken met registraties, API's en andere platformvoorzieningen.
 
@@ -352,7 +352,7 @@ behouden blijft.
 Als platformservice wordt de oplossing onderdeel van het Platform
 Dienstverlening. De inrichting en doorontwikkeling van dit platform
 worden gestuurd door de [Enterprisearchitectuur Common Ground & Platform
-Dienstverlening](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur).
+Dienstverlening](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur).
 Deze architectuur beschrijft de visie, architectuurprincipes,
 referentiearchitectuur, standaarden en governance die richting geven aan
 de ontwikkeling van het platform. Platformservices sluiten hierop aan en
@@ -422,7 +422,7 @@ registraties en de architectuur van API's.
 - **Eis –** API's voldoen aan de binnen het Platform Dienstverlening
   toegepaste API-architectuur, standaarden en ontwerpprincipes zoals
   beschreven in de [Enterprisearchitectuur Platform
-  Dienstverlening.](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur/applicatiearchitectuur/architectuur-van-registraties-en-api-laag-1-2)
+  Dienstverlening.](../08-applicatiearchitectuur/README.md#architectuur-van-registraties)
 
 - **Eis –** REST API's voldoen aan de [REST API Design
   Rules](https://logius-standaarden.github.io/API-Design-Rules/)
@@ -657,8 +657,8 @@ ontwikkelproces moet transparant, overdraagbaar en reproduceerbaar zijn.
 
 De algemene eisen ten aanzien van softwareontwikkeling, kwaliteit,
 beveiliging, documentatie, testen, acceptatie en onderhoud zijn
-opgenomen in de [GIBIT
-2025](https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf).
+opgenomen in de
+[GIBIT](https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf).
 De onderstaande bepalingen vormen daarop een aanvulling en gelden
 specifiek voor software die onderdeel uitmaakt van het Platform
 Dienstverlening.
@@ -688,7 +688,7 @@ Dienstverlening.
 
 #### Verplichtingen voor de leverancier
 
-Onverminderd de verplichtingen uit de GIBIT 2025 toont de leverancier
+Onverminderd de verplichtingen uit de GIBIT toont de leverancier
 aanvullend aan dat:
 
 - De opgeleverde software aantoonbaar is gereviewd door ervaren
@@ -823,7 +823,7 @@ Alle generieke software die binnen het Platform Dienstverlening wordt
 ontwikkeld of waarvan de ontwikkeling geheel of gedeeltelijk uit
 publieke middelen wordt gefinancierd, wordt als **Open Source**
 beschikbaar gesteld. De algemene bepalingen met betrekking tot Open
-Source zijn opgenomen in hoofdstuk 15 van de GIBIT 2025. De onderstaande
+Source zijn opgenomen in hoofdstuk 15 van de GIBIT. De onderstaande
 bepalingen vormen daarop een aanvulling voor software die onderdeel
 uitmaakt van het Platform Dienstverlening.
 

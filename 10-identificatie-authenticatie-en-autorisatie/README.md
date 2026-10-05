@@ -55,11 +55,10 @@ verantwoording en controle.
 
 ## Policy Based Access Control (PBAC) en FTV
 
-In de doelarchitectuur wordt autorisatie
-[ingericht](https://www.notion.so/PBAC-11278b5f4db48015873bd4e4502a5b89?pvs=21)
-volgens een **externalized authorization model** gebaseerd op het
-PxP-concept. Hierbij worden verantwoordelijkheden gescheiden over
-meerdere componenten:
+In de doelarchitectuur wordt autorisatie ingericht volgens een
+**externalized authorization model** gebaseerd op het PxP-concept.
+Hierbij worden verantwoordelijkheden gescheiden over meerdere
+componenten:
 
 - **PEP (Policy Enforcement Point)** Bevindt zich in API-gateways of
   services en dwingt autorisatie af.

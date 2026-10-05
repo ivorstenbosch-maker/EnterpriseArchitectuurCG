@@ -148,13 +148,9 @@ De principes zijn afgeleid uit onder meer:
 
 Deze zijn bewust hoog-over en selectief. Zij zijn gekozen omdat zij de
 belangrijkste strategische dimensies van het Platform Dienstverlening
-vertegenwoordigen. In de uitwerking van de verschillende
-architectuurdomeinen worden deze algemene uitgangspunten verder
-aangevuld met meer specifieke principes. In [BIJLAGE – Alle
-principes](#_BIJLAGE_–_Alle) is een totaaloverzicht opgenomen. Tijdens
-het opstellen van deze architectuur zijn de principes iteratief
-gevalideerd met de Technische Stuurgroep, Platformmanagement en
-architecten van de deelnemende gemeenten.
+vertegenwoordigen. Tijdens het opstellen van deze architectuur zijn de
+principes iteratief gevalideerd met de Technische Stuurgroep,
+Platformmanagement en architecten van de deelnemende gemeenten.
 
 ### Principe: Architectuurgedreven vernieuwing
 
@@ -339,7 +335,7 @@ keuzes tijdig en uitvoerbaar kunnen ondersteunen.
 
 #### Implicaties
 
-- Legitieme wettelijke en lokale keuzeruimte wordt in het IT ontwerp
+- Legitieme wettelijke en lokale keuzeruimte wordt in het IT-ontwerp
   ingebouwd, inclusief extensiepunten voor maatwerk;
 
 - Voor ingebruikname toetsen op

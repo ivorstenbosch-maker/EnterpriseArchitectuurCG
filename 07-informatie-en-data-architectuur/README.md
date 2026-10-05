@@ -382,12 +382,13 @@ onderscheiden.
 
   - Ook binnen de gemeentelijke context kunnen de rollen van
     **bronhouder** en **aanbieder** worden gescheiden. Dit gebeurt
-    bijvoorbeeld bij Patroon B-implementaties (zie onderdeel:
-    Implementatiepatronen). De bronhouder is verantwoordelijk voor de
-    inhoud, kwaliteit en betekenis van de gegevens in de registratie. De
-    aanbieder verzorgt de ontsluiting van deze gegevens via
-    gestandaardiseerde gegevensdiensten, inclusief metadata,
-    autorisatie, notificaties en eventuele intermediaire voorzieningen.
+    bijvoorbeeld bij Patroon B-implementaties (zie [Patroon B – Hybride
+    implementatie](../11-toegepaste-patronen/README.md#patroon-b-hybride-implementatie)). De bronhouder is
+    verantwoordelijk voor de inhoud, kwaliteit en betekenis van de
+    gegevens in de registratie. De aanbieder verzorgt de ontsluiting van
+    deze gegevens via gestandaardiseerde gegevensdiensten, inclusief
+    metadata, autorisatie, notificaties en eventuele intermediaire
+    voorzieningen.
 
 - **Domeinregistraties** zijn gemeentelijke registraties, maar bevatten
   gegevens die specifiek zijn voor een bepaald beleidsdomeinOngeacht het
@@ -424,7 +425,8 @@ bronregistratie, maar ook om ondersteuning van de volledige
 informatielevenscyclus, inclusief autorisatie, bewaartermijnen,
 vernietiging en – waar wettelijk vereist – overbrenging naar een
 archiefbewaarplaats. De architectuurimplicaties hiervan worden verder
-uitgewerkt in het onderdeel ‘Duurzame toegankelijkheid by design’.
+uitgewerkt in [Duurzame toegankelijkheid by
+design](#duurzame-toegankelijkheid-by-design).
 
 ### Implicaties voor ontwerp
 
@@ -446,10 +448,8 @@ de ontwikkeling van nieuwe functionaliteit geldt daarom het volgende:
 - Alleen wanneer bestaande registraties aantoonbaar onvoldoende zijn,
   wordt een nieuwe registratie geïntroduceerd.
 
-Hiermee verschuift de verantwoordelijkheid van **procesgericht
-databeheer** naar **domeingericht gegevensbeheer**. Processen en
-BusinessServices zijn afnemers van gegevens; registraties zorgen voor
-het voor het duurzaam beheer daarvan.
+Processen en BusinessServices zijn afnemers van gegevens; registraties
+zorgen voor het voor het duurzaam beheer daarvan.
 
 ### Bronnen buiten de scope van het Platform
 
@@ -1029,8 +1029,8 @@ Dit betekent dat de “toestand” van een inwoner of een casus altijd een
 samenspel is van meerdere gegevensbronnen. Door deze gegevens centraal
 en per domein te beheren, blijft de informatie onafhankelijk van
 specifieke applicaties of workflows. Hoe deze data duurzaam wordt
-geregistreerd is beschreven in het onderdeel ‘Architectuur van
-registraties’.
+geregistreerd is beschreven in [Architectuur van
+registraties](../08-applicatiearchitectuur/README.md#architectuur-van-registraties).
 
 #### Procesdata (workflow- en uitvoeringsdata)
 

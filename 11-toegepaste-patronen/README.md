@@ -6,7 +6,8 @@
 
 ## Inleiding
 
-In onderdeel **8.4 Samenwerking tussen services** zijn de generieke
+In onderdeel [Samenwerking tussen
+services](../08-applicatiearchitectuur/README.md#samenwerking-tussen-services) zijn de generieke
 interactievormen binnen het Platform Dienstverlening beschreven. Daar is
 onderscheid gemaakt tussen synchrone communicatie (request/response),
 asynchrone communicatie (event-driven) en API-compositie. Deze
@@ -181,7 +182,7 @@ herbruikbaarheid of standaardisatie.
 Nieuwe patronen worden ontwikkeld conform de architectuurprincipes uit
 dit document en maken, na vaststelling, onderdeel uit van de
 referentiearchitectuur van het platform. De volgende patronen zijn in
-2026 kandidaat:
+2026/27 kandidaat:
 
 ### Autorisatiepatroon (OpenFTV / AuthZEN)
 
