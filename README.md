@@ -8,7 +8,7 @@ Dit is de Enterprise Architectuur voor Common Ground en het Platform Dienstverle
 - **PDF** — [de volledige Enterprise Architectuur als één document](Enterprisearchitectuur%20Common%20Ground%20%26%20Platform%20Dienstverlening.pdf), geschikt om te lezen, te delen en te archiveren.
 - **Volledige Markdown** — [Enterprisearchitectuur-GPT.md](Enterprisearchitectuur-GPT.md) bevat de volledige architectuur in één Markdown-bestand en kan bijvoorbeeld worden gebruikt als context voor GPT of andere AI-toepassingen.
 
-## Managementsamenvatting
+## Introductie
 
 Gemeenten staan voor een fundamentele vernieuwing van hun
 informatievoorziening. Toenemende maatschappelijke verwachtingen, nieuwe

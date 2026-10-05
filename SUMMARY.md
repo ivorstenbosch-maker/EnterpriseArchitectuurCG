@@ -1,6 +1,6 @@
 # Summary
 
-* [Managementsamenvatting](README.md)
+* [Introductie](README.md)
 * [1. Over dit document](01-over-dit-document/README.md)
   * [Doel van dit document](01-over-dit-document/01-doel-van-dit-document/README.md)
   * [Relatie met andere architecturen](01-over-dit-document/02-relatie-met-andere-architecturen/README.md)
