@@ -5,7 +5,7 @@ Dit is de Enterprise Architectuur voor Common Ground en het Platform Dienstverle
 ## Beschikbare vormen
 
 - **GitBook** — de architectuur is links op deze pagina per hoofdstuk en onderdeel ontsloten.
-- **PDF** — [de volledige Enterprise Architectuur als één document](Enterprisearchitectuur Common Ground & Platform Dienstverlening.pdf), geschikt om te lezen, te delen en te archiveren.
+- **PDF** — [de volledige Enterprise Architectuur als één document](Enterprisearchitectuur%20Common%20Ground%20%26%20Platform%20Dienstverlening.pdf), geschikt om te lezen, te delen en te archiveren.
 - **Volledige Markdown** — [Enterprisearchitectuur-GPT.md](Enterprisearchitectuur-GPT.md) bevat de volledige architectuur in één Markdown-bestand en kan bijvoorbeeld worden gebruikt als context voor GPT of andere AI-toepassingen.
 
 ## Enterprise Architectuur
