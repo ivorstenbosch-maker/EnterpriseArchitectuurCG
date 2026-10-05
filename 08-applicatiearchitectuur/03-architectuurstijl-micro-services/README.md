@@ -32,7 +32,7 @@ schaalbaarheid en snelle aanpasbaarheid (bijv. door beveiligingseisen).
 
 Binnen het platform vormen services de centrale bouwstenen. Dit is de
 realisatie van het [**Principe: (Micro)
-servicearchitectuur**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-micro-servicearchitectuur). Een service
+servicearchitectuur**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-micro-servicearchitectuur). Een service
 wordt gekenmerkt door:
 
 - **Single Responsibility Boundary:** Een service ondersteunt één
@@ -89,7 +89,7 @@ Elke service in het platform moet voldoen aan de volgende criteria:
   applicatie infrastructuur (waaronder technische notificaties, logging,
   authorisatie, identificatie)
 
-- De [Patronen en API-specificaties](../11-toegepaste-patronen/README.md#toegepaste-patronen) worden
+- De [Patronen en API-specificaties](../../11-toegepaste-patronen/README.md#toegepaste-patronen) worden
   gevolgd.
 
 ### Voordelen van de gekozen architectuur

@@ -80,4 +80,4 @@ kiezen en ontwikkelen van patronen maakt onderdeel uit van het
 architecturaal continuüm, waarbij de samenwerking tussen services wordt
 verbeterd op basis van praktijkervaring. De concrete toepassing van
 patronen in betekenisvolle orkestratie wordt beschreven in [Toegepaste
-patronen](../11-toegepaste-patronen/README.md#toegepaste-patronen).
+patronen](../../11-toegepaste-patronen/README.md#toegepaste-patronen).

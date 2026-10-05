@@ -30,4 +30,4 @@ overkoepelend log, waarin:
 - De feitelijke uitvoering van de verwerking wordt geregistreerd.
 
 Logging van dataverwerking is ook vastgelegd als (kandidaat) **toegepast
-patroon** in het onderdeel [Toegepaste patronen](../11-toegepaste-patronen/README.md#toegepaste-patronen).
+patroon** in het onderdeel [Toegepaste patronen](../../11-toegepaste-patronen/README.md#toegepaste-patronen).

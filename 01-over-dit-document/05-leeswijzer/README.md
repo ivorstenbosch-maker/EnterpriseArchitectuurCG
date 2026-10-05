@@ -50,7 +50,7 @@ beheerd.
 
 Binnen de architectuur worden de volgende typen services onderscheiden,
 binnen een lagenmodel dat wordt toegelicht in [Het Vijf-lagen
-model](../08-applicatiearchitectuur/02-het-vijf-lagen-model/README.md#het-vijf-lagen-model) (in het hoofdstuk
+model](../../08-applicatiearchitectuur/02-het-vijf-lagen-model/README.md#het-vijf-lagen-model) (in het hoofdstuk
 Applicatie-architectuur):
 
 - **Interactieservice** – een service in **laag 5 (Interactie)** die de

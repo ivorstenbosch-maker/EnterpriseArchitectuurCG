@@ -1,7 +1,7 @@
 # Expliciete bedrijfslogica
 
 De informatiearchitectuur geeft ook uitdrukking aan het [**Principe:
-Expliciete bedrijfslogica**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-expliciete-bedrijfslogica):
+Expliciete bedrijfslogica**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-expliciete-bedrijfslogica):
 Bedrijfslogica wordt expliciet gemodelleerd en losgekoppeld van
 processen, gegevens en softwarecomponenten. Regels die voortkomen uit
 wetgeving, beleid of gemeentelijke afspraken worden éénmalig vastgelegd,

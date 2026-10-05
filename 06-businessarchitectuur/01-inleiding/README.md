@@ -7,7 +7,7 @@ beschouwt de businessarchitectuur als de beschrijving van de
 organisatie, haar dienstverlening, processen en businesscapabilities.
 Voor gemeenten is dit op zeker niveau vastgelegd binnen de
 GEMMA-architectuur. In het onderdeel [Visie, principes,
-scope](../05-visie-principes-scope/README.md#visie-principes-scope) is de scope van het Platform
+scope](../../05-visie-principes-scope/README.md#visie-principes-scope) is de scope van het Platform
 Dienstverlening daarom afgezet tegen de GEMMA-bedrijfsfuncties.
 
 Deze businessarchitectuur richt zich op de gemeenschappelijke structuur

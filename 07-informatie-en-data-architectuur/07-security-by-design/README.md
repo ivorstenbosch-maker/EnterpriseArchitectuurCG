@@ -14,7 +14,7 @@ Deze architectuur beschrijft uitsluitend de architectonische
 uitgangspunten voor *Security by Design*: de wijze waarop beveiliging
 vanaf het ontwerp integraal onderdeel vormt van het Platform
 Dienstverlening. Hiermee wordt invulling gegeven aan [**Principe:
-Kwaliteit by Design**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-kwaliteit-by-design):
+Kwaliteit by Design**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-kwaliteit-by-design):
 
 > Niet-functionele kwaliteitseisen worden vanaf het ontwerp integraal
 > meegenomen in architectuur, software en dienstverlening. Aspecten

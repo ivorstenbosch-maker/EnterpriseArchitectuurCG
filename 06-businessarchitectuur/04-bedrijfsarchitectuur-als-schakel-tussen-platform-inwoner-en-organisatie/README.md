@@ -9,13 +9,13 @@ dienstverlening.
 In het bijzonder worden de volgende principes uitgewerkt:
 
 - **[Principe: Architectuurgedreven
-  vernieuwing](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-architectuurgedreven-vernieuwing):** nieuwe
+  vernieuwing](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-architectuurgedreven-vernieuwing):** nieuwe
   dienstverlening wordt ontworpen vanuit de gewenste waardestroom,
   businesscapabilities en architectuur, niet vanuit bestaande
   applicaties.
 
 - **[Principe: Expliciete
-  bedrijfslogica](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-expliciete-bedrijfslogica):**
+  bedrijfslogica](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-expliciete-bedrijfslogica):**
   Bedrijfsprocessen, beslisregels en gegevens worden als afzonderlijke
   architectuurelementen gemodelleerd. Beslisregels worden waar mogelijk
   centraal beheerd en herbruikbaar vastgelegd, zodat zij consistent
@@ -23,17 +23,17 @@ In het bijzonder worden de volgende principes uitgewerkt:
   kanalen.
 
 - **[Principe: Generiek vóór
-  specifiek](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-generiek-vóór-specifiek):** generieke
+  specifiek](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-generiek-vóór-specifiek):** generieke
   BusinessServices, procesfragmenten en voorzieningen worden eerst
   hergebruikt voordat domeinspecifieke oplossingen worden ontwikkeld.
 
 - **[Principe: Beleidsruimte als
-  basis](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-beleidsruimte-als-basis):** waar de gemeentelijke
+  basis](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-beleidsruimte-als-basis):** waar de gemeentelijke
   verantwoordelijkheid aantoonbaar lokale keuzes vraagt, moet de
   generieke functionaliteit die keuzes tijdig en uitvoerbaar kunnen
   ondersteunen.
 
-- **[Principe: Hergebruik](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-hergebruik):** zowel software,
+- **[Principe: Hergebruik](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-hergebruik):** zowel software,
   gegevens, procesinrichting als bedrijfslogica worden ontworpen voor
   meervoudig gebruik binnen verschillende processen, domeinen en
   gemeenten.

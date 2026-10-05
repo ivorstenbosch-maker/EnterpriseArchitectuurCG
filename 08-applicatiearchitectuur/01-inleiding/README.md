@@ -12,21 +12,21 @@ Dit hoofdstuk vormt daarmee de concrete uitwerking van de
 architectuurprincipes:
 
 - [**Principe: Architectuurgedreven
-  vernieuwing**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-architectuurgedreven-vernieuwing)
+  vernieuwing**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-architectuurgedreven-vernieuwing)
 
 - [**Principe: (Micro)
-  servicearchitectuur**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-micro-servicearchitectuur)
+  servicearchitectuur**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-micro-servicearchitectuur)
 
 - [**Principe: Expliciete
-  bedrijfslogica**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-expliciete-bedrijfslogica)
+  bedrijfslogica**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-expliciete-bedrijfslogica)
 
 - [**Principe: Generiek vóór
-  specifiek**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-generiek-vóór-specifiek)
+  specifiek**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-generiek-vóór-specifiek)
 
 - [**Principe: Beleidsruimte als
-  basis**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-beleidsruimte-als-basis)
+  basis**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-beleidsruimte-als-basis)
 
-- [**Principe: Hergebruik**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-hergebruik)
+- [**Principe: Hergebruik**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-hergebruik)
 
 Binnen het Platform Dienstverlening is de applicatiearchitectuur
 gebaseerd op een componentgebaseerde opzet. Functionaliteit wordt

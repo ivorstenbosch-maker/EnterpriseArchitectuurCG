@@ -118,4 +118,4 @@ De identificatie en realisatie van SBB’s op niveau 2 (vertaling van een
 BusinessService naar configureerbare elementen zoals formulieren,
 BPMN-processen, business rules en gegevensmodellen) gebeurt op basis van
 businessbehoefte. Zie ook [Samenwerking en uitwisseling
-bouwstenen](../15-bijlagen/03-bijlage-businessservices/README.md#samenwerking-en-uitwisseling-bouwstenen).
+bouwstenen](../../15-bijlagen/03-bijlage-businessservices/README.md#samenwerking-en-uitwisseling-bouwstenen).

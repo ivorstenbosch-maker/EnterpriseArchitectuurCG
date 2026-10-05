@@ -1,7 +1,7 @@
 # Inleiding
 
 In onderdeel [Samenwerking tussen
-services](../08-applicatiearchitectuur/04-samenwerking-tussen-services/README.md#samenwerking-tussen-services) zijn de generieke
+services](../../08-applicatiearchitectuur/04-samenwerking-tussen-services/README.md#samenwerking-tussen-services) zijn de generieke
 interactievormen binnen het Platform Dienstverlening beschreven. Daar is
 onderscheid gemaakt tussen synchrone communicatie (request/response),
 asynchrone communicatie (event-driven) en API-compositie. Deze

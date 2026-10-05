@@ -10,7 +10,7 @@ BusinessServices, MijnServices en andere toepassingen. Dit volgt het
 principe:
 
 > **[Principe: Informatiegericht
-> werken](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-informatiegericht-werken):** Informatie vormt het
+> werken](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-informatiegericht-werken):** Informatie vormt het
 > verbindende element tussen dienstverlening, processen, applicaties en
 > organisatie. Gegevens worden onafhankelijk van individuele processen
 > en applicaties beheerd, zodat zij meervoudig kunnen worden gebruikt

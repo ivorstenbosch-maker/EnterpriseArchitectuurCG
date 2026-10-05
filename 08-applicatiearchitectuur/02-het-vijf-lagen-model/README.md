@@ -20,7 +20,7 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden
   in [Architectural Building Blocks (ABB’s) en
-  clusters](../08-applicatiearchitectuur/07-architectural-building-blocks-abb-s-en-clusters/README.md#architectural-building-blocks-abbs-en-clusters) verder
+  clusters](../07-architectural-building-blocks-abb-s-en-clusters/README.md#architectural-building-blocks-abbs-en-clusters) verder
   toegelicht.
 
 #### Interpretatie van het lagenmodel

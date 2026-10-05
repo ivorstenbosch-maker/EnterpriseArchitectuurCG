@@ -66,7 +66,7 @@ De **registratie** bestaat uit:
     uitvoering, legt de bijbehorende gebeurtenis en metadata vast,
     creëert indien nodig een nieuwe state en publiceert notificaties. De
     architectuur van deze API's wordt verder uitgewerkt in [Architectuur
-    van API's](../08-applicatiearchitectuur/11-architectuur-van-api-s/README.md#architectuur-van-apis).
+    van API's](../11-architectuur-van-api-s/README.md#architectuur-van-apis).
 
     <img
     src="../../media/media/image27.png"
@@ -177,7 +177,7 @@ Voorbeelden van gestandaardiseerde handelingen zijn:
 Deze API-acties vormen de technische invulling van betekenisvolle
 domeinhandelingen en sluiten aan op de handelingsgedreven
 API-architectuur zoals beschreven in [Architectuur van
-API's](../08-applicatiearchitectuur/11-architectuur-van-api-s/README.md#architectuur-van-apis).
+API's](../11-architectuur-van-api-s/README.md#architectuur-van-apis).
 
 #### Historie en reproduceerbaarheid
 

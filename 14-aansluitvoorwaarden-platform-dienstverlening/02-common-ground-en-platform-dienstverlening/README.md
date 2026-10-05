@@ -58,8 +58,8 @@ zelf. De component:
   wordt vastgesteld.
 
 Voor platformservices gelden zowel de [(niet-)functionele
-aansluitvoorwaarden Common Ground](../14-aansluitvoorwaarden-platform-dienstverlening/04-aansluitvoorwaarden-patroon-b/README.md#aansluitvoorwaarden-patroon-b) als
-[aanvullende platformeisen](../14-aansluitvoorwaarden-platform-dienstverlening/05-aanvullende-eisen-voor-platformservices/README.md#aanvullende-eisen-voor-platformservices).
+aansluitvoorwaarden Common Ground](../04-aansluitvoorwaarden-patroon-b/README.md#aansluitvoorwaarden-patroon-b) als
+[aanvullende platformeisen](../05-aanvullende-eisen-voor-platformservices/README.md#aanvullende-eisen-voor-platformservices).
 
 ### Patroon B: Aansluiten van een (SaaS-)oplossing
 

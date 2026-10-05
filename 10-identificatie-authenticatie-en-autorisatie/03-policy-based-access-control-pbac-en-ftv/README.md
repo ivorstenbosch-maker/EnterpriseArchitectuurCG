@@ -44,7 +44,7 @@ organisaties. Dit betekent dat:
   de referentie-implementatie
   [OpenFTV](https://vng-realisatie.github.io/ftv/actueel/nieuws/20251014updateopenftv/)
   en is ook vastgelegd als (kandidaat) **toegepast patroon** in het
-  onderdeel [Toegepaste patronen](../11-toegepaste-patronen/README.md#toegepaste-patronen).
+  onderdeel [Toegepaste patronen](../../11-toegepaste-patronen/README.md#toegepaste-patronen).
 
 <img
 src="../../media/media/image30.png"

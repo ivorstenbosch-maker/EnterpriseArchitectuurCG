@@ -26,14 +26,14 @@ Hiermee blijft functionaliteit:
 - Herbruikbaar binnen meerdere implementaties.
 
 Dit volgt het **[Principe: Expliciete
-bedrijfslogica](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-expliciete-bedrijfslogica):**
+bedrijfslogica](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-expliciete-bedrijfslogica):**
 Bedrijfsprocessen, beslisregels en gegevens worden als afzonderlijke
 architectuurelementen gemodelleerd. Beslisregels worden waar mogelijk
 centraal beheerd en herbruikbaar vastgelegd, zodat zij consistent kunnen
 worden toegepast in meerdere processen, BusinessServices en kanalen.
 
 Aanvullend geeft configuratie invulling aan het [**Principe:
-Beleidsruimte als basis**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-beleidsruimte-als-basis). Door
+Beleidsruimte als basis**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-beleidsruimte-als-basis). Door
 beleidsregels, termijnen, procesvarianten en andere bestuurlijke keuzes
 configureerbaar te maken, kunnen gemeenten hun wettelijke en lokale
 beleidsruimte benutten zonder broncode aan te passen. Hierdoor blijft de

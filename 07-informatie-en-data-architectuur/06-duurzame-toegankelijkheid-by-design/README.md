@@ -8,7 +8,7 @@ duurzaam toegankelijk houden van een samenhangend netwerk van
 informatieobjecten.
 
 Een van de architectuurprincipes is [**Principe: Kwaliteit by
-Design**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-kwaliteit-by-design):
+Design**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-kwaliteit-by-design):
 
 > Niet-functionele kwaliteitseisen worden vanaf het ontwerp integraal
 > meegenomen in architectuur, software en dienstverlening. Aspecten
@@ -63,7 +63,7 @@ uitgangspunt dat iedere component verantwoordelijk is voor zijn eigen
 gegevens en functionaliteit.
 
 De relevante bouwblokken zijn uitgewerkt in de
-[applicatiearchitectuur](../08-applicatiearchitectuur/07-architectural-building-blocks-abb-s-en-clusters/README.md#architectural-building-blocks-abbs-en-clusters):
+[applicatiearchitectuur](../../08-applicatiearchitectuur/07-architectural-building-blocks-abb-s-en-clusters/README.md#architectural-building-blocks-abbs-en-clusters):
 
 - **ABB Registraties** (laag 1) en **ABB Diensten** (laag 2) zijn
   verantwoordelijk voor het vastleggen, beheren en ontsluiten van
@@ -74,8 +74,8 @@ De relevante bouwblokken zijn uitgewerkt in de
   archivering, overbrenging en vernietiging.
 
   De (applicatie)architectuur van
-  [registraties](../08-applicatiearchitectuur/10-architectuur-van-registraties/README.md#architectuur-van-registraties) en
-  [API’s](../08-applicatiearchitectuur/11-architectuur-van-api-s/README.md#architectuur-van-apis) geeft invulling aan een belangrijk
+  [registraties](../../08-applicatiearchitectuur/10-architectuur-van-registraties/README.md#architectuur-van-registraties) en
+  [API’s](../../08-applicatiearchitectuur/11-architectuur-van-api-s/README.md#architectuur-van-apis) geeft invulling aan een belangrijk
   deel van de eisen voor duurzame toegankelijkheid. Registraties leggen
   informatie duurzaam vast, inclusief historie, metadata en
   gebeurtenissen, terwijl handelingsgedreven API's zorgen voor

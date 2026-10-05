@@ -21,7 +21,7 @@ een responsieve, informatiegedreven overheid.
 
 Informatiegericht werken vormt het verbindende principe tussen alle
 werkvormen en sluit aan op het [Principe: Informatiegericht
-werken](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-informatiegericht-werken). Gegevens worden
+werken](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-informatiegericht-werken). Gegevens worden
 onafhankelijk van processen en applicaties beheerd en vormen de gedeelde
 basis voor dienstverlening, besluitvorming en samenwerking. Hierdoor
 kunnen verschillende manieren van werken naast elkaar bestaan, terwijl

@@ -6,7 +6,7 @@ gedefinieerd als de combinatie van zelfbeschikking en onafhankelijkheid.
 Voor data-autonomie betekent dit dat zowel gemeenten als inwoners
 zeggenschap behouden over hun gegevens en kunnen bepalen hoe deze worden
 vastgelegd, gebruikt, gedeeld en beheerd. Dit is vastgelegd in **het
-[Principe: Data-autonomie](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-data-autonomie)**, en dit wordt
+[Principe: Data-autonomie](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-data-autonomie)**, en dit wordt
 hier uitgewerkt.
 
 Data-autonomie kent drie samenhangende aspecten:

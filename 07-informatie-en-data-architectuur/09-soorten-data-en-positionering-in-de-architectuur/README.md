@@ -36,7 +36,7 @@ samenspel is van meerdere gegevensbronnen. Door deze gegevens centraal
 en per domein te beheren, blijft de informatie onafhankelijk van
 specifieke applicaties of workflows. Hoe deze data duurzaam wordt
 geregistreerd is beschreven in [Architectuur van
-registraties](../08-applicatiearchitectuur/10-architectuur-van-registraties/README.md#architectuur-van-registraties).
+registraties](../../08-applicatiearchitectuur/10-architectuur-van-registraties/README.md#architectuur-van-registraties).
 
 #### Procesdata (workflow- en uitvoeringsdata)
 
@@ -115,7 +115,7 @@ niet of slechts beperkt worden gecorrigeerd. De kwaliteit hier wordt
 bepaald door de modellering van proces- en dataservices, die wordt
 beschreven in [Bedrijfsarchitectuur als schakel tussen platform, inwoner
 en
-organisatie](../06-businessarchitectuur/04-bedrijfsarchitectuur-als-schakel-tussen-platform-inwoner-en-organisatie/README.md#bedrijfsarchitectuur-als-schakel-tussen-platform-inwoner-en-organisatie).
+organisatie](../../06-businessarchitectuur/04-bedrijfsarchitectuur-als-schakel-tussen-platform-inwoner-en-organisatie/README.md#bedrijfsarchitectuur-als-schakel-tussen-platform-inwoner-en-organisatie).
 
 #### Systeemafhankelijke (borging van) datakwaliteit
 

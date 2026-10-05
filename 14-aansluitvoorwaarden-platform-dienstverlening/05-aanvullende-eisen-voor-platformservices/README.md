@@ -111,7 +111,7 @@ registraties en de architectuur van API's.
 - **Eis –** API's voldoen aan de binnen het Platform Dienstverlening
   toegepaste API-architectuur, standaarden en ontwerpprincipes zoals
   beschreven in de [Enterprisearchitectuur Platform
-  Dienstverlening.](../08-applicatiearchitectuur/10-architectuur-van-registraties/README.md#architectuur-van-registraties)
+  Dienstverlening.](../../08-applicatiearchitectuur/10-architectuur-van-registraties/README.md#architectuur-van-registraties)
 
 - **Eis –** REST API's voldoen aan de [REST API Design
   Rules](https://logius-standaarden.github.io/API-Design-Rules/)

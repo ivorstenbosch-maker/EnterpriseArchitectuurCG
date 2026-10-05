@@ -29,7 +29,7 @@ waarin gegevens zijn ontstaan, gewijzigd of geraadpleegd expliciet
 worden vastgelegd en raadpleegbaar blijven.
 
 Hiermee wordt uitvoering gegeven aan het architectuurprincipe
-[**Principe: Data bij de bron**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-data-bij-de-bron).
+[**Principe: Data bij de bron**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-data-bij-de-bron).
 
 Deze scheiding kent twee complementaire dimensies.
 

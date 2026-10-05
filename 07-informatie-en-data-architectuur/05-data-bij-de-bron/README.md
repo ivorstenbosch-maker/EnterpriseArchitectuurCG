@@ -1,6 +1,6 @@
 # Data bij de bron
 
-Het [**Principe: Data bij de bron**](../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-data-bij-de-bron) is een
+Het [**Principe: Data bij de bron**](../../05-visie-principes-scope/04-architectuurprincipes/README.md#principe-data-bij-de-bron) is een
 fundamenteel uitgangspunt van zowel Common Ground als de overheidsbrede
 [Domeinarchitectuur
 Gegevensuitwisseling](https://www.noraonline.nl/wiki/Domeinarchitectuur_Gegevensuitwisseling).
@@ -82,7 +82,7 @@ onderscheiden.
   - Ook binnen de gemeentelijke context kunnen de rollen van
     **bronhouder** en **aanbieder** worden gescheiden. Dit gebeurt
     bijvoorbeeld bij Patroon B-implementaties (zie [Patroon B – Hybride
-    implementatie](../11-toegepaste-patronen/07-implementatiepatronen-patroon-a-patroon-b/README.md#patroon-b-hybride-implementatie)). De bronhouder is
+    implementatie](../../11-toegepaste-patronen/07-implementatiepatronen-patroon-a-patroon-b/README.md#patroon-b-hybride-implementatie)). De bronhouder is
     verantwoordelijk voor de inhoud, kwaliteit en betekenis van de
     gegevens in de registratie. De aanbieder verzorgt de ontsluiting van
     deze gegevens via gestandaardiseerde gegevensdiensten, inclusief
@@ -125,7 +125,7 @@ informatielevenscyclus, inclusief autorisatie, bewaartermijnen,
 vernietiging en – waar wettelijk vereist – overbrenging naar een
 archiefbewaarplaats. De architectuurimplicaties hiervan worden verder
 uitgewerkt in [Duurzame toegankelijkheid by
-design](../07-informatie-en-data-architectuur/06-duurzame-toegankelijkheid-by-design/README.md#duurzame-toegankelijkheid-by-design).
+design](../06-duurzame-toegankelijkheid-by-design/README.md#duurzame-toegankelijkheid-by-design).
 
 ### Implicaties voor ontwerp
 
