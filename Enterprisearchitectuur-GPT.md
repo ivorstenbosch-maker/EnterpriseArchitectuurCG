@@ -666,7 +666,7 @@ Ilja Vorstenbosch
 
 #### Dit document
 
-Versie: 0.9.2 / september 2026
+Versie: 2.0 / oktober 2026
 
 Dit architectuurdocument is opgesteld op basis van een iteratief
 ontwerpproces waarin architectuur, praktijkervaring en bestuurlijke
