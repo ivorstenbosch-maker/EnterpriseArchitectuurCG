@@ -55,8 +55,8 @@ Op hoofdlijnen worden binnen de architectuur drie vormen onderscheiden:
 
     - Toegang (via (Open)FTV) en
 
-    - Verwerking (waarvoor het [Logboek
-      dataverwerkingen](https://logius-standaarden.github.io/logboek-dataverwerkingen/) -
+    - Verwerking (waarvoor het <a href="https://logius-standaarden.github.io/logboek-dataverwerkingen/" target="_blank" rel="noopener noreferrer">Logboek
+      dataverwerkingen</a> -
       LDV - de standaard is).
 
   - Deze zijn formeel met elkaar verbonden in de standaarden. Voor de
@@ -80,8 +80,8 @@ het hoofdthema van dit onderdeel.
 De proceseigenaar (lijnmanagement) is de eigenaar van
 informatie(systemen) en verantwoordelijk voor het toepassen van de
 verplichte beheersmaatregelen en overheidsmaatregelen uit de BIO voor
-het informatiesysteem. ([BIO2
-§12.2](https://www.bio-overheid.nl/bio2/bio-producten/baseline-informatiebeveiliging-overheid-2-bio2/)).
+het informatiesysteem. (<a href="https://www.bio-overheid.nl/bio2/bio-producten/baseline-informatiebeveiliging-overheid-2-bio2/" target="_blank" rel="noopener noreferrer">BIO2
+§12.2</a>).
 
 De architectuur is stelt de generieke kaders voor logging vast binnen
 het platform. De software en infrastructuur moet de mogelijkheden bieden
@@ -104,8 +104,8 @@ Voor logging van dataverwerking geldt: log het laagste detailniveau
 waarmee je de noodzakelijke verantwoording kunt afleggen, zonder onnodig
 veel persoonsgegevens en opslaglast vast te leggen.
 
-Logboek Dataverwerking onderscheidt [drie
-niveaus](https://logius-standaarden.github.io/logboek-dataverwerkingen/#definities-van-niveaus):
+Logboek Dataverwerking onderscheidt <a href="https://logius-standaarden.github.io/logboek-dataverwerkingen/#definities-van-niveaus" target="_blank" rel="noopener noreferrer">drie
+niveaus</a>:
 
 - **Niveau 1 – registerverwijzing:** alleen de processing_activity_id en
   daarmee een verwijzing naar het Register worden vastgelegd. Je kunt
@@ -132,7 +132,7 @@ niveaus](https://logius-standaarden.github.io/logboek-dataverwerkingen/#definiti
 Per proces moet dit niveau bij de implementatie bepaald worden. Soms is
 de inhoud van de protocollering en logging voorgeschreven, zoals bij
 RVIG (BRP-V).
-[Suwinet](https://bkwi.nl/standaarden/privacy-beveiliging/suwinet-guidance-2025-voor-de-toepassing-van-de-bio)
+<a href="https://bkwi.nl/standaarden/privacy-beveiliging/suwinet-guidance-2025-voor-de-toepassing-van-de-bio" target="_blank" rel="noopener noreferrer">Suwinet</a>
 schrijft niet alleen logging voor, maar ook dat deze logging voldoende
 gedetailleerd is, wordt beschermd, gedurende een vastgestelde periode
 beschikbaar blijft én periodiek wordt beoordeeld.
@@ -140,7 +140,7 @@ beschikbaar blijft én periodiek wordt beoordeeld.
 #### Formaat van logs
 
 Het logboek Dataverwerkingen schrijft de volgende velden voor (zie de
-[bron](https://logius-standaarden.github.io/logboek-dataverwerkingen/#interface)
+<a href="https://logius-standaarden.github.io/logboek-dataverwerkingen/#interface" target="_blank" rel="noopener noreferrer">bron</a>
 voor volledige definities):
 
 | **Veld** | **Verplicht?** | **Definitie** |
@@ -179,12 +179,12 @@ verantwoordelijk blijven voor het correct produceren van hun logregels.
 De LDV-standaard schrijft zelf geen bewaartermijn voor. De bewaartermijn
 moet worden bepaald op basis van het doel van de logging, toepasselijke
 wettelijke bewaartermijnen en de selectielijst van toepassing. NB. voor
-logging van BRP-gegevens bestaat [een bewaartermijn van 20
-jaar](https://wetten.overheid.nl/BWBR0034327/2026-07-01/0#:~:text=Bescheiden%20verband%20houdend%20met%20de%20verstrekking%20van%20gegevens%20uit%20de%20basisregistratie%20(waaronder%20verzoeken%20betreffende%20het%20inzagerecht)).
+logging van BRP-gegevens bestaat <a href="https://wetten.overheid.nl/BWBR0034327/2026-07-01/0#:~:text=Bescheiden%20verband%20houdend%20met%20de%20verstrekking%20van%20gegevens%20uit%20de%20basisregistratie%20(waaronder%20verzoeken%20betreffende%20het%20inzagerecht" target="_blank" rel="noopener noreferrer">een bewaartermijn van 20
+jaar</a>).
 
 Voor overige processen wordt de bewaartermijn vastgelegd in de
-selectielijst van VNG ([Selectielijst \|
-VNG](https://vng.nl/artikelen/selectielijst)).
+selectielijst van VNG (<a href="https://vng.nl/artikelen/selectielijst" target="_blank" rel="noopener noreferrer">Selectielijst \|
+VNG</a>).
 
 #### Vergaren vs. Benutten
 

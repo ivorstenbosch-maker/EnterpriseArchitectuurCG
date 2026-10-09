@@ -67,8 +67,8 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 Dit probleem beperkt zich niet tot gemeenten, architectuur of software.
 Informatievoorziening is een essentieel onderdeel van hoe de overheid
 functioneert. Deze gedachte wordt scherp uitgewerkt in het rapport
-[*Dwars door de
-Orde*](https://www.open-overheid.nl/documenten/2025/04/16/dwars-door-de-orde)
+<a href="https://www.open-overheid.nl/documenten/2025/04/16/dwars-door-de-orde" target="_blank" rel="noopener noreferrer">*Dwars door de
+Orde*</a>
 van Arre Zuurmond, opgesteld in zijn rol als regeringscommissaris
 Informatiehuishouding. In dit rapport analyseert hij waarom de overheid
 structureel moeite heeft om publieke waarde te leveren in een
@@ -83,8 +83,8 @@ maakt duidelijk dat keuzes in informatiearchitectuur direct raken aan
 het functioneren van de overheid zelf.
 
 Een concreet illustratief voorbeeld is de kinderopvangtoeslagaffaire.
-Uit [onderzoek van de Inspectie
-Overheidsinformatie](https://www.inspectie-oe.nl/actueel/nieuws/2021/04/22/rapport-toeslagen)
+Uit <a href="https://www.inspectie-oe.nl/actueel/nieuws/2021/04/22/rapport-toeslagen" target="_blank" rel="noopener noreferrer">onderzoek van de Inspectie
+Overheidsinformatie</a>
 bleek dat niet alleen documenten ontbraken, maar dat de
 informatiehuishouding zelf structurele tekortkomingen kende.
 Dossiervorming was onvolledig, informatie was verspreid over
@@ -240,9 +240,9 @@ een gezamenlijk ontwikkeld platform van generieke voorzieningen waarmee
 gemeenten hun dienstverlening kunnen realiseren. Gemeenten dragen actief
 bij aan zowel de architectuur als de realisatie van het platform, samen
 met leveranciers en landelijke partijen. Het bereidt daarmee voor op
-realisatie van Common Ground in een landelijke organisatie ([Gemeenten
+realisatie van Common Ground in een landelijke organisatie (<a href="https://vng.nl/nieuws/gemeenten-zetten-koers-naar-collectieve-digitalisering" target="_blank" rel="noopener noreferrer">Gemeenten
 zetten koers naar collectieve digitalisering   \|
-VNG](https://vng.nl/nieuws/gemeenten-zetten-koers-naar-collectieve-digitalisering))
+VNG</a>)
 
 Waar gemeenten vandaag investeren in honderden afzonderlijke applicaties
 die grotendeels dezelfde functies bevatten, brengt het platform deze

@@ -16,8 +16,8 @@ invulling of verdere concretisering geeft.
 
 ## Relatie met de Nederlandse Digitaliseringsstrategie (NDS)
 
-De [Nederlandse
-Digitaliseringsstrategie](https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2025/07/108.201-NDS-publicatie_v19-WEB.pdf)
+De <a href="https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2025/07/108.201-NDS-publicatie_v19-WEB.pdf" target="_blank" rel="noopener noreferrer">Nederlandse
+Digitaliseringsstrategie</a>
 beschrijft de beweging naar één digitale overheid, waarin gezamenlijke
 regie, (verplicht te stellen) standaarden, herbruikbare bouwstenen en de
 ontwikkeling naar een federatief datastelsel centraal staan.
@@ -66,8 +66,8 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Federatief Datastelsel (FDS)
 
-Het [**Federatief Datastelsel
-(FDS)**](https://federatief.datastelsel.nl/) is een landelijk
+Het <a href="https://federatief.datastelsel.nl/" target="_blank" rel="noopener noreferrer">**Federatief Datastelsel
+(FDS)**</a> is een landelijk
 afsprakenstelsel voor het verantwoord delen en gebruiken van data binnen
 de overheid. Het FDS faciliteert het zoeken, delen en in samenhang
 toepassen van hoogwaardige gegevens uit verschillende bronnen, waarbij
@@ -86,8 +86,8 @@ generieke voorzieningen, gegevensdiensten en registraties.
 
 ### Federatieve Toegangsverlening (FTV)
 
-[**Federatieve Toegangsverlening
-(FTV)**](https://vng-realisatie.github.io/ftv/) is een open standaard
+<a href="https://vng-realisatie.github.io/ftv/" target="_blank" rel="noopener noreferrer">**Federatieve Toegangsverlening
+(FTV)**</a> is een open standaard
 voor toegangsverlening binnen het Federatief Datastelsel. De standaard
 is gebaseerd op *Externalized Authorization Management (EAM)* en maakt
 het mogelijk om autorisatiebeleid los te koppelen van applicaties.
@@ -138,7 +138,7 @@ als volgt:
 
 - Documentatie:
 
-  - [GEMMA Online](https://www.gemmaonline.nl/wiki/Hoofdpagina)
+  - <a href="https://www.gemmaonline.nl/wiki/Hoofdpagina" target="_blank" rel="noopener noreferrer">GEMMA Online</a>
 
 <!-- -->
 
@@ -158,7 +158,7 @@ servicedesigns.
 
 - Documentatie & informatie:
 
-- [MijnServices dienstverlening \| VNG](https://vng.nl/MijnServices)
+- <a href="https://vng.nl/MijnServices" target="_blank" rel="noopener noreferrer">MijnServices dienstverlening \| VNG</a>
 
 #### VNG - Landelijk Programma Common Ground (LPCG)
 
@@ -167,7 +167,7 @@ servicedesigns.
 
 - Documentatie:
 
-  - [Website Common Ground](https://commonground.nl/)
+  - <a href="https://commonground.nl/" target="_blank" rel="noopener noreferrer">Website Common Ground</a>
 
     <img
     src="../media/media/image11.png"
@@ -183,15 +183,15 @@ servicedesigns.
 
   - Notion – samenwerkruimte Common Ground
 
-    - [Backlog](https://www.notion.so/e9375da1960249bba23c49d038d3c888?pvs=21)
+    - <a href="https://www.notion.so/e9375da1960249bba23c49d038d3c888?pvs=21" target="_blank" rel="noopener noreferrer">Backlog</a>
 
-    - [Beschrijving Governance &
-      proces](https://www.notion.so/Proces-backlog-documentatie-21b78b5f4db4804c828fc43bec7b544c?pvs=21)
+    - <a href="https://www.notion.so/Proces-backlog-documentatie-21b78b5f4db4804c828fc43bec7b544c?pvs=21" target="_blank" rel="noopener noreferrer">Beschrijving Governance &
+      proces</a>
 
   - GitBook – publieke documentatie Platform Dienstverlening
 
-    - [Introductie \| Platform Dienstverlening -
-      Public](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public)
+    - <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public" target="_blank" rel="noopener noreferrer">Introductie \| Platform Dienstverlening -
+      Public</a>
 
       <img
       src="../media/media/image12.png"

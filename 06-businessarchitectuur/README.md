@@ -36,8 +36,8 @@ De huidige gemeentelijke informatievoorziening weerspiegelt de
 verkokerde inrichting van de overheid zoals beschreven. Historisch
 gegroeide afdelingen, beleidsdomeinen en verantwoordelijkheden zijn
 veelal één-op-één vertaald naar processen, applicaties en
-gegevensstructuren. Dit sluit aan bij [Conway's
-Law](https://en.wikipedia.org/wiki/Conway%27s_law), die stelt dat
+gegevensstructuren. Dit sluit aan bij <a href="https://en.wikipedia.org/wiki/Conway%27s_law" target="_blank" rel="noopener noreferrer">Conway's
+Law</a>, die stelt dat
 informatiesystemen de organisatiestructuur weerspiegelen waaruit zij
 zijn ontstaan. De werkelijkheid van inwoners en ondernemers speelt zich
 juist over deze organisatorische grenzen heen af.
@@ -129,12 +129,12 @@ Binnen het kader van informatiegericht werken kunnen verschillende
 De verschillende vormen van werken zijn geen doel op zichzelf. Het
 vertrekpunt van dienstverlening is de maatschappelijke behoefte van
 inwoners, ondernemers en de samenleving. Vanuit die behoefte wordt
-bepaald welke [publieke
-waarde](https://vng.nl/sites/default/files/documenten/werken-aan-de-publieke-waarde_20181015.pdf)
+bepaald welke <a href="https://vng.nl/sites/default/files/documenten/werken-aan-de-publieke-waarde_20181015.pdf" target="_blank" rel="noopener noreferrer">publieke
+waarde</a>
 moet worden gerealiseerd en welke dienstverlening daarvoor nodig is.
 
 Een
-[waardestroom](https://begrippen.noraonline.nl/basisbegrippen/nl/page/waardestroom)
+<a href="https://begrippen.noraonline.nl/basisbegrippen/nl/page/waardestroom" target="_blank" rel="noopener noreferrer">waardestroom</a>
 beschrijft het geheel aan activiteiten, informatie, beslissingen en
 samenwerkingsrelaties dat leidt tot een maatschappelijk waardevol
 resultaat voor inwoners, ondernemers en de gemeente.
@@ -168,8 +168,8 @@ opvolging van signalen. De informatievoorziening moet daarom ruimte
 bieden aan meerdere werkvormen binnen dezelfde waardestroom.
 
 Deze benadering sluit aan op de gemeentelijke beweging naar publieke
-waarde en de door de VNG ontwikkelde [generieke
-klantroutes](https://vng.nl/sites/default/files/2025-09/klantroutes-dienstverlening-voor-gemeenten.pdf).
+waarde en de door de VNG ontwikkelde <a href="https://vng.nl/sites/default/files/2025-09/klantroutes-dienstverlening-voor-gemeenten.pdf" target="_blank" rel="noopener noreferrer">generieke
+klantroutes</a>.
 De klantroutes beschrijven hoe inwoners en ondernemers dienstverlening
 ervaren vanuit hun eigen perspectief. Waardestromen vormen de
 organisatorische en informatiekundige inrichting waarmee deze
@@ -252,10 +252,10 @@ eenduidige verantwoordelijkheden en consistente werkprocessen.
 
 ### MijnServices
 
-[MijnServices](https://vng.nl/MijnServices) is een initiatief binnen VNG
+<a href="https://vng.nl/MijnServices" target="_blank" rel="noopener noreferrer">MijnServices</a> is een initiatief binnen VNG
 dat zich richt op het ontwikkelen van herbruikbare servicedesigns. Een
 servicedesign
-([voorbeeld](https://nl-design-system.github.io/mijn-services/?path=/story/mijn-profiel-1--default))
+(<a href="https://nl-design-system.github.io/mijn-services/?path=/story/mijn-profiel-1--default" target="_blank" rel="noopener noreferrer">voorbeeld</a>)
 is de gestandaardiseerde beschrijving van de gewenste gebruikerservaring
 en interacties rondom een overheidsdienst. De bron voor de MijnServices
 is de implementatie van het Platform Dienstverlening in de Gemeente Den
@@ -473,8 +473,8 @@ werken. De volgende ontwerpstappen gelden:
 
 ## Domain-Driven Design als ontwerppraktijk
 
-*[Domain-Driven
-Design](https://www.bol.com/nl/nl/f/domain-driven-design/9200000002151217/)
+*<a href="https://www.bol.com/nl/nl/f/domain-driven-design/9200000002151217/" target="_blank" rel="noopener noreferrer">Domain-Driven
+Design</a>
 (DDD)* vormt binnen het Platform Dienstverlening de
 **voorkeursontwerppraktijk** voor het toepassen van het
 architectuurprincipe **Architectuurgedreven vernieuwing (4.4.1)**. Waar

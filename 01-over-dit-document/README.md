@@ -25,9 +25,9 @@ ontwikkelingen](../04-samenhang-met-andere-ontwikkelingen/README.md#samenhang-me
 
 | **Kader** | **Niveau** | **Kernbijdrage aan de architectuur** |
 |----|----|----|
-| [NORA](https://www.noraonline.nl/wiki/Nederlandse_Overheid_Referentie_Architectuur_(NORA)) | Landelijk | Overheidsbrede kernwaarden en kwaliteitsdoelen; basis voor alle onderliggende kaders. |
-| [GDI Domeinarchitectuur](https://open.overheid.nl/documenten/2496672b-3d8b-4894-818f-abaaced60d5f/file) | Landelijk | Interactiedoelen en capabilities (vermogens die de overheid moet bezitten, ontwikkelen of versterken) om de beleidsdoelen te realiseren, vastgesteld door de Architectuurraad Digitale Overheid. |
-| [GEMMA](https://www.gemmaonline.nl/wiki/Hoofdpagina) | Gemeentelijk (landelijk) | Gemeentelijke referentiearchitectuur en vertaling van NORA/GDI-principes, incl. Omnichannel-referentiearchitectuur. |
+| <a href="https://www.noraonline.nl/wiki/Nederlandse_Overheid_Referentie_Architectuur_(NORA" target="_blank" rel="noopener noreferrer">NORA</a>) | Landelijk | Overheidsbrede kernwaarden en kwaliteitsdoelen; basis voor alle onderliggende kaders. |
+| <a href="https://open.overheid.nl/documenten/2496672b-3d8b-4894-818f-abaaced60d5f/file" target="_blank" rel="noopener noreferrer">GDI Domeinarchitectuur</a> | Landelijk | Interactiedoelen en capabilities (vermogens die de overheid moet bezitten, ontwikkelen of versterken) om de beleidsdoelen te realiseren, vastgesteld door de Architectuurraad Digitale Overheid. |
+| <a href="https://www.gemmaonline.nl/wiki/Hoofdpagina" target="_blank" rel="noopener noreferrer">GEMMA</a> | Gemeentelijk (landelijk) | Gemeentelijke referentiearchitectuur en vertaling van NORA/GDI-principes, incl. Omnichannel-referentiearchitectuur. |
 
 ## Opdracht en opdrachtgever
 
@@ -57,10 +57,10 @@ Development Method (ADM)**.
 src="../media/media/image1.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
-[TOGAF](https://www.opengroup.org/togaf) is een internationaal erkende
+<a href="https://www.opengroup.org/togaf" target="_blank" rel="noopener noreferrer">TOGAF</a> is een internationaal erkende
 methode voor het ontwikkelen en beheren van enterprise-architecturen. De
-kern van TOGAF wordt gevormd door de [**Architecture Development Method
-(ADM)**](http://www.togaf.com/admref/_welcome.html): een iteratief
+kern van TOGAF wordt gevormd door de <a href="http://www.togaf.com/admref/_welcome.html" target="_blank" rel="noopener noreferrer">**Architecture Development Method
+(ADM)**</a>: een iteratief
 proces waarmee organisaties op gestructureerde wijze architecturen
 ontwikkelen, implementeren en beheren.
 
@@ -242,9 +242,9 @@ transitie-architecturen (plateaus). De reden hiervoor is dat de
 ontwikkeling van het Platform Dienstverlening plaatsvindt binnen een
 continu architecturaal proces, waarin:
 
-- Prioritering en fasering worden bepaald via een gezamenlijke [backlog
+- Prioritering en fasering worden bepaald via een gezamenlijke <a href="https://app.notion.com/p/platformvoordienstverlening/e9375da1960249bba23c49d038d3c888?v=2b078b5f4db4808da728000c21a96e11" target="_blank" rel="noopener noreferrer">backlog
   van
-  G4](https://app.notion.com/p/platformvoordienstverlening/e9375da1960249bba23c49d038d3c888?v=2b078b5f4db4808da728000c21a96e11)
+  G4</a>
   en betrokken partners;
 
 - Keuzes iteratief worden gemaakt op basis van voortschrijdend inzicht

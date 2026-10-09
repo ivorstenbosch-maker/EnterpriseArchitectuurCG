@@ -94,10 +94,10 @@ organisaties. Dit betekent dat:
 - Toegang tot informatieobjecten consistent en herleidbaar wordt
   beoordeeld
 
-  Deze aanpak sluit aan bij initiatieven zoals [**Federatieve
-  Toegangsverlening (FTV)**](https://vng-realisatie.github.io/ftv/) en
+  Deze aanpak sluit aan bij initiatieven zoals <a href="https://vng-realisatie.github.io/ftv/" target="_blank" rel="noopener noreferrer">**Federatieve
+  Toegangsverlening (FTV)**</a> en
   de referentie-implementatie
-  [OpenFTV](https://vng-realisatie.github.io/ftv/actueel/nieuws/20251014updateopenftv/)
+  <a href="https://vng-realisatie.github.io/ftv/actueel/nieuws/20251014updateopenftv/" target="_blank" rel="noopener noreferrer">OpenFTV</a>
   en is ook vastgelegd als (kandidaat) **toegepast patroon** in het
   onderdeel [Toegepaste patronen](../11-toegepaste-patronen/README.md#toegepaste-patronen).
 

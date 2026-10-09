@@ -47,8 +47,8 @@ werkt de verschillende applicatielagen en hun onderlinge samenhang uit.
 
 ## Het Vijf-lagen model
 
-Conform de [Informatiekundige visie Common
-Ground](https://www.gemmaonline.nl/wiki/Thema-architectuur_Common_Ground)
+Conform de <a href="https://www.gemmaonline.nl/wiki/Thema-architectuur_Common_Ground" target="_blank" rel="noopener noreferrer">Informatiekundige visie Common
+Ground</a>
 maakt de applicatie-architectuur van het Platform onderscheid tussen:
 
 - **Interactie** (gebruikersinterface)
@@ -427,7 +427,7 @@ binnen het Platform Dienstverlening. Ze moeten tenslotte invulling geven
 aan de hele gemeentelijke dienstverlening. Een uitgangspunt voor de
 gemeentelijke processen zijn GEMMA’s applicatieservices. GEMMA biedt een
 overzicht van
-[referentiecomponenten](https://www.gemmaonline.nl/wiki/Overzicht_alle_referentiecomponenten)
+<a href="https://www.gemmaonline.nl/wiki/Overzicht_alle_referentiecomponenten" target="_blank" rel="noopener noreferrer">referentiecomponenten</a>
 en de bijbehorende services die gerealiseerd kunnen worden. Waar
 GEMMA‑services vooral concrete softwarefuncties beschrijven, richten
 ABB’s zich op de onderliggende capabilities die in *alle* gemeentelijke
@@ -753,8 +753,8 @@ Het expliciet modelleren van beslisregels draagt bij aan de kern van
 Common Ground: transparantie, uitlegbaarheid, herbruikbaarheid en
 scheiding van verantwoordelijkheden. Hierdoor kan voor iedere beslissing
 worden herleid welke gegevens, regels en processtappen zijn toegepast.
-Dit anticipeert o.a. op [RegelRecht: van wet naar digitale
-werking](https://regelrecht.rijks.app/).
+Dit anticipeert o.a. op <a href="https://regelrecht.rijks.app/" target="_blank" rel="noopener noreferrer">RegelRecht: van wet naar digitale
+werking</a>.
 
 Beslisregels worden daarom niet in applicatiecode opgenomen wanneer zij
 generiek toepasbaar zijn, maar ondergebracht in een centrale
@@ -1017,8 +1017,8 @@ ontwikkeld. Betrouwbare registraties zijn essentieel voor rechtmatige
 besluitvorming, transparante dienstverlening, toezicht, auditing en het
 duurzaam gebruik van gegevens binnen de overheid.
 
-Het project [**Uit Betrouwbare Bron
-(UBB)**](https://uitbetrouwbarebron.rijks.app/handreiking-respec/)
+Het project <a href="https://uitbetrouwbarebron.rijks.app/handreiking-respec/" target="_blank" rel="noopener noreferrer">**Uit Betrouwbare Bron
+(UBB)**</a>
 beschrijft de eigenschappen waaraan overheidsregistraties moeten voldoen
 om als betrouwbare bron te kunnen functioneren. UBB biedt hiervoor een
 referentiemodel met uitgangspunten voor onder meer historie,
@@ -1115,8 +1115,8 @@ basis voor interoperabiliteit, semantische consistentie en duurzame
 gegevensuitwisseling.
 
 Binnen het Platform Dienstverlening wordt waar mogelijk aangesloten op
-het [**Metamodel Informatie Modellering
-(MIM)**](https://docs.geostandaarden.nl/mim/mim/), de landelijke
+het <a href="https://docs.geostandaarden.nl/mim/mim/" target="_blank" rel="noopener noreferrer">**Metamodel Informatie Modellering
+(MIM)**</a>, de landelijke
 standaard voor het modelleren van informatiemodellen binnen de overheid.
 MIM biedt een uniforme manier om objecttypen, attributen, relaties,
 begrippen en regels vast te leggen, waardoor informatiemodellen

@@ -52,9 +52,9 @@ Hierin zijn de volgende begrippen relevant:
   een bepaalde context. Om deze betekenis eenduidig vast te leggen,
   wordt gebruikgemaakt van begrippen, definities en informatiemodellen.
   Hierbij vormt het datamodel
-  ([MIM](https://docs.geostandaarden.nl/mim/mim/)) de richtlijn voor het
+  (<a href="https://docs.geostandaarden.nl/mim/mim/" target="_blank" rel="noopener noreferrer">MIM</a>) de richtlijn voor het
   vastleggen van de structuur van gegevens, terwijl het begrippenkader
-  ([NL-SBB](https://docs.geostandaarden.nl/nl-sbb/nl-sbb/)) de betekenis
+  (<a href="https://docs.geostandaarden.nl/nl-sbb/nl-sbb/" target="_blank" rel="noopener noreferrer">NL-SBB</a>) de betekenis
   van deze gegevens vastlegt.
 
 - **Data (gegevens)** is de concrete vastlegging van waarnemingen of
@@ -108,7 +108,7 @@ heeft de volgende implicaties:
 ## Data-autonomie
 
 Autonomie wordt door
-[DICTU](https://www.dictu.nl/sites/default/files/bestanden/website/DICTU%20Toetsingsinstrument%20Soevereiniteit%20Clouddiensten%20v1.0.1.pdf)
+<a href="https://www.dictu.nl/sites/default/files/bestanden/website/DICTU%20Toetsingsinstrument%20Soevereiniteit%20Clouddiensten%20v1.0.1.pdf" target="_blank" rel="noopener noreferrer">DICTU</a>
 gedefinieerd als de combinatie van zelfbeschikking en onafhankelijkheid.
 Voor data-autonomie betekent dit dat zowel gemeenten als inwoners
 zeggenschap behouden over hun gegevens en kunnen bepalen hoe deze worden
@@ -188,8 +188,8 @@ invulling op de volgende niveaus:
 #### Eigenaarschap
 
 Hoewel vaak wordt gesproken over "data van de gemeente", wordt daarmee
-geen goederenrechtelijk eigendom bedoeld. Naar [Nederlands
-recht](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2540&showbutton=true&keyword=ECLI%253aNL%253aRBAMS%253a2023%253a2540&idx=1)
+geen goederenrechtelijk eigendom bedoeld. Naar <a href="https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2540&amp;showbutton=true&amp;keyword=ECLI%253aNL%253aRBAMS%253a2023%253a2540&amp;idx=1" target="_blank" rel="noopener noreferrer">Nederlands
+recht</a>
 zijn digitale gegevens in beginsel geen zaken in de zin van het
 Burgerlijk Wetboek en kunnen zij daarom niet als zodanig in eigendom
 toebehoren. Rechten, plichten en bevoegdheden ten aanzien van gegevens
@@ -198,8 +198,8 @@ verantwoordelijkheid die organisaties hebben als bronhouder,
 verwerkingsverantwoordelijke of beheerder. De term *eigenaarschap* moet
 daarom worden gebruikt in de betekenis van bestuurlijke en
 organisatorische verantwoordelijkheid, niet als civielrechtelijk
-eigendom. Dit volgt [GIBIT Artikel
-21](https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf)
+eigendom. Dit volgt <a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">GIBIT Artikel
+21</a>
 (‘Intellectueel eigendom’).
 
 ### Implicaties voor de architectuur
@@ -303,8 +303,8 @@ Daaronder vallen onder andere:
 
 Het [**Principe: Data bij de bron**](../05-visie-principes-scope/README.md#principe-data-bij-de-bron) is een
 fundamenteel uitgangspunt van zowel Common Ground als de overheidsbrede
-[Domeinarchitectuur
-Gegevensuitwisseling](https://www.noraonline.nl/wiki/Domeinarchitectuur_Gegevensuitwisseling).
+<a href="https://www.noraonline.nl/wiki/Domeinarchitectuur_Gegevensuitwisseling" target="_blank" rel="noopener noreferrer">Domeinarchitectuur
+Gegevensuitwisseling</a>.
 Gegevens worden beheerd door de (door de bronhouder) daarvoor aangewezen
 bron en vanuit een (eveneens door de bronhouder aangewezen) bron
 beschikbaar gesteld aan afnemers. Processen, BusinessServices en
@@ -348,9 +348,9 @@ begrippen zijn niet volledig uitwisselbaar:
 - Data-eigenaar beschrijft de persoon binnen de organisatie die
   eindverantwoordelijk is voor de definitie, kwaliteit, waarde en het
   correct beschikbaar stellen van een specifieke dataset of data-domein
-  ([DAMA](https://dama-nl.org/wp-content/uploads/2022/09/Two-pager-Data-Governance-2-DAMA-NL.pdf))
+  (<a href="https://dama-nl.org/wp-content/uploads/2022/09/Two-pager-Data-Governance-2-DAMA-NL.pdf" target="_blank" rel="noopener noreferrer">DAMA</a>)
 
-- [Bronhouder](https://www.noraonline.nl/wiki/Rollen_Domeinarchitectuur_Gegevensuitwisseling)
+- <a href="https://www.noraonline.nl/wiki/Rollen_Domeinarchitectuur_Gegevensuitwisseling" target="_blank" rel="noopener noreferrer">Bronhouder</a>
   beschrijft een [rol](javascript:void(0);) van een partij die
   verantwoordelijk is voor de inhoud en kwaliteit van een registratie
   die als bron is aangewezen.
@@ -512,7 +512,7 @@ informatiestelsel.
 
 Voor de uitwerking van duurzame toegankelijkheid sluit deze architectuur
 aan bij het
-[DUTO-raamwerk](https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk)
+<a href="https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk" target="_blank" rel="noopener noreferrer">DUTO-raamwerk</a>
 van het Nationaal Archief. DUTO beschrijft geen afzonderlijke
 archiefvoorziening, maar een ontwerpbenadering waarbij
 informatiesystemen vanaf het ontwerp zodanig worden ingericht dat
@@ -573,7 +573,7 @@ De relevante bouwblokken zijn uitgewerkt in de
 ### Implementatie & DUTO-functiemodel
 
 De DUTO-processen worden verdiept met het
-[DUTO-functiemodel](https://www.nationaalarchief.nl/archiveren/kennisbank/duto-functiemodel).
+<a href="https://www.nationaalarchief.nl/archiveren/kennisbank/duto-functiemodel" target="_blank" rel="noopener noreferrer">DUTO-functiemodel</a>.
 Dit geeft een handvat om te controleren in hoeverre, en op welke manier,
 het Platform voldoet aan de gestelde eisen.
 
@@ -775,8 +775,8 @@ en implementaties.
 
 ### Openbaarheid van overheidsinformatie (Woo)
 
-De [Wet open overheid
-(Woo)](https://www.rijksoverheid.nl/themas/overheid-en-democratie/wet-open-overheid-woo/hoofdlijnen-woo)
+De <a href="https://www.rijksoverheid.nl/themas/overheid-en-democratie/wet-open-overheid-woo/hoofdlijnen-woo" target="_blank" rel="noopener noreferrer">Wet open overheid
+(Woo)</a>
 heeft als doel de transparantie van de overheid te vergroten door
 overheidsinformatie actief en passief openbaar te maken. De wet gaat uit
 van het principe dat overheidsinformatie openbaar is, tenzij een
@@ -795,13 +795,13 @@ passieve openbaarmaking.
 Binnen de huidige referentiearchitectuur is hiervoor nog geen oplossing
 aangewezen. Hoewel binnen de Common Ground-gemeenschap voorzieningen
 zijn ontwikkeld, zoals
-[OpenWoo](https://www.conduction.nl/solutions/openwoo/) en [de Generieke
-Publicatievoorziening Woo (GPP-Woo)](https://www.gpp-woo.nl/), maken
+<a href="https://www.conduction.nl/solutions/openwoo/" target="_blank" rel="noopener noreferrer">OpenWoo</a> en <a href="https://www.gpp-woo.nl/" target="_blank" rel="noopener noreferrer">de Generieke
+Publicatievoorziening Woo (GPP-Woo)</a>, maken
 deze op dit moment nog geen integraal onderdeel uit van het Platform
 Dienstverlening en bestaat er nog geen gestandaardiseerd
 integratiepatroon met de overige platformvoorzieningen. Tegelijkertijd
-wordt landelijk gewerkt aan de [Generieke Woo-voorziening
-(GWV)](https://www.koopoverheid.nl/voor-overheden/rijksoverheid/open-overheid)
+wordt landelijk gewerkt aan de <a href="https://www.koopoverheid.nl/voor-overheden/rijksoverheid/open-overheid" target="_blank" rel="noopener noreferrer">Generieke Woo-voorziening
+(GWV)</a>
 voor de gefaseerde invoering van de actieve openbaarmakingsplicht.
 
 De verdere uitwerking van Woo-ondersteuning valt buiten de scope van
@@ -838,8 +838,8 @@ architectuurcapabilities voorzien voor toekomstige ontwikkeling:
 
 Informatiebeveiliging is een randvoorwaarde voor het Platform
 Dienstverlening. Gemeenten zijn verantwoordelijk voor het voldoen aan de
-[Baseline Informatiebeveiliging Overheid
-(BIO)](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/)
+<a href="https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/" target="_blank" rel="noopener noreferrer">Baseline Informatiebeveiliging Overheid
+(BIO)</a>
 en de daarop gebaseerde normen, processen en risicobeheersing. Een
 volledige toetsing aan de BIO of ISO/NEN 27001 vindt plaats op het
 niveau van de ingerichte organisatie, de operationele beheerprocessen en
@@ -868,9 +868,9 @@ voorzieningen niet telkens opnieuw te implementeren en ontstaat een
 uniforme beveiligingsbasis voor het gehele platform.
 
 Deze generieke capabilities worden grotendeels gerealiseerd door de
-Haven+ infrastructuur, zie onder meer het principe [*Security by
+Haven+ infrastructuur, zie onder meer het principe <a href="https://havenplus.commonground.nl/docs/haven-plus-architecture-principles/#ap-06--security-by-default" target="_blank" rel="noopener noreferrer">*Security by
 default* in de Haven+
-architectuur](https://havenplus.commonground.nl/docs/haven-plus-architecture-principles/#ap-06--security-by-default).
+architectuur</a>.
 Hierdoor kunnen ontwikkelteams zich concentreren op de functionele
 beveiliging van hun eigen services.
 
@@ -1095,8 +1095,8 @@ waarvoor ze worden gebruikt. Het is daarmee geen absolute eigenschap,
 maar afhankelijk van context: dezelfde data kan voor het ene doel
 bruikbaar zijn en voor het andere niet.
 
-[ISO/IEC
-25012](https://mail.iso25000.com/index.php/en/iso-25000-standards/iso-25012)
+<a href="https://mail.iso25000.com/index.php/en/iso-25000-standards/iso-25012" target="_blank" rel="noopener noreferrer">ISO/IEC
+25012</a>
 onderscheidt twee perspectieven: **inherente datakwaliteit** en
 **systeemafhankelijke datakwaliteit**.
 
@@ -1411,8 +1411,8 @@ Richt ook binnen het datawarehouse een afgeschermde zone in voor
 datasets met PII die bestemd zijn voor externe levering. Toegang tot de
 CBS-dataset en extractieprocessen is beperkt tot een zeer kleine,
 geautoriseerde groep. Elke extractie en levering wordt gemonitord en
-gelogd, conform de eisen die [BIO (Baseline Informatiebeveiliging
-Overheid)](https://www.bio-overheid.nl/bio2/bio-producten/baseline-informatiebeveiliging-overheid-2-bio2/)
+gelogd, conform de eisen die <a href="https://www.bio-overheid.nl/bio2/bio-producten/baseline-informatiebeveiliging-overheid-2-bio2/" target="_blank" rel="noopener noreferrer">BIO (Baseline Informatiebeveiliging
+Overheid)</a>
 stelt.
 
 Overweeg om de deze aanlevering te positioneren als een

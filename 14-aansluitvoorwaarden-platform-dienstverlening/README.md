@@ -33,15 +33,15 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Common Ground en Platform Dienstverlening
 
-Het [Platform
-Dienstverlening](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur)
+Het <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur" target="_blank" rel="noopener noreferrer">Platform
+Dienstverlening</a>
 is de implementatie van Common Ground binnen de G4-gemeenten. Het vormt
 de referentiearchitectuur voor de gemeentelijke informatievoorziening en
 biedt een samenhangend geheel van software (generieke registraties,
 dataservices, integratievoorzieningen en procesapplicaties) waarmee de
 gemeentelijke dienstverlening op een generieke manier kan worden
-gerealiseerd. Het volgt een [Enterprise
-architectuur](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur)
+gerealiseerd. Het volgt een <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur" target="_blank" rel="noopener noreferrer">Enterprise
+architectuur</a>
 en realiseert een ontkoppeld landschap van (micro)services volgens het
 model van Common Ground:
 
@@ -131,7 +131,7 @@ aansluitvoorwaarden van het Platform Dienstverlening.
 Deze aansluitvoorwaarden zijn van toepassing op oplossingen die als
 applicatie aansluiten op het Platform Dienstverlening (Common Ground).
 Zij zijn aanvullend op de
-[GIBIT](https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf).
+<a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">GIBIT</a>.
 Voor alle contractuele, juridische, organisatorische en generieke
 kwaliteitseisen geldt de GIBIT, tenzij in deze aansluitvoorwaarden
 aanvullende of afwijkende platformspecifieke eisen zijn opgenomen.
@@ -204,21 +204,21 @@ naar de Common Ground-domeinen. Concreet betekent dit het aansluiten op
 de volgende standaarden:
 
 - **Klantgegevens** hebben als bron **OpenKlant** (Klantinteracties- en
-  Contactgegevens API) ([OpenKlant
-  GitHub](https://github.com/maykin../media/open-klant)).
+  Contactgegevens API) (<a href="https://github.com/maykin../media/open-klant" target="_blank" rel="noopener noreferrer">OpenKlant
+  GitHub</a>).
 
 - **(Instanties van) Producten en diensten** hebben als bron
-  **OpenProduct** ([OpenProduct)
-  GitHub](https://github.com/maykin../media/open-product)).
+  **OpenProduct** (<a href="https://github.com/maykin../media/open-product" target="_blank" rel="noopener noreferrer">OpenProduct)
+  GitHub</a>).
 
-- **Zaken** hebben als bron **OpenZaak** ([OpenZaak
-  GitHub](https://github.com/open-zaak/open-zaak))
+- **Zaken** hebben als bron **OpenZaak** (<a href="https://github.com/open-zaak/open-zaak" target="_blank" rel="noopener noreferrer">OpenZaak
+  GitHub</a>)
 
   - **Onderdeel** daarvan is ook de **Documenten API**
 
 - **Verzoeken**, **Taken** en **Berichten** hebben als bron **OpenVTB**
   en volgen respectievelijk het Verzoeken-, Taken- en Berichtenpatroon
-  ([OpenVTB GitHub](https://github.com/maykin../media/open-vtb)).
+  (<a href="https://github.com/maykin../media/open-vtb" target="_blank" rel="noopener noreferrer">OpenVTB GitHub</a>).
 
 De actuele documentatie en API-specificaties zijn beschikbaar via de
 GitHub links.
@@ -226,9 +226,9 @@ GitHub links.
 #### Aansluitpatronen
 
 Iedere aangesloten oplossing past de functionele en technische
-aansluitpatronen toe zoals beschreven in de [Enterprisearchitectuur
+aansluitpatronen toe zoals beschreven in de <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur" target="_blank" rel="noopener noreferrer">Enterprisearchitectuur
 Platform
-Dienstverlening](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur).
+Dienstverlening</a>.
 Deze patronen beschrijven de uniforme wijze waarop applicaties
 samenwerken met registraties, API's en andere platformvoorzieningen.
 
@@ -284,15 +284,15 @@ generieke platformvoorzieningen voor gegevensuitwisseling,
 observability, authenticatie en autorisatie.
 
 - **Eis** – Communicatie met andere componenten verloopt via
-  [Federatieve Service Connectiviteit
-  (FSC).](https://docs.open-fsc.nl/introduction)
+  <a href="https://docs.open-fsc.nl/introduction" target="_blank" rel="noopener noreferrer">Federatieve Service Connectiviteit
+  (FSC).</a>
 
 - **Eis** – Gebeurtenissen worden geconsumeerd via **Open
-  Notificaties**, conform het notificatiepatroon ([Open Notificaties
-  GitHub](https://github.com/open-zaak/open-notificaties)).
+  Notificaties**, conform het notificatiepatroon (<a href="https://github.com/open-zaak/open-notificaties" target="_blank" rel="noopener noreferrer">Open Notificaties
+  GitHub</a>).
 
 - **Eis** – Logging en telemetry volgen
-  [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/).
+  <a href="https://opentelemetry.io/docs/what-is-opentelemetry/" target="_blank" rel="noopener noreferrer">OpenTelemetry</a>.
 
 #### Platformbrede voorzieningen
 
@@ -300,12 +300,12 @@ De onderstaande platformvoorzieningen bevinden zich nog in ontwikkeling.
 Vanaf zes maanden nadat een voorziening de status **'In gebruik'** heeft
 bereikt, gelden de volgende aanvullende aansluitvoorwaarden:
 
-- [OpenFTV/AuthZEN](https://vng-realisatie.github.io/ftv/) – Autorisatie
+- <a href="https://vng-realisatie.github.io/ftv/" target="_blank" rel="noopener noreferrer">OpenFTV/AuthZEN</a> – Autorisatie
   maakt gebruik van de centrale voorziening voor federatieve
   authenticatie en autorisatie
 
-- [Logboek
-  Dataverwerkingen](https://github.com/Logius-standaarden/logboek-dataverwerkingen)
+- <a href="https://github.com/Logius-standaarden/logboek-dataverwerkingen" target="_blank" rel="noopener noreferrer">Logboek
+  Dataverwerkingen</a>
   – De oplossing registreert gegevensverwerkingen via het centrale
   Logboek Dataverwerkingen.
 
@@ -351,8 +351,8 @@ behouden blijft.
 
 Als platformservice wordt de oplossing onderdeel van het Platform
 Dienstverlening. De inrichting en doorontwikkeling van dit platform
-worden gestuurd door de [Enterprisearchitectuur Common Ground & Platform
-Dienstverlening](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur).
+worden gestuurd door de <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur" target="_blank" rel="noopener noreferrer">Enterprisearchitectuur Common Ground & Platform
+Dienstverlening</a>.
 Deze architectuur beschrijft de visie, architectuurprincipes,
 referentiearchitectuur, standaarden en governance die richting geven aan
 de ontwikkeling van het platform. Platformservices sluiten hierop aan en
@@ -424,14 +424,14 @@ registraties en de architectuur van API's.
   beschreven in de [Enterprisearchitectuur Platform
   Dienstverlening.](../08-applicatiearchitectuur/README.md#architectuur-van-registraties)
 
-- **Eis –** REST API's voldoen aan de [REST API Design
-  Rules](https://logius-standaarden.github.io/API-Design-Rules/)
+- **Eis –** REST API's voldoen aan de <a href="https://logius-standaarden.github.io/API-Design-Rules/" target="_blank" rel="noopener noreferrer">REST API Design
+  Rules</a>
 
-- **Eis –**API's worden gespecificeerd conform de [OpenAPI Specification
-  3.x](https://spec.openapis.org/oas/latest.html)
+- **Eis –**API's worden gespecificeerd conform de <a href="https://spec.openapis.org/oas/latest.html" target="_blank" rel="noopener noreferrer">OpenAPI Specification
+  3.x</a>
 
-- **Eis –** Eventgedreven integraties implementeren het [CloudEvents
-  NL-profiel](https://www.gemmaonline.nl/wiki/De_CloudEvents_standaard)
+- **Eis –** Eventgedreven integraties implementeren het <a href="https://www.gemmaonline.nl/wiki/De_CloudEvents_standaard" target="_blank" rel="noopener noreferrer">CloudEvents
+  NL-profiel</a>
 
 - Eis – De leverancier toont aan dat registraties en API's aansluiten op
   de referentiearchitectuur van het Platform Dienstverlening.
@@ -584,7 +584,7 @@ uniforme wijze kunnen worden geïmplementeerd, beheerd en doorontwikkeld.
 
 - **Eis** – Integratie met een **Identity Provider (IdP)** vindt plaats
   op basis van **OpenID Connect
-  [(OIDC)](https://openid.net/developers/how-connect-works/)**. De
+  <a href="https://openid.net/developers/how-connect-works/" target="_blank" rel="noopener noreferrer">(OIDC)</a>**. De
   applicatie ondersteunt iedere OIDC-conforme Identity Provider en mag
   geen afhankelijkheid hebben van een specifieke implementatie, zoals
   Keycloak.
@@ -597,8 +597,8 @@ uniforme wijze kunnen worden geïmplementeerd, beheerd en doorontwikkeld.
   gedocumenteerd. Hiervoor worden demonstratievoorzieningen beschikbaar
   gesteld in de demo-directory.
 
-- **Eis** – De applicatie ondersteunt de [**Gateway
-  API**](https://gateway-api.sigs.k8s.io), de opvolger van de Kubernetes
+- **Eis** – De applicatie ondersteunt de <a href="https://gateway-api.sigs.k8s.io" target="_blank" rel="noopener noreferrer">**Gateway
+  API**</a>, de opvolger van de Kubernetes
   Ingress API, zodat deze onafhankelijk is van de gebruikte
   ingress-implementatie (zoals Istio of Traefik).
 
@@ -620,18 +620,18 @@ uniforme wijze kunnen worden geïmplementeerd, beheerd en doorontwikkeld.
 #### Observability
 
 - **Eis** – Logs, traces en metrics worden beschikbaar gesteld via
-  [**OpenTelemetry
-  (OTel)**](https://opentelemetry.io/docs/what-is-opentelemetry/).
+  <a href="https://opentelemetry.io/docs/what-is-opentelemetry/" target="_blank" rel="noopener noreferrer">**OpenTelemetry
+  (OTel)**</a>.
 
 - **Wens** – Bij de applicatie worden standaard
-  [**Grafana**](https://grafana.com)-dashboards en bijbehorende
+  <a href="https://grafana.com" target="_blank" rel="noopener noreferrer">**Grafana**</a>-dashboards en bijbehorende
   alert-definities meegeleverd.
 
 #### Security
 
-- **Eis** – De pod-definitie en applicatie voldoen aan de [**Kubernetes
+- **Eis** – De pod-definitie en applicatie voldoen aan de <a href="https://kubernetes.io/docs/concepts/security/pod-security-standards/" target="_blank" rel="noopener noreferrer">**Kubernetes
   Pod Security Standards –
-  Restricted**](https://kubernetes.io/docs/concepts/security/pod-security-standards/).
+  Restricted**</a>.
 
 - **Eis** – Secrets worden niet in de applicatie of containerimage
   opgeslagen. Secret-referenties zijn configureerbaar via GitOps/Helm,
@@ -644,7 +644,7 @@ uniforme wijze kunnen worden geïmplementeerd, beheerd en doorontwikkeld.
   of load balancers kan worden aangeboden.
 
 - **Eis** – De applicatie voldoet zoveel mogelijk aan de principes van
-  de [**Twelve-Factor App**](https://12factor.net). Afwijkingen zijn
+  de <a href="https://12factor.net" target="_blank" rel="noopener noreferrer">**Twelve-Factor App**</a>. Afwijkingen zijn
   toegestaan, mits deze expliciet zijn gemotiveerd en gedocumenteerd.
 
 ## Kwaliteitsborging van de softwareontwikkeling
@@ -658,7 +658,7 @@ ontwikkelproces moet transparant, overdraagbaar en reproduceerbaar zijn.
 De algemene eisen ten aanzien van softwareontwikkeling, kwaliteit,
 beveiliging, documentatie, testen, acceptatie en onderhoud zijn
 opgenomen in de
-[GIBIT](https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf).
+<a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">GIBIT</a>.
 De onderstaande bepalingen vormen daarop een aanvulling en gelden
 specifiek voor software die onderdeel uitmaakt van het Platform
 Dienstverlening.
