@@ -360,11 +360,9 @@ rollen verantwoordelijkheden binnen gemeenten.
 
 #  Over dit document
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Dit hoofdstuk legt uit wat dit document is, waarom het bestaat en hoe je het moet lezen. Het is de gezamenlijke enterprise-architectuur voor het Platform Dienstverlening van de G4 en geeft richting aan de ontwikkeling van generieke voorzieningen binnen Common Ground. De architectuur volgt de TOGAF-werkwijze en verbindt business, informatie, applicaties en techniek. Ook wordt afgebakend wat dit document wel en niet pretendeert te zijn. |
-
-## Doel van dit document
 
 Het Statement of Architecture Work vormt de formele opdracht voor de
 architectuurontwikkeling. Het beschrijft de aanleiding, doelstelling,
@@ -385,14 +383,14 @@ een reeks landelijke en sectorale kaders:
 
 | **Kader** | **Niveau** | **Kernbijdrage aan de architectuur** |
 |----|----|----|
-| [NORA](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nora/) | Landelijk | Overheidsbrede kernwaarden en kwaliteitsdoelen; basis voor alle onderliggende kaders. |
-| [GDI Domeinarchitectuur](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/mido/generieke-digitale-infrastructuur-gdi/) | Landelijk | Interactiedoelen en capabilities (vermogens die de overheid moet bezitten, ontwikkelen of versterken) om de beleidsdoelen te realiseren, vastgesteld door de Architectuurraad Digitale Overheid. |
+| [NORA](https://www.noraonline.nl/wiki/Nederlandse_Overheid_Referentie_Architectuur_(NORA)) | Landelijk | Overheidsbrede kernwaarden en kwaliteitsdoelen; basis voor alle onderliggende kaders. |
+| [GDI Domeinarchitectuur](https://open.overheid.nl/documenten/2496672b-3d8b-4894-818f-abaaced60d5f/file) | Landelijk | Interactiedoelen en capabilities (vermogens die de overheid moet bezitten, ontwikkelen of versterken) om de beleidsdoelen te realiseren, vastgesteld door de Architectuurraad Digitale Overheid. |
 | [GEMMA](https://www.gemmaonline.nl/wiki/Hoofdpagina) | Gemeentelijk (landelijk) | Gemeentelijke referentiearchitectuur en vertaling van NORA/GDI-principes, incl. Omnichannel-referentiearchitectuur. |
 
 ## Opdracht en opdrachtgever
 
 Deze Enterprisearchitectuur is opgesteld in opdracht van de
-programmamanagers Common Ground van de G4[^1].
+programmamanagers Common Ground van de G4.
 
 De opdracht is het ontwikkelen van een gezamenlijke
 Enterprisearchitectuur die:
@@ -710,7 +708,7 @@ informatie te verifiëren en ontbrekende informatie op te halen.
 
 # Motivatie, strategie, uitkomst
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | De gemeentelijke informatievoorziening is in de loop der jaren complex geworden, met veel applicaties, leveranciersafhankelijkheden en historisch gegroeide oplossingen. Common Ground en het Platform Dienstverlening maken daarom de beweging naar een overheid die eenvoudiger, samenhangender en beter herbruikbaar kan werken |
 
@@ -1192,7 +1190,7 @@ organiseren.
 
 # Samenhang met andere ontwikkelingen 
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Het Platform Dienstverlening is geen eiland. Dit hoofdstuk legt uit hoe het platform zich verhoudt tot de NDS, andere landelijke ontwikkelingen en de gemeentelijke praktijk. De grote lijn: landelijke ambities rond standaarden, hergebruik, data delen, digitale autonomie en gezamenlijke voorzieningen worden vertaald naar een concrete gemeentelijke inrichting. Het platform is daarmee niet nóg een strategisch praatstuk, maar probeert de stap te maken van “we vinden dit allemaal belangrijk” naar “zo gaan we het daadwerkelijk bouwen en gebruiken”. |
 
@@ -1456,7 +1454,7 @@ overheid.
 
 # Visie, principes, scope
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Hier wordt bepaald waar we naartoe willen en volgens welke spelregels. De visie draait om dienstverlening die meer samenhangend, informatiegericht, herbruikbaar en minder afhankelijk van individuele leveranciers is. De architectuurprincipes vertalen dat naar concrete uitgangspunten, zoals data bij de bron, data-autonomie, hergebruik, Open Source, generiek vóór specifiek en portabiliteit. Ook wordt de scope bepaald. |
 
@@ -2012,7 +2010,7 @@ gegevensbeschikbaarheid, integraties of beveiligingsvoorzieningen.
 
 # Businessarchitectuur
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Dit hoofdstuk verplaatst de aandacht van architectuur naar van “welke applicatie hebben we?” naar “welke dienstverlening willen we leveren?” De bestaande verkokering moet plaatsmaken voor samenhangende waardestromen en herbruikbare BusinessServices. Domain-Driven Design helpt om verantwoordelijkheden, domeinen en grenzen scherp te krijgen. De bedoeling is dat gemeenten niet voor ieder probleem opnieuw een maatwerkoplossing optuigen, maar eerst kijken wat al generiek kan. Dat vraagt overigens niet alleen nieuwe software, maar ook een andere manier van organiseren, sturen en samenwerken. |
 
@@ -2733,7 +2731,7 @@ dat fundamentele architectuurkeuzes opnieuw hoeven te worden gemaakt.
 
 # Informatie- en data-architectuur
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Dit hoofdstuk beschrijft hoe informatie wordt georganiseerd vanuit de werkelijkheid die de gemeente wil registreren, met duidelijke domeinen en gestandaardiseerde ontsluiting vanuit aangewezen bronnen. Informatie moet vindbaar, beschikbaar, leesbaar, interpreteerbaar, betrouwbaar en toekomstbestendig zijn. Een bron is daarbij niet alleen een plek waar data staat, maar heeft een duidelijke verantwoordelijkheid voor de inhoud, kwaliteit, betekenis en levenscyclus van de gegevens. Gegevens worden via gestandaardiseerde diensten ontsloten. |
 
@@ -4230,7 +4228,7 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 # Applicatiearchitectuur
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Hier wordt het allemaal wat technischer. De applicatiearchitectuur vertaalt de eerdere uitgangspunten naar services, API’s, events en componenten. Het vijf-lagenmodel onderscheidt interactie, proces, connectiviteit, diensten en gegevens. Functionaliteit wordt zoveel mogelijk opgebouwd uit zelfstandige, herbruikbare componenten met een duidelijke verantwoordelijkheid. De kernboodschap: geen monolithische alleskunner die tegelijk je registratie, proces, formulier, API en koffieautomaat wil zijn, maar kleinere bouwstenen die netjes samenwerken. |
 
@@ -5499,7 +5497,7 @@ Handelingsgedreven API's:
 
 # Logging
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Dit hoofdstuk beschrijft de uitgangspunten voor logging en observability binnen het Platform Dienstverlening. Logging moet helpen om systemen, gebeurtenissen en ketens te begrijpen, fouten te vinden en beheer en toezicht te ondersteunen. Het gaat dus niet om zoveel mogelijk logregels verzamelen, maar om voldoende informatie om te kunnen reconstrueren wat er is gebeurd. |
 
@@ -6027,7 +6025,7 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 # Toegepaste patronen
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Dit hoofdstuk beschrijft herbruikbare oplossingspatronen voor veelvoorkomende vormen van dienstverlening, zoals notificaties, verzoeken, taken en berichten. Ook worden implementatiepatronen en de registratiestrategie beschreven. De gedachte is simpel: als iets vaker voorkomt, maken we er een patroon van. |
 
@@ -6681,7 +6679,7 @@ voor architecten, ontwerpers en ontwikkelaars.
 
 # Aansluitvoorwaarden Platform Dienstverlening
 
-| **Abstract/TL;DR** |
+| **Compact:** |
 |----|
 | Wie wil aansluiten op het Platform Dienstverlening krijgt een aantal voorwaarden. Dit hoofdstuk beschrijft wanneer en hoe oplossingen binnen Common Ground passen, welke eisen gelden voor platformservices en Patroon B, hoe softwarekwaliteit wordt geborgd en welke organisatorische voorwaarden gelden. |
 
@@ -8609,7 +8607,3 @@ betreffende URL is opgenomen. Alle bronnen zijn geraadpleegd in oktober
 | \[L117\] | docs.valtimo.nl/features/iko | [<u>\[link\]</u>](https://docs.valtimo.nl/features/iko) |
 | \[L118\] | github.com/open-formulieren/open-forms/ | [<u>\[link\]</u>](https://github.com/open-formulieren/open-forms/) |
 | \[L119\] | github.com/maykinmedia/open-beheer | [<u>\[link\]</u>](https://github.com/maykinmedia/open-beheer) |
-
-[^1]: Oorspronkelijk was het een CIO-opdracht binnen Utrecht om een
-    ‘thema-architectuur Common Ground’ te beschrijven. Deze doelstelling
-    en het G4-belang zijn samengevoegd in dit resultaat.
