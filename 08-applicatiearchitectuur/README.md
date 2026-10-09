@@ -62,7 +62,7 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
 - **Gegevens** (registraties).
 
   <img
-  src="../media/media/image22.png"
+  src="../media/media/image21.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden
@@ -319,7 +319,7 @@ veranderen; de architectuurprincipes en verantwoordelijkheidsverdeling
 blijven leidend.
 
 <img
-src="../media/media/image23.png"
+src="../media/media/image22.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Om deze samenhang duurzaam te borgen, is een gemeenschappelijke
@@ -398,7 +398,7 @@ ABB’s en SBB’s vormen daarmee de schakel tussen architectuur
 (richtinggevend) en realisatie (concreet en configureerbaar).
 
 <img
-src="../media/media/image24.png"
+src="../media/media/image23.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Voorbeeld – Aanvragen van een uitkering
@@ -558,7 +558,7 @@ staan.
   platformdiensten.
 
   <img
-  src="../media/media/image25.png"
+  src="../media/media/image24.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Specificatie ABB’s niveau 2 
@@ -662,7 +662,7 @@ De SBB’s op niveau 1 staan ook verzameld onder [BIJLAGE - Overzicht
 services](#bijlage---overzicht-services). Een voorbeeldmapping:
 
 <img
-src="../media/media/image26.png"
+src="../media/media/image25.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 De bovenstaande mapping maakt inzichtelijk hoe de verschillende
@@ -901,7 +901,7 @@ logisch gescheiden onderdelen:
   beschikbaar worden gesteld.
 
   <img
-  src="../media/media/image27.png"
+  src="../media/media/image26.png"
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Processen communiceren uitsluitend met de dataservice; de registratie
@@ -948,7 +948,7 @@ De **registratie** bestaat uit:
     van API's](README.md#architectuur-van-apis).
 
     <img
-    src="../media/media/image28.png"
+    src="../media/media/image27.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Functionele eisen aan registraties

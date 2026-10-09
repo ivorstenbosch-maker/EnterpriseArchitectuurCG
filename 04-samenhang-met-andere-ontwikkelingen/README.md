@@ -64,48 +64,6 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Andere landelijke ontwikkelingen
 
-### Interactiedoelen Architectuur Digitale Overheid 2030 (GDI-NORA)
-
-De [Architectuur Digitale Overheid
-2030](https://pgdi.nl/file/download/8e2cdce9-5f23-451d-9537-946d2086c557/20251103-architectuur-digitale-overheid-2030-versie-102.pdf)
-(ADO2030) formuleert de beleidsdoelen voor de ontwikkeling van de
-digitale overheid. Voor het contact en de dienstverlening aan burgers en
-bedrijven zijn deze doelen verder geconcretiseerd in de
-[Domeinarchitectuur
-Interactie](https://file.notion.com/f/f/8b8dc544-81d0-40fc-90e8-ce6ddba9548c/12b9b5ee-d397-4829-9bce-4539a783b1a9/20251110_AR_08_Domeinarchitectuur_Interactie.pdf?table=block&id=3d578b5f-4db4-80f5-b367-fbbb11c3653d&spaceId=8b8dc544-81d0-40fc-90e8-ce6ddba9548c&expirationTimestamp=1790899200000&signature=5bi9pZ0-sM3KZ6VhtHhXNCdSIvFNG_-57KF8tZHh3x8&downloadName=20251110+AR+08+Domeinarchitectuur+Interactie.pdf).
-Deze domeinarchitectuur vertaalt de beleidsdoelen van ADO2030 naar 11
-interactiedoelen, waaronder
-
-- één-overheidsbeleving,
-
-- proactieve dienstverlening,
-
-- samenhangende communicatie,
-
-- regie op gegevens,
-
-- open overheid,
-
-- kanaalonafhankelijke dienstverlening en
-
-- transparante en volgbare dienstverleningsprocessen.
-
-Deze zijn vastgesteld door de Architectuurraad Digitale Overheid. Een
-doel is rechtstreeks verbonden aan de bijpassende kernwaarden,
-kwaliteitsdoelen en architectuurprincipes in de NORA.
-
-#### Relatie met Platform Dienstverlening
-
-Het Platform Dienstverlening maakt gebruik van en geeft invulling aan
-delen van de doelen en capabilities conform de Architectuur Digitale
-Overheid. Het biedt generieke architectuurblokken en herbruikbare
-softwarecomponenten die gemeenten kunnen inzetten bij de inrichting en
-doorontwikkeling van hun dienstverlening. Een globale mapping als volgt:
-
-<img
-src="../media/media/image10.png"
-style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
-
 ### Federatief Datastelsel (FDS)
 
 Het [**Federatief Datastelsel
@@ -153,7 +111,7 @@ beleidsdomeinen heen en vormt daarmee de basis voor eenduidige
 gegevensuitwisseling, registraties en informatiemodellen.
 
 <img
-src="../media/media/image11.png"
+src="../media/media/image10.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### Relatie met Platform Dienstverlening
@@ -212,7 +170,7 @@ servicedesigns.
   - [Website Common Ground](https://commonground.nl/)
 
     <img
-    src="../media/media/image12.png"
+    src="../media/media/image11.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 #### G4D/Dimpact (Amsterdam, Rotterdam, Den Haag, Utrecht)
@@ -236,7 +194,7 @@ servicedesigns.
       Public](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public)
 
       <img
-      src="../media/media/image13.png"
+      src="../media/media/image12.png"
       style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Platform Dienstverlening in context

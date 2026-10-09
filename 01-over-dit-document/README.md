@@ -19,7 +19,9 @@ ontwikkeling van het platform.
 ## Relatie met andere architecturen
 
 Deze architectuur staat niet op zichzelf, maar is een specialisatie van
-een reeks landelijke en sectorale kaders:
+een reeks landelijke en sectorale kaders. Dit zijn de belangrijkste, zie
+verder het hoofdstuk [Samenhang met andere
+ontwikkelingen](../04-samenhang-met-andere-ontwikkelingen/README.md#samenhang-met-andere-ontwikkelingen).
 
 | **Kader** | **Niveau** | **Kernbijdrage aan de architectuur** |
 |----|----|----|

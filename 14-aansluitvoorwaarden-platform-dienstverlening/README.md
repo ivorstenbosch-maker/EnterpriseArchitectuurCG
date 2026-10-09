@@ -28,7 +28,7 @@ Valt de oplossing binnen deze scope? Dan gelden de Common Ground
 aansluitvoorwaarden.
 
 <img
-src="../media/media/image34.png"
+src="../media/media/image33.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Common Ground en Platform Dienstverlening
@@ -46,7 +46,7 @@ en realiseert een ontkoppeld landschap van (micro)services volgens het
 model van Common Ground:
 
 <img
-src="../media/media/image35.png"
+src="../media/media/image34.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Bij een nieuwe functionele behoefte (of een bestaande die ingevuld
@@ -59,7 +59,7 @@ beslisboom waarin twee patronen worden onderscheiden, die hieronder
 worden toegelicht.
 
 <img
-src="../media/media/image36.png"
+src="../media/media/image35.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### Patroon A: Realisatie in Platform Dienstverlening
@@ -117,7 +117,7 @@ en integratievoorzieningen. Het Platform biedt hier ruimte voor in de
 vorm van generieke aansluitingen (“stekkers”) op de gegevenslaag.
 
 <img
-src="../media/media/image37.png"
+src="../media/media/image36.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Leveranciers en communities behouden vrijheid in de inrichting en
@@ -318,7 +318,7 @@ referentiearchitectuur, valt deze onder de architectuurgovernance van
 het platform en wordt zij gezamenlijk beheerd en doorontwikkeld.
 
 <img
-src="../media/media/image38.png"
+src="../media/media/image37.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Om die reden gelden voor platformservices, naast de (niet-)functionele

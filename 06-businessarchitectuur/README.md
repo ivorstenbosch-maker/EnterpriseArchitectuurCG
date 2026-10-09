@@ -178,7 +178,7 @@ ondersteunt beide perspectieven: de beleving van de inwoner aan de
 buitenkant en de samenhangende uitvoering aan de binnenkant.
 
 <img
-src="../media/media/image16.png"
+src="../media/media/image15.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Bedrijfsarchitectuur als schakel tussen platform, inwoner en organisatie
@@ -288,7 +288,7 @@ BusinessServices de uitvoering van het werk. Samen vormen zij de
 verbinding tussen de buitenwereld en de interne bedrijfsvoering.
 
 <img
-src="../media/media/image17.png"
+src="../media/media/image16.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ### BusinessServices als ontwerpprincipe
@@ -468,7 +468,7 @@ werken. De volgende ontwerpstappen gelden:
     zich continu ontwikkelt.
 
     <img
-    src="../media/media/image18.png"
+    src="../media/media/image17.png"
     style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Domain-Driven Design als ontwerppraktijk
@@ -523,7 +523,7 @@ BusinessService-benadering, zoals cohesie, herbruikbaarheid en
 duidelijke verantwoordelijkheid.
 
 <img
-src="../media/media/image19.png"
+src="../media/media/image18.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Implicaties voor de bestaande organisatie

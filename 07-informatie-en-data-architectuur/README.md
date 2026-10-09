@@ -971,7 +971,7 @@ Deze scheiding kent twee complementaire dimensies.
     gebruikt.
 
 <img
-src="../media/media/image20.png"
+src="../media/media/image19.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 Daarnaast bestaan domeinspecifieke registraties voor gegevens die
@@ -1492,5 +1492,5 @@ verschillende implementatievarianten mogelijk:
   ingeladen in een datawarehouse.
 
 <img
-src="../media/media/image21.png"
+src="../media/media/image20.png"
 style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
