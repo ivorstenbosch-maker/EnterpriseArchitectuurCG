@@ -397,21 +397,21 @@ documentbeheer.
 Registratiecomponent voor opslag en ontsluiting van klantgegevens
 volgens de Klantinteracties-API-specificaties.
 
-<https://github.com/maykin../media/open-klant>
+<https://github.com/maykinmedia/open-klant>
 
 **OpenOrganisatie**
 
 Component voor beheer van medewerkers, teams en organisaties met
 API-toegang en o.a. SCIM-integratie.
 
-<https://github.com/maykin../media/open-organisatie>
+<https://github.com/maykinmedia/open-organisatie>
 
 **OpenProduct**
 
 Centrale API voor producttypen en producten, bedoeld voor hergebruik in
 andere applicaties.
 
-<https://github.com/maykin../media/open-product>
+<https://github.com/maykinmedia/open-product>
 
 **Registraties VTB (Verzoeken, taken berichten)**
 
@@ -419,7 +419,7 @@ Componenten voor (resp.) Verzoeken, Taken en Berichten als
 gestandaardiseerde informatie-objecten, voor communicatie- en
 interactiepatronen over het platform.
 
-<a href="https://github.com/maykin../media/open-vtb" target="_blank" rel="noopener noreferrer">maykin../media/open-vtb: Open Verzoeken, Taken en
+<a href="https://github.com/maykinmedia/open-vtb" target="_blank" rel="noopener noreferrer">maykinmedia/open-vtb: Open Verzoeken, Taken en
 Berichten</a>
 
 **Objects API**
@@ -427,21 +427,21 @@ Berichten</a>
 API en beheerinterface voor het registreren en beheren van generieke
 objecten binnen Common Ground.
 
-<https://github.com/maykin../media/objects-api>
+<https://github.com/maykinmedia/objects-api>
 
 **Objecttypes API**
 
 API voor het definiëren en beheren van objecttypen die gebruikt worden
 door Objects API-implementaties.
 
-<https://github.com/maykin../media/objecttypes-api>
+<https://github.com/maykinmedia/objecttypes-api>
 
 **Referentielijsten API**
 
 API voor generieke en herbruikbare referentielijsten binnen het Common
 Ground-landschap.
 
-<https://github.com/maykin../media/referentielijsten>
+<https://github.com/maykinmedia/referentielijsten>
 
 **OpenNotificaties**
 
@@ -455,14 +455,14 @@ binnen een Common Ground-architectuur.
 Component voor recordmanagement en vernietigingslijsten conform
 archiefwet- en ZGW-principes.
 
-<https://github.com/maykin../media/open-archiefbeheer>
+<https://github.com/maykinmedia/open-archiefbeheer>
 
 **Open API Framework**
 
 Gedeeld framework met basisfunctionaliteit en configuratie voor meerdere
 Open-componenten.
 
-<https://github.com/maykin../media/open-api-framework>
+<https://github.com/maykinmedia/open-api-framework>
 
 **Laag 4/5 – Interactie & Toepassingen (Portalen & UI)**
 
@@ -504,7 +504,7 @@ Common Ground-architectuur.
 Gemeentelijk platform voor producten en diensten met integraties naar
 Common Ground-componenten.
 
-<https://github.com/maykin../media/open-inwoner>
+<https://github.com/maykinmedia/open-inwoner>
 
 **IKO – Integraal Klant- en Objectbeeld**
 
@@ -529,7 +529,7 @@ Biedt een centrale beheerinterface voor het beheren van gegevens uit
 meerdere registraties binnen samenhangende processen, zonder dat deze
 registraties zelf worden aangepast.
 
-<https://github.com/maykin../media/open-beheer>
+<https://github.com/maykinmedia/open-beheer>
 
 **Faciliterende voorzieningen**
 
@@ -1028,20 +1028,20 @@ betreffende URL is opgenomen. Alle bronnen zijn geraadpleegd in oktober
 | \[L100\] | samendelen.opengem.nl/ | [<u>\[link\]</u>](https://samendelen.opengem.nl/) |
 | \[L101\] | GZAC | [<u>\[link\]</u>](https://exchange.gzac.nl/) |
 | \[L102\] | github.com/open-zaak/open-zaak | [<u>\[link\]</u>](https://github.com/open-zaak/open-zaak) |
-| \[L103\] | github.com/maykin../media/open-klant | [<u>\[link\]</u>](https://github.com/maykin../media/open-klant) |
-| \[L104\] | github.com/maykin../media/open-organisatie | [<u>\[link\]</u>](https://github.com/maykin../media/open-organisatie) |
-| \[L105\] | github.com/maykin../media/open-product | [<u>\[link\]</u>](https://github.com/maykin../media/open-product) |
-| \[L106\] | maykin../media/open-vtb: Open Verzoeken, Taken en Berichten | [<u>\[link\]</u>](https://github.com/maykin../media/open-vtb) |
-| \[L107\] | github.com/maykin../media/objects-api | [<u>\[link\]</u>](https://github.com/maykin../media/objects-api) |
-| \[L108\] | github.com/maykin../media/objecttypes-api | [<u>\[link\]</u>](https://github.com/maykin../media/objecttypes-api) |
-| \[L109\] | github.com/maykin../media/referentielijsten | [<u>\[link\]</u>](https://github.com/maykin../media/referentielijsten) |
-| \[L110\] | github.com/maykin../media/open-archiefbeheer | [<u>\[link\]</u>](https://github.com/maykin../media/open-archiefbeheer) |
-| \[L111\] | github.com/maykin../media/open-api-framework | [<u>\[link\]</u>](https://github.com/maykin../media/open-api-framework) |
+| \[L103\] | github.com/maykinmedia/open-klant | [<u>\[link\]</u>](https://github.com/maykinmedia/open-klant) |
+| \[L104\] | github.com/maykinmedia/open-organisatie | [<u>\[link\]</u>](https://github.com/maykinmedia/open-organisatie) |
+| \[L105\] | github.com/maykinmedia/open-product | [<u>\[link\]</u>](https://github.com/maykinmedia/open-product) |
+| \[L106\] | maykinmedia/open-vtb: Open Verzoeken, Taken en Berichten | [<u>\[link\]</u>](https://github.com/maykinmedia/open-vtb) |
+| \[L107\] | github.com/maykinmedia/objects-api | [<u>\[link\]</u>](https://github.com/maykinmedia/objects-api) |
+| \[L108\] | github.com/maykinmedia/objecttypes-api | [<u>\[link\]</u>](https://github.com/maykinmedia/objecttypes-api) |
+| \[L109\] | github.com/maykinmedia/referentielijsten | [<u>\[link\]</u>](https://github.com/maykinmedia/referentielijsten) |
+| \[L110\] | github.com/maykinmedia/open-archiefbeheer | [<u>\[link\]</u>](https://github.com/maykinmedia/open-archiefbeheer) |
+| \[L111\] | github.com/maykinmedia/open-api-framework | [<u>\[link\]</u>](https://github.com/maykinmedia/open-api-framework) |
 | \[L112\] | github.com/generiekzaakafhandelcomponent | [<u>\[link\]</u>](https://github.com/generiekzaakafhandelcomponent) |
 | \[L113\] | github.com/infonl/dimpact-zaakafhandelcomponent | [<u>\[link\]</u>](https://github.com/infonl/dimpact-zaakafhandelcomponent) |
 | \[L114\] | github.com/SynTouchNL/dmn-studio-backend | [<u>\[link\]</u>](https://github.com/SynTouchNL/dmn-studio-backend) |
 | \[L115\] | github.com/nl-portal | [<u>\[link\]</u>](https://github.com/nl-portal) |
-| \[L116\] | github.com/maykin../media/open-inwoner | [<u>\[link\]</u>](https://github.com/maykin../media/open-inwoner) |
+| \[L116\] | github.com/maykinmedia/open-inwoner | [<u>\[link\]</u>](https://github.com/maykinmedia/open-inwoner) |
 | \[L117\] | docs.valtimo.nl/features/iko | [<u>\[link\]</u>](https://docs.valtimo.nl/features/iko) |
 | \[L118\] | github.com/open-formulieren/open-forms/ | [<u>\[link\]</u>](https://github.com/open-formulieren/open-forms/) |
-| \[L119\] | github.com/maykin../media/open-beheer | [<u>\[link\]</u>](https://github.com/maykin../media/open-beheer) |
+| \[L119\] | github.com/maykinmedia/open-beheer | [<u>\[link\]</u>](https://github.com/maykinmedia/open-beheer) |

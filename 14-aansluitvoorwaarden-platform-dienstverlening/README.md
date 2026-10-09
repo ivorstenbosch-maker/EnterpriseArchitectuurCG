@@ -33,14 +33,12 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Common Ground en Platform Dienstverlening
 
-Het <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur" target="_blank" rel="noopener noreferrer">Platform
-Dienstverlening</a>
-is de implementatie van Common Ground binnen de G4-gemeenten. Het vormt
-de referentiearchitectuur voor de gemeentelijke informatievoorziening en
-biedt een samenhangend geheel van software (generieke registraties,
-dataservices, integratievoorzieningen en procesapplicaties) waarmee de
-gemeentelijke dienstverlening op een generieke manier kan worden
-gerealiseerd. Het volgt een <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur" target="_blank" rel="noopener noreferrer">Enterprise
+Het Platform Dienstverlening is de implementatie van Common Ground
+binnen de G4-gemeenten. Het vormt de referentiearchitectuur voor de
+gemeentelijke informatievoorziening en biedt een samenhangend geheel van
+software (generieke registraties, dataservices, integratievoorzieningen
+en procesapplicaties) waarmee de gemeentelijke dienstverlening op een
+generieke manier kan worden gerealiseerd. Het volgt een <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur" target="_blank" rel="noopener noreferrer">Enterprise
 architectuur</a>
 en realiseert een ontkoppeld landschap van (micro)services volgens het
 model van Common Ground:
@@ -124,8 +122,6 @@ Leveranciers en communities behouden vrijheid in de inrichting en
 implementatie van hun software, voor zover de applicatie voldoet aan de
 aansluitvoorwaarden van het Platform Dienstverlening.
 
-## 
-
 ## Aansluitvoorwaarden Patroon B 
 
 Deze aansluitvoorwaarden zijn van toepassing op oplossingen die als
@@ -204,11 +200,11 @@ naar de Common Ground-domeinen. Concreet betekent dit het aansluiten op
 de volgende standaarden:
 
 - **Klantgegevens** hebben als bron **OpenKlant** (Klantinteracties- en
-  Contactgegevens API) (<a href="https://github.com/maykin../media/open-klant" target="_blank" rel="noopener noreferrer">OpenKlant
+  Contactgegevens API) (<a href="https://github.com/maykinmedia/open-klant" target="_blank" rel="noopener noreferrer">OpenKlant
   GitHub</a>).
 
 - **(Instanties van) Producten en diensten** hebben als bron
-  **OpenProduct** (<a href="https://github.com/maykin../media/open-product" target="_blank" rel="noopener noreferrer">OpenProduct)
+  **OpenProduct** (<a href="https://github.com/maykinmedia/open-product" target="_blank" rel="noopener noreferrer">OpenProduct)
   GitHub</a>).
 
 - **Zaken** hebben als bron **OpenZaak** (<a href="https://github.com/open-zaak/open-zaak" target="_blank" rel="noopener noreferrer">OpenZaak
@@ -218,7 +214,7 @@ de volgende standaarden:
 
 - **Verzoeken**, **Taken** en **Berichten** hebben als bron **OpenVTB**
   en volgen respectievelijk het Verzoeken-, Taken- en Berichtenpatroon
-  (<a href="https://github.com/maykin../media/open-vtb" target="_blank" rel="noopener noreferrer">OpenVTB GitHub</a>).
+  (<a href="https://github.com/maykinmedia/open-vtb" target="_blank" rel="noopener noreferrer">OpenVTB GitHub</a>).
 
 De actuele documentatie en API-specificaties zijn beschikbaar via de
 GitHub links.

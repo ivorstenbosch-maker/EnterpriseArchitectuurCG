@@ -613,8 +613,6 @@ conceptuele mapping:
 | Werkvoorraad en taken organiseert  | Taak & Workflow     |
 | Casus- en procesregie ondersteunt  | GZAC                |
 
-#### 
-
 #### Laag 3 – Connectiviteit
 
 | **ABB (service die…)**                               | **Primaire SBB** |

@@ -4798,8 +4798,6 @@ conceptuele mapping:
 | Werkvoorraad en taken organiseert  | Taak & Workflow     |
 | Casus- en procesregie ondersteunt  | GZAC                |
 
-#### 
-
 #### Laag 3 – Connectiviteit
 
 | **ABB (service die…)**                               | **Primaire SBB** |
@@ -6669,15 +6667,13 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
 ## Common Ground en Platform Dienstverlening
 
-Het [Platform
-Dienstverlening](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur)
-is de implementatie van Common Ground binnen de G4-gemeenten. Het vormt
-de referentiearchitectuur voor de gemeentelijke informatievoorziening en
-biedt een samenhangend geheel van software (generieke registraties,
-dataservices, integratievoorzieningen en procesapplicaties) waarmee de
-gemeentelijke dienstverlening op een generieke manier kan worden
-gerealiseerd. Het volgt een [Enterprise
-architectuur](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/introductie/enterprise-architectuur)
+Het Platform Dienstverlening is de implementatie van Common Ground
+binnen de G4-gemeenten. Het vormt de referentiearchitectuur voor de
+gemeentelijke informatievoorziening en biedt een samenhangend geheel van
+software (generieke registraties, dataservices, integratievoorzieningen
+en procesapplicaties) waarmee de gemeentelijke dienstverlening op een
+generieke manier kan worden gerealiseerd. Het volgt een [Enterprise
+architectuur](https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur)
 en realiseert een ontkoppeld landschap van (micro)services volgens het
 model van Common Ground:
 
@@ -6759,8 +6755,6 @@ style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 Leveranciers en communities behouden vrijheid in de inrichting en
 implementatie van hun software, voor zover de applicatie voldoet aan de
 aansluitvoorwaarden van het Platform Dienstverlening.
-
-## 
 
 ## Aansluitvoorwaarden Patroon B 
 
