@@ -254,8 +254,6 @@ continu architecturaal proces, waarin:
 
 - Architectuur en realisatie gelijktijdig evolueren.
 
-#### 
-
 #### Beheer, financiën
 
 De inrichting van beheer, financiering en exploitatie is in deze versie

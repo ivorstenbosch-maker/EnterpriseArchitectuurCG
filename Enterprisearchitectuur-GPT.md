@@ -614,8 +614,6 @@ continu architecturaal proces, waarin:
 
 - Architectuur en realisatie gelijktijdig evolueren.
 
-#### 
-
 #### Beheer, financiën
 
 De inrichting van beheer, financiering en exploitatie is in deze versie
@@ -760,8 +758,7 @@ integrale, gegevensgedreven en proactieve dienstverlening toeneemt,
 blijken deze architectuurkeuzes steeds vaker een beperking voor
 wendbaarheid, samenwerking en innovatie. Een uitgebreidere beschrijving
 van deze historische ontwikkeling is opgenomen in [**BIJLAGE - Korte
-geschiedenis van gemeentelijke
-informatisering**](#bijlage---korte-geschiedenis-van-gemeentelijke-informatisering).
+geschiedenis van gemeentelijke informatisering**](#bijlagen).
 
 De behoefte aan integrale, proactieve dienstverlening – zoals één
 klantbeeld, een herkenbaar digitaal loket, omnichannel-benadering en
