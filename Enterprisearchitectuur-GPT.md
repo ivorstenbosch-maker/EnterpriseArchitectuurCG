@@ -509,7 +509,7 @@ duidelijk is wat de hoofdgedachte en relevantie van het onderdeel is.
 
 | **Doelgroep** | **Aanbevolen hoofdstukken** |
 |----|----|
-| **Bestuurders, opdrachtgevers en programmamanagers** | Managementsamenvatting, hoofdstuk 2 t/m 5. Deze hoofdstukken beschrijven de aanleiding, strategische doelen, architectuurvisie, uitgangspunten, governance en scope van het Platform Dienstverlening. Daarnaast is in het bijzonder paragraaf **6.7. Implicaties voor de bestaande organisatie** relevant. |
+| **Bestuurders, opdrachtgevers en programmamanagers** | De [**managementsamenvatting**](#managementsamenvatting), hoofdstuk 2 t/m 5. Deze hoofdstukken beschrijven de aanleiding, strategische doelen, architectuurvisie, uitgangspunten, governance en scope van het Platform Dienstverlening. Daarnaast is in het bijzonder het onderdeel **[Implicaties voor de bestaande organisatie](#implicaties-voor-de-bestaande-organisatie)** relevant. |
 | **Enterprise- en domeinarchitecten** | Het volledige document. De architectuur is opgebouwd volgens de TOGAF Architecture Development Method (ADM) en beschrijft de samenhang tussen business-, informatie-, applicatie- en technische architectuur. |
 | **Solution- en softwarearchitecten** | Hoofdstuk 4 t/m 14. Deze hoofdstukken beschrijven de architectuurprincipes, architectuurpatronen, bouwstenen, API's, technische architectuur en implementatiepatronen. |
 | **Ontwikkelteams en leveranciers** | Hoofdstuk 5 t/m 14. Deze hoofdstukken bevatten de architectuurkaders voor de ontwikkeling van businessanalyse, softwarecomponenten, registraties, API's, infrastructuur en technische implementaties. |
