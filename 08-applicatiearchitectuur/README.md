@@ -47,8 +47,8 @@ werkt de verschillende applicatielagen en hun onderlinge samenhang uit.
 
 ## Het Vijf-lagen model
 
-Conform de <a href="https://www.gemmaonline.nl/wiki/Thema-architectuur_Common_Ground" target="_blank" rel="noopener noreferrer">Informatiekundige visie Common
-Ground</a>
+Conform de **<a href="https://www.gemmaonline.nl/wiki/Thema-architectuur_Common_Ground" target="_blank" rel="noopener noreferrer">Informatiekundige visie Common
+Ground</a>**
 maakt de applicatie-architectuur van het Platform onderscheid tussen:
 
 - **Interactie** (gebruikersinterface)
@@ -66,8 +66,8 @@ maakt de applicatie-architectuur van het Platform onderscheid tussen:
   style="display:block;margin-left:auto;margin-right:auto;;width:80.0%" />
 
   Deze lagen, hun betekenis en betrokken (applicatie)capabilities worden
-  in [Architectural Building Blocks (ABB’s) en
-  clusters](README.md#architectural-building-blocks-abbs-en-clusters) verder
+  in **[Architectural Building Blocks (ABB’s) en
+  clusters](README.md#architectural-building-blocks-abbs-en-clusters)** verder
   toegelicht.
 
 #### Interpretatie van het lagenmodel
@@ -180,7 +180,7 @@ Elke service in het platform moet voldoen aan de volgende criteria:
   applicatie infrastructuur (waaronder technische notificaties, logging,
   authorisatie, identificatie)
 
-- De [Patronen en API-specificaties](../11-toegepaste-patronen/README.md#toegepaste-patronen) worden
+- De [**Patronen en API-specificaties**](../11-toegepaste-patronen/README.md#toegepaste-patronen) worden
   gevolgd.
 
 ### Voordelen van de gekozen architectuur
@@ -238,9 +238,9 @@ Er zijn drie hoofdvormen van interactie tussen services:
   - Services communiceren direct via API’s en wachten op een antwoord.
     Toepasbaar bij:
 
-    - directe validatie en
+    - Directe validatie en
 
-    - opvragen van actuele gegevens.
+    - Opvragen van actuele gegevens.
 
 <!-- -->
 
@@ -249,11 +249,11 @@ Er zijn drie hoofdvormen van interactie tussen services:
   - Services communiceren via notificaties, berichten of events, zonder
     directe afhankelijkheid. Toepasbaar bij:
 
-    - procesafhandeling
+    - Procesafhandeling
 
-    - ketens van verwerking en
+    - Ketens van verwerking en
 
-    - losgekoppelde samenwerking.
+    - Losgekoppelde samenwerking.
 
 <!-- -->
 
@@ -264,7 +264,7 @@ Er zijn drie hoofdvormen van interactie tussen services:
 
     - Gebruikersinterfaces en
 
-    - integrale beelden
+    - Integrale beelden
 
   - Belangrijke patronen hierbij zijn:
 
@@ -303,8 +303,8 @@ Net als bij services zelf zijn interactiepatronen niet statisch. Het
 kiezen en ontwikkelen van patronen maakt onderdeel uit van het
 architecturaal continuüm, waarbij de samenwerking tussen services wordt
 verbeterd op basis van praktijkervaring. De concrete toepassing van
-patronen in betekenisvolle orkestratie wordt beschreven in [Toegepaste
-patronen](../11-toegepaste-patronen/README.md#toegepaste-patronen).
+patronen in betekenisvolle orkestratie wordt beschreven in [**Toegepaste
+patronen**](../11-toegepaste-patronen/README.md#toegepaste-patronen).
 
 ## Overzicht architecturale stijl
 
@@ -427,7 +427,7 @@ binnen het Platform Dienstverlening. Ze moeten tenslotte invulling geven
 aan de hele gemeentelijke dienstverlening. Een uitgangspunt voor de
 gemeentelijke processen zijn GEMMA’s applicatieservices. GEMMA biedt een
 overzicht van
-<a href="https://www.gemmaonline.nl/wiki/Overzicht_alle_referentiecomponenten" target="_blank" rel="noopener noreferrer">referentiecomponenten</a>
+<a href="https://www.gemmaonline.nl/wiki/Overzicht_alle_referentiecomponenten" target="_blank" rel="noopener noreferrer">**referentiecomponenten**</a>
 en de bijbehorende services die gerealiseerd kunnen worden. Waar
 GEMMA‑services vooral concrete softwarefuncties beschrijven, richten
 ABB’s zich op de onderliggende capabilities die in *alle* gemeentelijke
@@ -570,9 +570,9 @@ configureerbare elementen zoals formulieren, BPMN-processen, business
 rules en gegevensmodellen.
 
 Het is mogelijk deze ABB’s structureel te mappen op de
-GEMMA-applicatieservices, zie daarvoor [BIJLAGE - ABB’s GEMMA en
+GEMMA-applicatieservices, zie daarvoor [**BIJLAGE - ABB’s GEMMA en
 Platform
-Dienstverlening](#bijlage---abbs-gemma-en-platform-dienstverlening).
+Dienstverlening**](#bijlage---abbs-gemma-en-platform-dienstverlening).
 
 ## Solution Building Blocks (SBB’s) en mapping op ABB’s
 
@@ -656,8 +656,8 @@ conceptuele mapping:
 | Monitoring en observability ondersteunt | Platformvoorzieningen |
 | Privacy, security en compliance ondersteunt | Platformvoorzieningen |
 
-De SBB’s op niveau 1 staan ook verzameld onder [BIJLAGE - Overzicht
-services](#bijlage---overzicht-services). Een voorbeeldmapping:
+De SBB’s op niveau 1 staan ook verzameld onder [B**IJLAGE - Overzicht
+services**](#bijlage---overzicht-services). Een voorbeeldmapping:
 
 <img
 src="../media/media/image25.png"
@@ -691,8 +691,8 @@ te verduidelijken.
 De identificatie en realisatie van SBB’s op niveau 2 (vertaling van een
 BusinessService naar configureerbare elementen zoals formulieren,
 BPMN-processen, business rules en gegevensmodellen) gebeurt op basis van
-businessbehoefte. Zie ook [Samenwerking en uitwisseling
-bouwstenen](../15-bijlagen/README.md#samenwerking-en-uitwisseling-bouwstenen).
+businessbehoefte. Zie ook [**Samenwerking en uitwisseling
+bouwstenen**](../15-bijlagen/README.md#samenwerking-en-uitwisseling-bouwstenen).
 
 ## Configuratie vs. softwareontwikkeling
 
@@ -751,8 +751,8 @@ Het expliciet modelleren van beslisregels draagt bij aan de kern van
 Common Ground: transparantie, uitlegbaarheid, herbruikbaarheid en
 scheiding van verantwoordelijkheden. Hierdoor kan voor iedere beslissing
 worden herleid welke gegevens, regels en processtappen zijn toegepast.
-Dit anticipeert o.a. op <a href="https://regelrecht.rijks.app/" target="_blank" rel="noopener noreferrer">RegelRecht: van wet naar digitale
-werking</a>.
+Dit anticipeert o.a. op <a href="https://regelrecht.rijks.app/" target="_blank" rel="noopener noreferrer">**RegelRecht: van wet naar digitale
+werking**</a>.
 
 Beslisregels worden daarom niet in applicatiecode opgenomen wanneer zij
 generiek toepasbaar zijn, maar ondergebracht in een centrale
@@ -942,8 +942,8 @@ De **registratie** bestaat uit:
     registratie. Iedere API-actie valideert de handeling, autoriseert de
     uitvoering, legt de bijbehorende gebeurtenis en metadata vast,
     creëert indien nodig een nieuwe state en publiceert notificaties. De
-    architectuur van deze API's wordt verder uitgewerkt in [Architectuur
-    van API's](README.md#architectuur-van-apis).
+    architectuur van deze API's wordt verder uitgewerkt in
+    [**Architectuur van API's**](README.md#architectuur-van-apis).
 
     <img
     src="../media/media/image27.png"
@@ -1053,8 +1053,8 @@ Voorbeelden van gestandaardiseerde handelingen zijn:
 
 Deze API-acties vormen de technische invulling van betekenisvolle
 domeinhandelingen en sluiten aan op de handelingsgedreven
-API-architectuur zoals beschreven in [Architectuur van
-API's](README.md#architectuur-van-apis).
+API-architectuur zoals beschreven in [**Architectuur van
+API's**](README.md#architectuur-van-apis).
 
 #### Historie en reproduceerbaarheid
 

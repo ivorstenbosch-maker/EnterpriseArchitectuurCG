@@ -2,12 +2,12 @@
 
 | **Compact:** |
 |----|
-| Dit hoofdstuk beschrijft herbruikbare oplossingspatronen voor veelvoorkomende vormen van dienstverlening, zoals notificaties, verzoeken, taken en berichten. Ook worden implementatiepatronen en de registratiestrategie beschreven. De gedachte is simpel: als iets vaker voorkomt, maken we er een patroon van. |
+| Voor veelvoorkomende functies worden dezelfde oplossingspatronen gebruikt, bijvoorbeeld voor notificaties, verzoeken, taken en berichten. Ook worden implementatiepatronen en de registratiestrategie beschreven. |
 
 ## Inleiding
 
-In onderdeel [Samenwerking tussen
-services](../08-applicatiearchitectuur/README.md#samenwerking-tussen-services) zijn de generieke
+In onderdeel [**Samenwerking tussen
+services**](../08-applicatiearchitectuur/README.md#samenwerking-tussen-services) zijn de generieke
 interactievormen binnen het Platform Dienstverlening beschreven. Daar is
 onderscheid gemaakt tussen synchrone communicatie (request/response),
 asynchrone communicatie (event-driven) en API-compositie. Deze

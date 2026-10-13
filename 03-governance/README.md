@@ -14,15 +14,15 @@ op:
 
 - Notion – samenwerkruimte Common Ground
 
-  - <a href="https://www.notion.so/e9375da1960249bba23c49d038d3c888?pvs=21" target="_blank" rel="noopener noreferrer">Backlog</a>
+  - <a href="https://www.notion.so/e9375da1960249bba23c49d038d3c888?pvs=21" target="_blank" rel="noopener noreferrer">**Backlog**</a>
 
-  - <a href="https://www.notion.so/Proces-backlog-documentatie-21b78b5f4db4804c828fc43bec7b544c?pvs=21" target="_blank" rel="noopener noreferrer">Beschrijving Governance &
-    proces</a>
+  - <a href="https://www.notion.so/Proces-backlog-documentatie-21b78b5f4db4804c828fc43bec7b544c?pvs=21" target="_blank" rel="noopener noreferrer">**Beschrijving Governance &
+    proces**</a>
 
 - GitBook – publieke documentatie Platform Dienstverlening
 
-  - <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public" target="_blank" rel="noopener noreferrer">Introductie \| Platform Dienstverlening -
-    Public</a>
+  - <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public" target="_blank" rel="noopener noreferrer">**Introductie \| Platform Dienstverlening -
+    Public**</a>
 
 De governance kent verschillende niveaus met elk een eigen
 verantwoordelijkheid.

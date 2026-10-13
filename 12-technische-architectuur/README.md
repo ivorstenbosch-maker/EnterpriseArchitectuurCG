@@ -89,4 +89,5 @@ De technische architectuur wordt in dit document op hoofdlijnen
 beschreven. Voor de concrete inrichting, componenten en implementatie
 wordt verwezen naar de documentatie Haven+.
 
-Documentatie: <https://havenplus.commonground.nl/docs/overview>
+Documentatie:
+<a href="https://havenplus.commonground.nl/docs/overview" target="_blank" rel="noopener noreferrer">**https://havenplus.commonground.nl/docs/overview**</a>

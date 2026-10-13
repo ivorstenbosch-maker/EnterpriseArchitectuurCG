@@ -2,7 +2,7 @@
 
 | **Compact:** |
 |----|
-| Dit hoofdstuk beschrijft hoe informatie wordt georganiseerd vanuit de werkelijkheid die de gemeente wil registreren, met duidelijke domeinen en gestandaardiseerde ontsluiting vanuit aangewezen bronnen. Informatie moet vindbaar, beschikbaar, leesbaar, interpreteerbaar, betrouwbaar en toekomstbestendig zijn. Een bron is daarbij niet alleen een plek waar data staat, maar heeft een duidelijke verantwoordelijkheid voor de inhoud, kwaliteit, betekenis en levenscyclus van de gegevens. Gegevens worden via gestandaardiseerde diensten ontsloten. |
+| Informatie wordt georganiseerd vanuit de werkelijkheid die de gemeente wil registreren, met duidelijke domeinen en gestandaardiseerde ontsluiting vanuit aangewezen bronnen. Informatie moet vindbaar, beschikbaar, leesbaar, interpreteerbaar, betrouwbaar en toekomstbestendig zijn. Een bron is daarbij niet alleen een plek waar data staat, maar heeft een duidelijke verantwoordelijkheid voor de inhoud, kwaliteit, betekenis en levenscyclus van de gegevens. Gegevens worden via gestandaardiseerde diensten ontsloten. |
 
 ## Inleiding
 
@@ -52,10 +52,11 @@ Hierin zijn de volgende begrippen relevant:
   een bepaalde context. Om deze betekenis eenduidig vast te leggen,
   wordt gebruikgemaakt van begrippen, definities en informatiemodellen.
   Hierbij vormt het datamodel
-  (<a href="https://docs.geostandaarden.nl/mim/mim/" target="_blank" rel="noopener noreferrer">MIM</a>) de richtlijn voor het
-  vastleggen van de structuur van gegevens, terwijl het begrippenkader
-  (<a href="https://docs.geostandaarden.nl/nl-sbb/nl-sbb/" target="_blank" rel="noopener noreferrer">NL-SBB</a>) de betekenis
-  van deze gegevens vastlegt.
+  (<a href="https://docs.geostandaarden.nl/mim/mim/" target="_blank" rel="noopener noreferrer">**MIM**</a>) de richtlijn voor
+  het vastleggen van de structuur van gegevens, terwijl het
+  begrippenkader
+  (<a href="https://docs.geostandaarden.nl/nl-sbb/nl-sbb/" target="_blank" rel="noopener noreferrer">**NL-SBB**</a>) de
+  betekenis van deze gegevens vastlegt.
 
 - **Data (gegevens)** is de concrete vastlegging van waarnemingen of
   beweringen over objecten. Binnen het Platform Dienstverlening betreft
@@ -108,7 +109,7 @@ heeft de volgende implicaties:
 ## Data-autonomie
 
 Autonomie wordt door
-<a href="https://www.dictu.nl/sites/default/files/bestanden/website/DICTU%20Toetsingsinstrument%20Soevereiniteit%20Clouddiensten%20v1.0.1.pdf" target="_blank" rel="noopener noreferrer">DICTU</a>
+<a href="https://www.dictu.nl/sites/default/files/bestanden/website/DICTU%20Toetsingsinstrument%20Soevereiniteit%20Clouddiensten%20v1.0.1.pdf" target="_blank" rel="noopener noreferrer">**DICTU**</a>
 gedefinieerd als de combinatie van zelfbeschikking en onafhankelijkheid.
 Voor data-autonomie betekent dit dat zowel gemeenten als inwoners
 zeggenschap behouden over hun gegevens en kunnen bepalen hoe deze worden
@@ -188,8 +189,8 @@ invulling op de volgende niveaus:
 #### Eigenaarschap
 
 Hoewel vaak wordt gesproken over "data van de gemeente", wordt daarmee
-geen goederenrechtelijk eigendom bedoeld. Naar <a href="https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2540&amp;showbutton=true&amp;keyword=ECLI%253aNL%253aRBAMS%253a2023%253a2540&amp;idx=1" target="_blank" rel="noopener noreferrer">Nederlands
-recht</a>
+geen goederenrechtelijk eigendom bedoeld. Naar <a href="https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBAMS:2023:2540&amp;showbutton=true&amp;keyword=ECLI%253aNL%253aRBAMS%253a2023%253a2540&amp;idx=1" target="_blank" rel="noopener noreferrer">**Nederlands
+recht**</a>
 zijn digitale gegevens in beginsel geen zaken in de zin van het
 Burgerlijk Wetboek en kunnen zij daarom niet als zodanig in eigendom
 toebehoren. Rechten, plichten en bevoegdheden ten aanzien van gegevens
@@ -198,8 +199,8 @@ verantwoordelijkheid die organisaties hebben als bronhouder,
 verwerkingsverantwoordelijke of beheerder. De term *eigenaarschap* moet
 daarom worden gebruikt in de betekenis van bestuurlijke en
 organisatorische verantwoordelijkheid, niet als civielrechtelijk
-eigendom. Dit volgt <a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">GIBIT Artikel
-21</a>
+eigendom. Dit volgt <a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">**GIBIT Artikel
+21**</a>
 (‘Intellectueel eigendom’).
 
 ### Implicaties voor de architectuur
@@ -303,8 +304,8 @@ Daaronder vallen onder andere:
 
 Het [**Principe: Data bij de bron**](../05-visie-principes-scope/README.md#principe-data-bij-de-bron) is een
 fundamenteel uitgangspunt van zowel Common Ground als de overheidsbrede
-<a href="https://www.noraonline.nl/wiki/Domeinarchitectuur_Gegevensuitwisseling" target="_blank" rel="noopener noreferrer">Domeinarchitectuur
-Gegevensuitwisseling</a>.
+<a href="https://www.noraonline.nl/wiki/Domeinarchitectuur_Gegevensuitwisseling" target="_blank" rel="noopener noreferrer">**Domeinarchitectuur
+Gegevensuitwisseling**</a>.
 Gegevens worden beheerd door de (door de bronhouder) daarvoor aangewezen
 bron en vanuit een (eveneens door de bronhouder aangewezen) bron
 beschikbaar gesteld aan afnemers. Processen, BusinessServices en
@@ -348,10 +349,10 @@ begrippen zijn niet volledig uitwisselbaar:
 - Data-eigenaar beschrijft de persoon binnen de organisatie die
   eindverantwoordelijk is voor de definitie, kwaliteit, waarde en het
   correct beschikbaar stellen van een specifieke dataset of data-domein
-  (<a href="https://dama-nl.org/wp-content/uploads/2022/09/Two-pager-Data-Governance-2-DAMA-NL.pdf" target="_blank" rel="noopener noreferrer">DAMA</a>)
+  (<a href="https://dama-nl.org/wp-content/uploads/2022/09/Two-pager-Data-Governance-2-DAMA-NL.pdf" target="_blank" rel="noopener noreferrer">**DAMA**</a>)
 
-- <a href="https://www.noraonline.nl/wiki/Rollen_Domeinarchitectuur_Gegevensuitwisseling" target="_blank" rel="noopener noreferrer">Bronhouder</a>
-  beschrijft een [rol](javascript:void(0);) van een partij die
+- <a href="https://www.noraonline.nl/wiki/Rollen_Domeinarchitectuur_Gegevensuitwisseling" target="_blank" rel="noopener noreferrer">**Bronhouder**</a>
+  beschrijft een [**rol**](javascript:void(0);) van een partij die
   verantwoordelijk is voor de inhoud en kwaliteit van een registratie
   die als bron is aangewezen.
 
@@ -382,13 +383,13 @@ onderscheiden.
 
   - Ook binnen de gemeentelijke context kunnen de rollen van
     **bronhouder** en **aanbieder** worden gescheiden. Dit gebeurt
-    bijvoorbeeld bij Patroon B-implementaties (zie [Patroon B – Hybride
-    implementatie](../11-toegepaste-patronen/README.md#patroon-b-hybride-implementatie)). De bronhouder is
-    verantwoordelijk voor de inhoud, kwaliteit en betekenis van de
-    gegevens in de registratie. De aanbieder verzorgt de ontsluiting van
-    deze gegevens via gestandaardiseerde gegevensdiensten, inclusief
-    metadata, autorisatie, notificaties en eventuele intermediaire
-    voorzieningen.
+    bijvoorbeeld bij Patroon B-implementaties (zie [**Patroon B –
+    Hybride implementatie**](../11-toegepaste-patronen/README.md#patroon-b-hybride-implementatie)). De
+    bronhouder is verantwoordelijk voor de inhoud, kwaliteit en
+    betekenis van de gegevens in de registratie. De aanbieder verzorgt
+    de ontsluiting van deze gegevens via gestandaardiseerde
+    gegevensdiensten, inclusief metadata, autorisatie, notificaties en
+    eventuele intermediaire voorzieningen.
 
 - **Domeinregistraties** zijn gemeentelijke registraties, maar bevatten
   gegevens die specifiek zijn voor een bepaald beleidsdomeinOngeacht het
@@ -425,8 +426,8 @@ bronregistratie, maar ook om ondersteuning van de volledige
 informatielevenscyclus, inclusief autorisatie, bewaartermijnen,
 vernietiging en – waar wettelijk vereist – overbrenging naar een
 archiefbewaarplaats. De architectuurimplicaties hiervan worden verder
-uitgewerkt in [Duurzame toegankelijkheid by
-design](README.md#duurzame-toegankelijkheid-by-design).
+uitgewerkt in [**Duurzame toegankelijkheid by
+design**](README.md#duurzame-toegankelijkheid-by-design).
 
 ### Implicaties voor ontwerp
 
@@ -512,7 +513,7 @@ informatiestelsel.
 
 Voor de uitwerking van duurzame toegankelijkheid sluit deze architectuur
 aan bij het
-<a href="https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk" target="_blank" rel="noopener noreferrer">DUTO-raamwerk</a>
+<a href="https://www.nationaalarchief.nl/archiveren/kennisbank/duto-raamwerk" target="_blank" rel="noopener noreferrer">**DUTO-raamwerk**</a>
 van het Nationaal Archief. DUTO beschrijft geen afzonderlijke
 archiefvoorziening, maar een ontwerpbenadering waarbij
 informatiesystemen vanaf het ontwerp zodanig worden ingericht dat
@@ -548,7 +549,7 @@ uitgangspunt dat iedere component verantwoordelijk is voor zijn eigen
 gegevens en functionaliteit.
 
 De relevante bouwblokken zijn uitgewerkt in de
-[applicatiearchitectuur](../08-applicatiearchitectuur/README.md#architectural-building-blocks-abbs-en-clusters):
+[**applicatiearchitectuur**](../08-applicatiearchitectuur/README.md#architectural-building-blocks-abbs-en-clusters):
 
 - **ABB Registraties** (laag 1) en **ABB Diensten** (laag 2) zijn
   verantwoordelijk voor het vastleggen, beheren en ontsluiten van
@@ -559,8 +560,8 @@ De relevante bouwblokken zijn uitgewerkt in de
   archivering, overbrenging en vernietiging.
 
   De (applicatie)architectuur van
-  [registraties](../08-applicatiearchitectuur/README.md#architectuur-van-registraties) en
-  [API’s](../08-applicatiearchitectuur/README.md#architectuur-van-apis) geeft invulling aan een belangrijk
+  [**registraties**](../08-applicatiearchitectuur/README.md#architectuur-van-registraties) en
+  [**API’s**](../08-applicatiearchitectuur/README.md#architectuur-van-apis) geeft invulling aan een belangrijk
   deel van de eisen voor duurzame toegankelijkheid. Registraties leggen
   informatie duurzaam vast, inclusief historie, metadata en
   gebeurtenissen, terwijl handelingsgedreven API's zorgen voor
@@ -573,7 +574,7 @@ De relevante bouwblokken zijn uitgewerkt in de
 ### Implementatie & DUTO-functiemodel
 
 De DUTO-processen worden verdiept met het
-<a href="https://www.nationaalarchief.nl/archiveren/kennisbank/duto-functiemodel" target="_blank" rel="noopener noreferrer">DUTO-functiemodel</a>.
+<a href="https://www.nationaalarchief.nl/archiveren/kennisbank/duto-functiemodel" target="_blank" rel="noopener noreferrer">**DUTO-functiemodel**</a>.
 Dit geeft een handvat om te controleren in hoeverre, en op welke manier,
 het Platform voldoet aan de gestelde eisen.
 
@@ -616,7 +617,7 @@ zou overbrenging naar het E-Depot kunnen zijn.</p></td>
 <td>ABB Processervice, ABB Diensten + ABB Registraties</td>
 <td>Creatie speelt over het hele platform een rol: vanaf formulieren
 (bepaling van velden, validatie), tot processervices (datamodellen,
-validatie, procesinrichting; Diensten(API’s) dwingen validatie en
+validatie, procesinrichting; Diensten (API’s) dwingen validatie en
 constraints af; registraties nemen informatieobjecten duurzaam op.</td>
 </tr>
 <tr>
@@ -775,8 +776,8 @@ en implementaties.
 
 ### Openbaarheid van overheidsinformatie (Woo)
 
-De <a href="https://www.rijksoverheid.nl/themas/overheid-en-democratie/wet-open-overheid-woo/hoofdlijnen-woo" target="_blank" rel="noopener noreferrer">Wet open overheid
-(Woo)</a>
+De <a href="https://www.rijksoverheid.nl/themas/overheid-en-democratie/wet-open-overheid-woo/hoofdlijnen-woo" target="_blank" rel="noopener noreferrer">**Wet open overheid
+(Woo)**</a>
 heeft als doel de transparantie van de overheid te vergroten door
 overheidsinformatie actief en passief openbaar te maken. De wet gaat uit
 van het principe dat overheidsinformatie openbaar is, tenzij een
@@ -795,13 +796,14 @@ passieve openbaarmaking.
 Binnen de huidige referentiearchitectuur is hiervoor nog geen oplossing
 aangewezen. Hoewel binnen de Common Ground-gemeenschap voorzieningen
 zijn ontwikkeld, zoals
-<a href="https://www.conduction.nl/solutions/openwoo/" target="_blank" rel="noopener noreferrer">OpenWoo</a> en <a href="https://www.gpp-woo.nl/" target="_blank" rel="noopener noreferrer">de Generieke
-Publicatievoorziening Woo (GPP-Woo)</a>, maken
-deze op dit moment nog geen integraal onderdeel uit van het Platform
-Dienstverlening en bestaat er nog geen gestandaardiseerd
-integratiepatroon met de overige platformvoorzieningen. Tegelijkertijd
-wordt landelijk gewerkt aan de <a href="https://www.koopoverheid.nl/voor-overheden/rijksoverheid/open-overheid" target="_blank" rel="noopener noreferrer">Generieke Woo-voorziening
-(GWV)</a>
+<a href="https://www.conduction.nl/solutions/openwoo/" target="_blank" rel="noopener noreferrer">**OpenWoo**</a> en <a href="https://www.gpp-woo.nl/" target="_blank" rel="noopener noreferrer">**de
+Generieke Publicatievoorziening Woo
+(GPP-Woo)**</a>, maken deze op dit moment nog geen
+integraal onderdeel uit van het Platform Dienstverlening en bestaat er
+nog geen gestandaardiseerd integratiepatroon met de overige
+platformvoorzieningen. Tegelijkertijd wordt landelijk gewerkt aan de
+<a href="https://www.koopoverheid.nl/voor-overheden/rijksoverheid/open-overheid" target="_blank" rel="noopener noreferrer">**Generieke Woo-voorziening
+(GWV)**</a>
 voor de gefaseerde invoering van de actieve openbaarmakingsplicht.
 
 De verdere uitwerking van Woo-ondersteuning valt buiten de scope van
@@ -838,8 +840,8 @@ architectuurcapabilities voorzien voor toekomstige ontwikkeling:
 
 Informatiebeveiliging is een randvoorwaarde voor het Platform
 Dienstverlening. Gemeenten zijn verantwoordelijk voor het voldoen aan de
-<a href="https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/" target="_blank" rel="noopener noreferrer">Baseline Informatiebeveiliging Overheid
-(BIO)</a>
+<a href="https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/" target="_blank" rel="noopener noreferrer">**Baseline Informatiebeveiliging Overheid
+(BIO)**</a>
 en de daarop gebaseerde normen, processen en risicobeheersing. Een
 volledige toetsing aan de BIO of ISO/NEN 27001 vindt plaats op het
 niveau van de ingerichte organisatie, de operationele beheerprocessen en
@@ -868,9 +870,9 @@ voorzieningen niet telkens opnieuw te implementeren en ontstaat een
 uniforme beveiligingsbasis voor het gehele platform.
 
 Deze generieke capabilities worden grotendeels gerealiseerd door de
-Haven+ infrastructuur, zie onder meer het principe <a href="https://havenplus.commonground.nl/docs/haven-plus-architecture-principles/#ap-06--security-by-default" target="_blank" rel="noopener noreferrer">*Security by
+Haven+ infrastructuur, zie onder meer het principe <a href="https://havenplus.commonground.nl/docs/haven-plus-architecture-principles/#ap-06--security-by-default" target="_blank" rel="noopener noreferrer">***Security by
 default* in de Haven+
-architectuur</a>.
+architectuur**</a>.
 Hierdoor kunnen ontwikkelteams zich concentreren op de functionele
 beveiliging van hun eigen services.
 
@@ -1037,8 +1039,8 @@ Dit betekent dat de “toestand” van een inwoner of een casus altijd een
 samenspel is van meerdere gegevensbronnen. Door deze gegevens centraal
 en per domein te beheren, blijft de informatie onafhankelijk van
 specifieke applicaties of workflows. Hoe deze data duurzaam wordt
-geregistreerd is beschreven in [Architectuur van
-registraties](../08-applicatiearchitectuur/README.md#architectuur-van-registraties).
+geregistreerd is beschreven in [**Architectuur van
+registraties**](../08-applicatiearchitectuur/README.md#architectuur-van-registraties).
 
 #### Procesdata (workflow- en uitvoeringsdata)
 
@@ -1095,8 +1097,8 @@ waarvoor ze worden gebruikt. Het is daarmee geen absolute eigenschap,
 maar afhankelijk van context: dezelfde data kan voor het ene doel
 bruikbaar zijn en voor het andere niet.
 
-<a href="https://mail.iso25000.com/index.php/en/iso-25000-standards/iso-25012" target="_blank" rel="noopener noreferrer">ISO/IEC
-25012</a>
+<a href="https://mail.iso25000.com/index.php/en/iso-25000-standards/iso-25012" target="_blank" rel="noopener noreferrer">**ISO/IEC
+25012**</a>
 onderscheidt twee perspectieven: **inherente datakwaliteit** en
 **systeemafhankelijke datakwaliteit**.
 
@@ -1115,9 +1117,9 @@ De belangrijkste consequentie is dat datakwaliteit hier begint: gegevens
 die niet worden gemodelleerd of onjuist worden vastgelegd, kunnen later
 niet of slechts beperkt worden gecorrigeerd. De kwaliteit hier wordt
 bepaald door de modellering van proces- en dataservices, die wordt
-beschreven in [Bedrijfsarchitectuur als schakel tussen platform, inwoner
-en
-organisatie](../06-businessarchitectuur/README.md#bedrijfsarchitectuur-als-schakel-tussen-platform-inwoner-en-organisatie).
+beschreven in [**Bedrijfsarchitectuur als schakel tussen platform,
+inwoner en
+organisatie**](../06-businessarchitectuur/README.md#bedrijfsarchitectuur-als-schakel-tussen-platform-inwoner-en-organisatie).
 
 #### Systeemafhankelijke (borging van) datakwaliteit
 
@@ -1349,7 +1351,7 @@ datasets.
 
 Gemeenten moeten in sommige context rapportages over hun processen
 aanleveren bij gerelateerde instanties, zoals het CBS (voorbeeld:
-<https://www.cbs.nl/nl-nl/deelnemers-enquetes/decentrale-overheden/overzicht/wet-inburgering>).
+<a href="https://www.cbs.nl/nl-nl/deelnemers-enquetes/decentrale-overheden/overzicht/wet-inburgering" target="_blank" rel="noopener noreferrer">**https://www.cbs.nl/nl-nl/deelnemers-enquetes/decentrale-overheden/overzicht/wet-inburgering**</a>).
 Dit verplicht gemeenten om maandelijks een CSV-bestand aan te leveren
 met een snapshot van alle personen binnen een proces, inclusief PII
 (persoonsgegevens) en statusinformatie.
@@ -1411,8 +1413,8 @@ Richt ook binnen het datawarehouse een afgeschermde zone in voor
 datasets met PII die bestemd zijn voor externe levering. Toegang tot de
 CBS-dataset en extractieprocessen is beperkt tot een zeer kleine,
 geautoriseerde groep. Elke extractie en levering wordt gemonitord en
-gelogd, conform de eisen die <a href="https://www.bio-overheid.nl/bio2/bio-producten/baseline-informatiebeveiliging-overheid-2-bio2/" target="_blank" rel="noopener noreferrer">BIO (Baseline Informatiebeveiliging
-Overheid)</a>
+gelogd, conform de eisen die <a href="https://www.bio-overheid.nl/bio2/bio-producten/baseline-informatiebeveiliging-overheid-2-bio2/" target="_blank" rel="noopener noreferrer">**BIO (Baseline Informatiebeveiliging
+Overheid)**</a>
 stelt.
 
 Overweeg om de deze aanlevering te positioneren als een

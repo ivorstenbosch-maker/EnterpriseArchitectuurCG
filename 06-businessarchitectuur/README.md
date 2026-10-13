@@ -2,7 +2,7 @@
 
 | **Compact:** |
 |----|
-| Dit hoofdstuk verplaatst de aandacht van architectuur naar van “welke applicatie hebben we?” naar “welke dienstverlening willen we leveren?” De bestaande verkokering moet plaatsmaken voor samenhangende waardestromen en herbruikbare BusinessServices. Domain-Driven Design helpt om verantwoordelijkheden, domeinen en grenzen scherp te krijgen. De bedoeling is dat gemeenten niet voor ieder probleem opnieuw een maatwerkoplossing optuigen, maar eerst kijken wat al generiek kan. Dat vraagt overigens niet alleen nieuwe software, maar ook een andere manier van organiseren, sturen en samenwerken. |
+| De bestaande verkokering moet plaatsmaken voor samenhangende waardestromen en herbruikbare BusinessServices. Domain-Driven Design helpt om verantwoordelijkheden, domeinen en grenzen scherp te krijgen. De bedoeling is dat gemeenten niet voor ieder probleem opnieuw een maatwerkoplossing optuigen, maar eerst kijken wat al generiek kan. Dat vraagt overigens niet alleen nieuwe software, maar ook een andere manier van organiseren, sturen en samenwerken. |
 
 ## Inleiding
 
@@ -12,8 +12,8 @@ bedrijfsfuncties en waardestromen daarbij centraal staan. TOGAF
 beschouwt de businessarchitectuur als de beschrijving van de
 organisatie, haar dienstverlening, processen en businesscapabilities.
 Voor gemeenten is dit op zeker niveau vastgelegd binnen de
-GEMMA-architectuur. In het onderdeel [Visie, principes,
-scope](../05-visie-principes-scope/README.md#visie-principes-scope) is de scope van het Platform
+GEMMA-architectuur. In het onderdeel [**Visie, principes,
+scope**](../05-visie-principes-scope/README.md#visie-principes-scope) is de scope van het Platform
 Dienstverlening daarom afgezet tegen de GEMMA-bedrijfsfuncties.
 
 Deze businessarchitectuur richt zich op de gemeenschappelijke structuur
@@ -36,8 +36,8 @@ De huidige gemeentelijke informatievoorziening weerspiegelt de
 verkokerde inrichting van de overheid zoals beschreven. Historisch
 gegroeide afdelingen, beleidsdomeinen en verantwoordelijkheden zijn
 veelal één-op-één vertaald naar processen, applicaties en
-gegevensstructuren. Dit sluit aan bij <a href="https://en.wikipedia.org/wiki/Conway%27s_law" target="_blank" rel="noopener noreferrer">Conway's
-Law</a>, die stelt dat
+gegevensstructuren. Dit sluit aan bij <a href="https://en.wikipedia.org/wiki/Conway%27s_law" target="_blank" rel="noopener noreferrer">**Conway's
+Law**</a>, die stelt dat
 informatiesystemen de organisatiestructuur weerspiegelen waaruit zij
 zijn ontstaan. De werkelijkheid van inwoners en ondernemers speelt zich
 juist over deze organisatorische grenzen heen af.
@@ -73,8 +73,8 @@ een responsieve, informatiegedreven overheid.
 ### Informatiegericht werken
 
 Informatiegericht werken vormt het verbindende principe tussen alle
-werkvormen en sluit aan op het [Principe: Informatiegericht
-werken](../05-visie-principes-scope/README.md#principe-informatiegericht-werken). Gegevens worden
+werkvormen en sluit aan op het [**Principe: Informatiegericht
+werken**](../05-visie-principes-scope/README.md#principe-informatiegericht-werken). Gegevens worden
 onafhankelijk van processen en applicaties beheerd en vormen de gedeelde
 basis voor dienstverlening, besluitvorming en samenwerking. Hierdoor
 kunnen verschillende manieren van werken naast elkaar bestaan, terwijl
@@ -129,12 +129,12 @@ Binnen het kader van informatiegericht werken kunnen verschillende
 De verschillende vormen van werken zijn geen doel op zichzelf. Het
 vertrekpunt van dienstverlening is de maatschappelijke behoefte van
 inwoners, ondernemers en de samenleving. Vanuit die behoefte wordt
-bepaald welke <a href="https://vng.nl/sites/default/files/documenten/werken-aan-de-publieke-waarde_20181015.pdf" target="_blank" rel="noopener noreferrer">publieke
-waarde</a>
+bepaald welke <a href="https://vng.nl/sites/default/files/documenten/werken-aan-de-publieke-waarde_20181015.pdf" target="_blank" rel="noopener noreferrer">**publieke
+waarde**</a>
 moet worden gerealiseerd en welke dienstverlening daarvoor nodig is.
 
 Een
-<a href="https://begrippen.noraonline.nl/basisbegrippen/nl/page/waardestroom" target="_blank" rel="noopener noreferrer">waardestroom</a>
+<a href="https://begrippen.noraonline.nl/basisbegrippen/nl/page/waardestroom" target="_blank" rel="noopener noreferrer">**waardestroom**</a>
 beschrijft het geheel aan activiteiten, informatie, beslissingen en
 samenwerkingsrelaties dat leidt tot een maatschappelijk waardevol
 resultaat voor inwoners, ondernemers en de gemeente.
@@ -168,8 +168,8 @@ opvolging van signalen. De informatievoorziening moet daarom ruimte
 bieden aan meerdere werkvormen binnen dezelfde waardestroom.
 
 Deze benadering sluit aan op de gemeentelijke beweging naar publieke
-waarde en de door de VNG ontwikkelde <a href="https://vng.nl/sites/default/files/2025-09/klantroutes-dienstverlening-voor-gemeenten.pdf" target="_blank" rel="noopener noreferrer">generieke
-klantroutes</a>.
+waarde en de door de VNG ontwikkelde <a href="https://vng.nl/sites/default/files/2025-09/klantroutes-dienstverlening-voor-gemeenten.pdf" target="_blank" rel="noopener noreferrer">**generieke
+klantroutes**</a>.
 De klantroutes beschrijven hoe inwoners en ondernemers dienstverlening
 ervaren vanuit hun eigen perspectief. Waardestromen vormen de
 organisatorische en informatiekundige inrichting waarmee deze
@@ -252,10 +252,10 @@ eenduidige verantwoordelijkheden en consistente werkprocessen.
 
 ### MijnServices
 
-<a href="https://vng.nl/MijnServices" target="_blank" rel="noopener noreferrer">MijnServices</a> is een initiatief binnen VNG
-dat zich richt op het ontwikkelen van herbruikbare servicedesigns. Een
-servicedesign
-(<a href="https://nl-design-system.github.io/mijn-services/?path=/story/mijn-profiel-1--default" target="_blank" rel="noopener noreferrer">voorbeeld</a>)
+<a href="https://vng.nl/MijnServices" target="_blank" rel="noopener noreferrer">**MijnServices**</a> is een initiatief binnen
+VNG dat zich richt op het ontwikkelen van herbruikbare servicedesigns.
+Een servicedesign
+(<a href="https://nl-design-system.github.io/mijn-services/?path=/story/mijn-profiel-1--default" target="_blank" rel="noopener noreferrer">**voorbeeld**</a>)
 is de gestandaardiseerde beschrijving van de gewenste gebruikerservaring
 en interacties rondom een overheidsdienst. De bron voor de MijnServices
 is de implementatie van het Platform Dienstverlening in de Gemeente Den
@@ -300,7 +300,7 @@ functionele bouwsteen waaruit gemeentelijke dienstverlening wordt
 samengesteld. Het wordt hier met twee hoofdletters geschreven om het te
 onderscheiden van – bijvoorbeeld – het businessserviceconcept in
 Archimate. Het concept wordt verder concreet gemaakt in de bijlage
-[BusinessServices](#bijlage---businessservices).
+[**BusinessServices**](#bijlage---businessservices).
 
 Een BusinessService omvat een logisch samenhangend geheel van gegevens,
 beslisregels, proceslogica en interactie rondom één processtap. Zij

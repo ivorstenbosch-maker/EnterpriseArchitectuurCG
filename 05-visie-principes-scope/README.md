@@ -2,7 +2,7 @@
 
 | **Compact:** |
 |----|
-| Hier wordt bepaald waar we naartoe willen en volgens welke spelregels. De visie draait om dienstverlening die meer samenhangend, informatiegericht, herbruikbaar en minder afhankelijk van individuele leveranciers is. De architectuurprincipes vertalen dat naar concrete uitgangspunten, zoals data bij de bron, data-autonomie, hergebruik, Open Source, generiek vóór specifiek en portabiliteit. Ook wordt de scope bepaald. |
+| De visie draait om dienstverlening die meer samenhangend, informatiegericht, herbruikbaar en minder afhankelijk van individuele leveranciers is. De architectuurprincipes vertalen dat naar concrete uitgangspunten, zoals data bij de bron, data-autonomie, hergebruik, Open Source, generiek vóór specifiek en portabiliteit. Ook wordt de scope bepaald. |
 
 ## Inleiding
 
@@ -244,8 +244,8 @@ architectuurelementen gemodelleerd. Beslisregels worden waar mogelijk
 centraal beheerd en herbruikbaar vastgelegd, zodat zij consistent kunnen
 worden toegepast in meerdere processen, BusinessServices en kanalen.
 
-Dit principe anticipeert o.a. op <a href="https://regelrecht.rijks.app/" target="_blank" rel="noopener noreferrer">RegelRecht: van wet naar digitale
-werking</a>.
+Dit principe anticipeert o.a. op <a href="https://regelrecht.rijks.app/" target="_blank" rel="noopener noreferrer">**RegelRecht: van wet naar digitale
+werking**</a>.
 
 #### Implicaties
 
@@ -389,8 +389,8 @@ gegevens, maar zijn daarvan geen eigenaar.
 
 - Registraties vormen de primaire bron voor gemeentelijke gegevens.
 
-- Bestaande <a href="https://www.noraonline.nl/wiki/Stelsel_van_het_heden_(basisregistraties_als_elementaire_bouwstenen" target="_blank" rel="noopener noreferrer">(landelijke, authentieke)
-  bronnen</a>)
+- Bestaande <a href="https://www.noraonline.nl/wiki/Stelsel_van_het_heden_(basisregistraties_als_elementaire_bouwstenen" target="_blank" rel="noopener noreferrer">**(landelijke, authentieke)
+  bronnen**</a>)
   blijven leidend.
 
 - Gegevens worden niet onnodig gedupliceerd.

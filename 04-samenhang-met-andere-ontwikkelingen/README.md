@@ -2,7 +2,7 @@
 
 | **Compact:** |
 |----|
-| Het Platform Dienstverlening is geen eiland. Dit hoofdstuk legt uit hoe het platform zich verhoudt tot de NDS, andere landelijke ontwikkelingen en de gemeentelijke praktijk. De grote lijn: landelijke ambities rond standaarden, hergebruik, data delen, digitale autonomie en gezamenlijke voorzieningen worden vertaald naar een concrete gemeentelijke inrichting. Het platform is daarmee niet nóg een strategisch praatstuk, maar probeert de stap te maken van “we vinden dit allemaal belangrijk” naar “zo gaan we het daadwerkelijk bouwen en gebruiken”. |
+| Dit hoofdstuk legt uit hoe het platform zich verhoudt tot de NDS, andere landelijke ontwikkelingen en de gemeentelijke praktijk. De grote lijn: landelijke ambities worden vertaald naar een concrete gemeentelijke inrichting. |
 
 Het Platform Dienstverlening is een zelfstandig architectuur- en
 ontwikkelprogramma met een eigen scope, governance en roadmap. Het vormt
@@ -16,8 +16,8 @@ invulling of verdere concretisering geeft.
 
 ## Relatie met de Nederlandse Digitaliseringsstrategie (NDS)
 
-De <a href="https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2025/07/108.201-NDS-publicatie_v19-WEB.pdf" target="_blank" rel="noopener noreferrer">Nederlandse
-Digitaliseringsstrategie</a>
+De <a href="https://www.digitaleoverheid.nl/wp-content/uploads/sites/8/2025/07/108.201-NDS-publicatie_v19-WEB.pdf" target="_blank" rel="noopener noreferrer">**Nederlandse
+Digitaliseringsstrategie**</a>
 beschrijft de beweging naar één digitale overheid, waarin gezamenlijke
 regie, (verplicht te stellen) standaarden, herbruikbare bouwstenen en de
 ontwikkeling naar een federatief datastelsel centraal staan.
@@ -138,7 +138,7 @@ als volgt:
 
 - Documentatie:
 
-  - <a href="https://www.gemmaonline.nl/wiki/Hoofdpagina" target="_blank" rel="noopener noreferrer">GEMMA Online</a>
+  - <a href="https://www.gemmaonline.nl/wiki/Hoofdpagina" target="_blank" rel="noopener noreferrer">**GEMMA Online**</a>
 
 <!-- -->
 
@@ -158,7 +158,7 @@ servicedesigns.
 
 - Documentatie & informatie:
 
-- <a href="https://vng.nl/MijnServices" target="_blank" rel="noopener noreferrer">MijnServices dienstverlening \| VNG</a>
+- <a href="https://vng.nl/MijnServices" target="_blank" rel="noopener noreferrer">**MijnServices dienstverlening \| VNG**</a>
 
 #### VNG - Landelijk Programma Common Ground (LPCG)
 
@@ -183,15 +183,15 @@ servicedesigns.
 
   - Notion – samenwerkruimte Common Ground
 
-    - <a href="https://www.notion.so/e9375da1960249bba23c49d038d3c888?pvs=21" target="_blank" rel="noopener noreferrer">Backlog</a>
+    - <a href="https://www.notion.so/e9375da1960249bba23c49d038d3c888?pvs=21" target="_blank" rel="noopener noreferrer">**Backlog**</a>
 
-    - <a href="https://www.notion.so/Proces-backlog-documentatie-21b78b5f4db4804c828fc43bec7b544c?pvs=21" target="_blank" rel="noopener noreferrer">Beschrijving Governance &
-      proces</a>
+    - <a href="https://www.notion.so/Proces-backlog-documentatie-21b78b5f4db4804c828fc43bec7b544c?pvs=21" target="_blank" rel="noopener noreferrer">**Beschrijving Governance &
+      proces**</a>
 
   - GitBook – publieke documentatie Platform Dienstverlening
 
-    - <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public" target="_blank" rel="noopener noreferrer">Introductie \| Platform Dienstverlening -
-      Public</a>
+    - <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public" target="_blank" rel="noopener noreferrer">**Introductie \| Platform Dienstverlening -
+      Public**</a>
 
       <img
       src="../media/media/image12.png"

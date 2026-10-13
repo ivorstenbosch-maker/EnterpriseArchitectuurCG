@@ -24,8 +24,8 @@ Inhoudelijk:
 
 - **Datakwaliteit**
 
-  - Wordt beperkt uitgewerkt. Overweeg <a href="https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit" target="_blank" rel="noopener noreferrer">NORA’s Framework voor
-    datakwaliteit</a>
+  - Wordt beperkt uitgewerkt. Overweeg <a href="https://www.noraonline.nl/wiki/Raamwerk_gegevenskwaliteit" target="_blank" rel="noopener noreferrer">**NORA’s Framework voor
+    datakwaliteit**</a>
     te gebruiken.
 
 - **Beheer en gevolgen voor IT-ondersteuning binnen gemeenten**
@@ -339,7 +339,7 @@ name de volgende factoren leidend:
 Bovenstaand voorbeeld komt uit het proces Aanvraag Leefonderhoud. Dit
 proces leent zich goed voor standaardisatie in de vorm van
 BusinessServices omdat er een breedgedragen ontologie is geformuleerd
-(<https://github.com/VNG-Realisatie/Ontologie-Inkomen/>).
+(<a href="https://github.com/VNG-Realisatie/Ontologie-Inkomen/" target="_blank" rel="noopener noreferrer">**https://github.com/VNG-Realisatie/Ontologie-Inkomen/**</a>).
 
 Op basis van wat er ‘bestaat’ in het domein (concepten, relaties,
 handelingen) worden BusinessServices geïdentificeerd. Een
@@ -359,11 +359,11 @@ en gereviseerd voorbeeld betreft, is voorwaardelijk.
 
 ### Samenwerking en uitwisseling bouwstenen
 
-<https://samendelen.opengem.nl/> - Samen Delen is de plek waar de
-inrichting van applicaties gedeeld kan worden met elkaar. Als een
-applicatie een exportfunctie heeft, kunnen deze exports hier worden
-geüpload. Anderen kunnen deze exports weer downloaden en importeren in
-hun applicatie.
+<a href="https://samendelen.opengem.nl/" target="_blank" rel="noopener noreferrer">**https://samendelen.opengem.nl/**</a> -
+Samen Delen is de plek waar de inrichting van applicaties gedeeld kan
+worden met elkaar. Als een applicatie een exportfunctie heeft, kunnen
+deze exports hier worden geüpload. Anderen kunnen deze exports weer
+downloaden en importeren in hun applicatie.
 
 Voor **GZAC** is een Exchange.gzac.nl beschikbaar, met daarop:
 
@@ -390,28 +390,28 @@ Dienstverlening.
 Moderne open-source implementatie van de ZGW-API’s voor zaak- en
 documentbeheer.
 
-<https://github.com/open-zaak/open-zaak>
+<a href="https://github.com/open-zaak/open-zaak" target="_blank" rel="noopener noreferrer">**https://github.com/open-zaak/open-zaak**</a>
 
 **OpenKlant**
 
 Registratiecomponent voor opslag en ontsluiting van klantgegevens
 volgens de Klantinteracties-API-specificaties.
 
-<https://github.com/maykinmedia/open-klant>
+<a href="https://github.com/maykinmedia/open-klant" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/open-klant**</a>
 
 **OpenOrganisatie**
 
 Component voor beheer van medewerkers, teams en organisaties met
 API-toegang en o.a. SCIM-integratie.
 
-<https://github.com/maykinmedia/open-organisatie>
+<a href="https://github.com/maykinmedia/open-organisatie" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/open-organisatie**</a>
 
 **OpenProduct**
 
 Centrale API voor producttypen en producten, bedoeld voor hergebruik in
 andere applicaties.
 
-<https://github.com/maykinmedia/open-product>
+<a href="https://github.com/maykinmedia/open-product" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/open-product**</a>
 
 **Registraties VTB (Verzoeken, taken berichten)**
 
@@ -419,50 +419,50 @@ Componenten voor (resp.) Verzoeken, Taken en Berichten als
 gestandaardiseerde informatie-objecten, voor communicatie- en
 interactiepatronen over het platform.
 
-<a href="https://github.com/maykinmedia/open-vtb" target="_blank" rel="noopener noreferrer">maykinmedia/open-vtb: Open Verzoeken, Taken en
-Berichten</a>
+<a href="https://github.com/maykinmedia/open-vtb" target="_blank" rel="noopener noreferrer">**maykinmedia/open-vtb: Open Verzoeken, Taken en
+Berichten**</a>
 
 **Objects API**
 
 API en beheerinterface voor het registreren en beheren van generieke
 objecten binnen Common Ground.
 
-<https://github.com/maykinmedia/objects-api>
+<a href="https://github.com/maykinmedia/objects-api" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/objects-api**</a>
 
 **Objecttypes API**
 
 API voor het definiëren en beheren van objecttypen die gebruikt worden
 door Objects API-implementaties.
 
-<https://github.com/maykinmedia/objecttypes-api>
+<a href="https://github.com/maykinmedia/objecttypes-api" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/objecttypes-api**</a>
 
 **Referentielijsten API**
 
 API voor generieke en herbruikbare referentielijsten binnen het Common
 Ground-landschap.
 
-<https://github.com/maykinmedia/referentielijsten>
+<a href="https://github.com/maykinmedia/referentielijsten" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/referentielijsten**</a>
 
 **OpenNotificaties**
 
 API voor het routeren en publiceren van notificaties tussen applicaties
 binnen een Common Ground-architectuur.
 
-<https://github.com/open-zaak/open-notificaties>
+<a href="https://github.com/open-zaak/open-notificaties" target="_blank" rel="noopener noreferrer">**https://github.com/open-zaak/open-notificaties**</a>
 
 **OpenArchiefbeheer**
 
 Component voor recordmanagement en vernietigingslijsten conform
 archiefwet- en ZGW-principes.
 
-<https://github.com/maykinmedia/open-archiefbeheer>
+<a href="https://github.com/maykinmedia/open-archiefbeheer" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/open-archiefbeheer**</a>
 
 **Open API Framework**
 
 Gedeeld framework met basisfunctionaliteit en configuratie voor meerdere
 Open-componenten.
 
-<https://github.com/maykinmedia/open-api-framework>
+<a href="https://github.com/maykinmedia/open-api-framework" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/open-api-framework**</a>
 
 **Laag 4/5 – Interactie & Toepassingen (Portalen & UI)**
 
@@ -471,19 +471,12 @@ Open-componenten.
 Zaakafhandelcomponent gericht op proces- en taakondersteuning bovenop
 ZGW-API’s.
 
-<https://github.com/generiekzaakafhandelcomponent>
+<a href="https://github.com/generiekzaakafhandelcomponent" target="_blank" rel="noopener noreferrer">**https://github.com/generiekzaakafhandelcomponent**</a>
 
 Het onderliggende framework (Operaton) wordt tevens ingezet voor de
 uitvoering van beslislogica via DMN. Op basis van de DMN-engine(s) wordt
 regelbeheer voor verschillende services centraal uitgevoerd en afgedekt
 via configuratie, zonder dat hiervoor maatwerk per proces nodig is.
-
-**ZAC**
-
-Zaakafhandelcomponent gericht op proces- en taakondersteuning bovenop
-ZGW-API’s.
-
-<https://github.com/infonl/dimpact-zaakafhandelcomponent>
 
 **DMN Studio**
 
@@ -497,14 +490,14 @@ DMN-instances.
 Portaaloplossing voor inwoner- en medewerkersinteractie binnen een
 Common Ground-architectuur.
 
-<https://github.com/nl-portal>
+<a href="https://github.com/nl-portal" target="_blank" rel="noopener noreferrer">**https://github.com/nl-portal**</a>
 
 **OpenInwonerPortaal**
 
 Gemeentelijk platform voor producten en diensten met integraties naar
 Common Ground-componenten.
 
-<https://github.com/maykinmedia/open-inwoner>
+<a href="https://github.com/maykinmedia/open-inwoner" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/open-inwoner**</a>
 
 **IKO – Integraal Klant- en Objectbeeld**
 
@@ -512,7 +505,7 @@ Integreert klant- en objectgegevens tot één overzicht voor
 case-medewerkers
 
 *Doc pagina (functieomschrijving):*
-<https://docs.valtimo.nl/features/iko>
+<a href="https://docs.valtimo.nl/features/iko" target="_blank" rel="noopener noreferrer">**https://docs.valtimo.nl/features/iko**</a>
 
 **Open Formulieren**
 
@@ -521,7 +514,7 @@ formulieren voor inwoners en organisaties. Het component verzorgt de
 gestructureerde uitvraag van gegevens, valideert invoer en legt
 inzendingen vast via gestandaardiseerde API’s.
 
-<https://github.com/open-formulieren/open-forms/>
+<a href="https://github.com/open-formulieren/open-forms/" target="_blank" rel="noopener noreferrer">**https://github.com/open-formulieren/open-forms/**</a>
 
 **OpenBeheer**
 
@@ -529,7 +522,7 @@ Biedt een centrale beheerinterface voor het beheren van gegevens uit
 meerdere registraties binnen samenhangende processen, zonder dat deze
 registraties zelf worden aangepast.
 
-<https://github.com/maykinmedia/open-beheer>
+<a href="https://github.com/maykinmedia/open-beheer" target="_blank" rel="noopener noreferrer">**https://github.com/maykinmedia/open-beheer**</a>
 
 **Faciliterende voorzieningen**
 
@@ -560,7 +553,7 @@ processen worden gebruikt.
 ## BIJLAGE - ABB’s GEMMA en Platform Dienstverlening
 
 GEMMA biedt een overzicht van
-<a href="https://www.gemmaonline.nl/wiki/Overzicht_alle_referentiecomponenten" target="_blank" rel="noopener noreferrer">referentiecomponenten</a>
+<a href="https://www.gemmaonline.nl/wiki/Overzicht_alle_referentiecomponenten" target="_blank" rel="noopener noreferrer">**referentiecomponenten**</a>
 en de bijbehorende services die gerealiseerd kunnen worden. Per service
 kan worden bepaald in hoeverre het Platform Dienstverlening deze
 functionaliteit invult.

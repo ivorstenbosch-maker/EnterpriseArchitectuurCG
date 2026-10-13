@@ -97,9 +97,9 @@ organisaties. Dit betekent dat:
   Deze aanpak sluit aan bij initiatieven zoals <a href="https://vng-realisatie.github.io/ftv/" target="_blank" rel="noopener noreferrer">**Federatieve
   Toegangsverlening (FTV)**</a> en
   de referentie-implementatie
-  <a href="https://vng-realisatie.github.io/ftv/actueel/nieuws/20251014updateopenftv/" target="_blank" rel="noopener noreferrer">OpenFTV</a>
+  <a href="https://vng-realisatie.github.io/ftv/actueel/nieuws/20251014updateopenftv/" target="_blank" rel="noopener noreferrer">**OpenFTV**</a>
   en is ook vastgelegd als (kandidaat) **toegepast patroon** in het
-  onderdeel [Toegepaste patronen](../11-toegepaste-patronen/README.md#toegepaste-patronen).
+  onderdeel [**Toegepaste patronen**](../11-toegepaste-patronen/README.md#toegepaste-patronen).
 
 <img
 src="../media/media/image30.png"

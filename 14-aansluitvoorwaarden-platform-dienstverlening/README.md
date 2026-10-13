@@ -38,8 +38,8 @@ binnen de G4-gemeenten. Het vormt de referentiearchitectuur voor de
 gemeentelijke informatievoorziening en biedt een samenhangend geheel van
 software (generieke registraties, dataservices, integratievoorzieningen
 en procesapplicaties) waarmee de gemeentelijke dienstverlening op een
-generieke manier kan worden gerealiseerd. Het volgt een <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur" target="_blank" rel="noopener noreferrer">Enterprise
-architectuur</a>
+generieke manier kan worden gerealiseerd. Het volgt een <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur" target="_blank" rel="noopener noreferrer">**Enterprise
+architectuur**</a>
 en realiseert een ontkoppeld landschap van (micro)services volgens het
 model van Common Ground:
 
@@ -88,9 +88,10 @@ zelf. De component:
 - Maakt onderdeel uit van de referentie-implementatie zoals die door G4
   wordt vastgesteld.
 
-Voor platformservices gelden zowel de [(niet-)functionele
-aansluitvoorwaarden Common Ground](README.md#aansluitvoorwaarden-patroon-b) als
-[aanvullende platformeisen](README.md#aanvullende-eisen-voor-platformservices).
+Voor platformservices gelden zowel de [**(niet-)functionele
+aansluitvoorwaarden Common Ground**](README.md#aansluitvoorwaarden-patroon-b) als
+[**aanvullende
+platformeisen**](README.md#aanvullende-eisen-voor-platformservices).
 
 ### Patroon B: Aansluiten van een (SaaS-)oplossing
 
@@ -127,7 +128,7 @@ aansluitvoorwaarden van het Platform Dienstverlening.
 Deze aansluitvoorwaarden zijn van toepassing op oplossingen die als
 applicatie aansluiten op het Platform Dienstverlening (Common Ground).
 Zij zijn aanvullend op de
-<a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">GIBIT</a>.
+<a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">**GIBIT**</a>.
 Voor alle contractuele, juridische, organisatorische en generieke
 kwaliteitseisen geldt de GIBIT, tenzij in deze aansluitvoorwaarden
 aanvullende of afwijkende platformspecifieke eisen zijn opgenomen.
@@ -200,21 +201,21 @@ naar de Common Ground-domeinen. Concreet betekent dit het aansluiten op
 de volgende standaarden:
 
 - **Klantgegevens** hebben als bron **OpenKlant** (Klantinteracties- en
-  Contactgegevens API) (<a href="https://github.com/maykinmedia/open-klant" target="_blank" rel="noopener noreferrer">OpenKlant
-  GitHub</a>).
+  Contactgegevens API) (<a href="https://github.com/maykinmedia/open-klant" target="_blank" rel="noopener noreferrer">**OpenKlant
+  GitHub**</a>).
 
 - **(Instanties van) Producten en diensten** hebben als bron
-  **OpenProduct** (<a href="https://github.com/maykinmedia/open-product" target="_blank" rel="noopener noreferrer">OpenProduct)
-  GitHub</a>).
+  **OpenProduct** (<a href="https://github.com/maykinmedia/open-product" target="_blank" rel="noopener noreferrer">**OpenProduct)
+  GitHub**</a>).
 
-- **Zaken** hebben als bron **OpenZaak** (<a href="https://github.com/open-zaak/open-zaak" target="_blank" rel="noopener noreferrer">OpenZaak
-  GitHub</a>)
+- **Zaken** hebben als bron **OpenZaak** (<a href="https://github.com/open-zaak/open-zaak" target="_blank" rel="noopener noreferrer">**OpenZaak
+  GitHub**</a>)
 
   - **Onderdeel** daarvan is ook de **Documenten API**
 
 - **Verzoeken**, **Taken** en **Berichten** hebben als bron **OpenVTB**
   en volgen respectievelijk het Verzoeken-, Taken- en Berichtenpatroon
-  (<a href="https://github.com/maykinmedia/open-vtb" target="_blank" rel="noopener noreferrer">OpenVTB GitHub</a>).
+  (<a href="https://github.com/maykinmedia/open-vtb" target="_blank" rel="noopener noreferrer">**OpenVTB GitHub**</a>).
 
 De actuele documentatie en API-specificaties zijn beschikbaar via de
 GitHub links.
@@ -222,11 +223,10 @@ GitHub links.
 #### Aansluitpatronen
 
 Iedere aangesloten oplossing past de functionele en technische
-aansluitpatronen toe zoals beschreven in de <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur" target="_blank" rel="noopener noreferrer">Enterprisearchitectuur
-Platform
-Dienstverlening</a>.
-Deze patronen beschrijven de uniforme wijze waarop applicaties
-samenwerken met registraties, API's en andere platformvoorzieningen.
+aansluitpatronen toe zoals beschreven in de Enterprisearchitectuur
+Platform Dienstverlening. Deze patronen beschrijven de uniforme wijze
+waarop applicaties samenwerken met registraties, API's en andere
+platformvoorzieningen.
 
 #### Eisen
 
@@ -280,15 +280,15 @@ generieke platformvoorzieningen voor gegevensuitwisseling,
 observability, authenticatie en autorisatie.
 
 - **Eis** – Communicatie met andere componenten verloopt via
-  <a href="https://docs.open-fsc.nl/introduction" target="_blank" rel="noopener noreferrer">Federatieve Service Connectiviteit
-  (FSC).</a>
+  <a href="https://docs.open-fsc.nl/introduction" target="_blank" rel="noopener noreferrer">**Federatieve Service Connectiviteit
+  (FSC)**.</a>
 
 - **Eis** – Gebeurtenissen worden geconsumeerd via **Open
-  Notificaties**, conform het notificatiepatroon (<a href="https://github.com/open-zaak/open-notificaties" target="_blank" rel="noopener noreferrer">Open Notificaties
-  GitHub</a>).
+  Notificaties**, conform het notificatiepatroon (<a href="https://github.com/open-zaak/open-notificaties" target="_blank" rel="noopener noreferrer">**Open Notificaties
+  GitHub**</a>).
 
 - **Eis** – Logging en telemetry volgen
-  <a href="https://opentelemetry.io/docs/what-is-opentelemetry/" target="_blank" rel="noopener noreferrer">OpenTelemetry</a>.
+  <a href="https://opentelemetry.io/docs/what-is-opentelemetry/" target="_blank" rel="noopener noreferrer">**OpenTelemetry**</a>.
 
 #### Platformbrede voorzieningen
 
@@ -296,12 +296,12 @@ De onderstaande platformvoorzieningen bevinden zich nog in ontwikkeling.
 Vanaf zes maanden nadat een voorziening de status **'In gebruik'** heeft
 bereikt, gelden de volgende aanvullende aansluitvoorwaarden:
 
-- <a href="https://vng-realisatie.github.io/ftv/" target="_blank" rel="noopener noreferrer">OpenFTV/AuthZEN</a> – Autorisatie
-  maakt gebruik van de centrale voorziening voor federatieve
+- <a href="https://vng-realisatie.github.io/ftv/" target="_blank" rel="noopener noreferrer">**OpenFTV/AuthZEN**</a> –
+  Autorisatie maakt gebruik van de centrale voorziening voor federatieve
   authenticatie en autorisatie
 
-- <a href="https://github.com/Logius-standaarden/logboek-dataverwerkingen" target="_blank" rel="noopener noreferrer">Logboek
-  Dataverwerkingen</a>
+- <a href="https://github.com/Logius-standaarden/logboek-dataverwerkingen" target="_blank" rel="noopener noreferrer">**Logboek
+  Dataverwerkingen**</a>
   – De oplossing registreert gegevensverwerkingen via het centrale
   Logboek Dataverwerkingen.
 
@@ -347,13 +347,12 @@ behouden blijft.
 
 Als platformservice wordt de oplossing onderdeel van het Platform
 Dienstverlening. De inrichting en doorontwikkeling van dit platform
-worden gestuurd door de <a href="https://dienstverleningsplatform.gitbook.io/platform-generieke-dienstverlening-public/enterprisearchitectuur" target="_blank" rel="noopener noreferrer">Enterprisearchitectuur Common Ground & Platform
-Dienstverlening</a>.
-Deze architectuur beschrijft de visie, architectuurprincipes,
-referentiearchitectuur, standaarden en governance die richting geven aan
-de ontwikkeling van het platform. Platformservices sluiten hierop aan en
-dragen bij aan een samenhangend, herbruikbaar en toekomstbestendig
-platform.
+worden gestuurd door de Enterprisearchitectuur Common Ground & Platform
+Dienstverlening. Deze architectuur beschrijft de visie,
+architectuurprincipes, referentiearchitectuur, standaarden en governance
+die richting geven aan de ontwikkeling van het platform.
+Platformservices sluiten hierop aan en dragen bij aan een samenhangend,
+herbruikbaar en toekomstbestendig platform.
 
 De architectuur vormt daarmee het toetsingskader voor ontwerp- en
 implementatiekeuzes. Van leveranciers wordt verwacht dat zij kunnen
@@ -417,17 +416,16 @@ registraties en de architectuur van API's.
 
 - **Eis –** API's voldoen aan de binnen het Platform Dienstverlening
   toegepaste API-architectuur, standaarden en ontwerpprincipes zoals
-  beschreven in de [Enterprisearchitectuur Platform
-  Dienstverlening.](../08-applicatiearchitectuur/README.md#architectuur-van-registraties)
+  beschreven in de Enterprisearchitectuur Platform Dienstverlening.
 
-- **Eis –** REST API's voldoen aan de <a href="https://logius-standaarden.github.io/API-Design-Rules/" target="_blank" rel="noopener noreferrer">REST API Design
-  Rules</a>
+- **Eis –** REST API's voldoen aan de <a href="https://logius-standaarden.github.io/API-Design-Rules/" target="_blank" rel="noopener noreferrer">**REST API Design
+  Rules**</a>
 
-- **Eis –**API's worden gespecificeerd conform de <a href="https://spec.openapis.org/oas/latest.html" target="_blank" rel="noopener noreferrer">OpenAPI Specification
-  3.x</a>
+- **Eis –**API's worden gespecificeerd conform de <a href="https://spec.openapis.org/oas/latest.html" target="_blank" rel="noopener noreferrer">**OpenAPI
+  Specification 3.x**</a>
 
-- **Eis –** Eventgedreven integraties implementeren het <a href="https://www.gemmaonline.nl/wiki/De_CloudEvents_standaard" target="_blank" rel="noopener noreferrer">CloudEvents
-  NL-profiel</a>
+- **Eis –** Eventgedreven integraties implementeren het <a href="https://www.gemmaonline.nl/wiki/De_CloudEvents_standaard" target="_blank" rel="noopener noreferrer">**CloudEvents
+  NL-profiel**</a>
 
 - Eis – De leverancier toont aan dat registraties en API's aansluiten op
   de referentiearchitectuur van het Platform Dienstverlening.
@@ -442,22 +440,24 @@ packaging, versiebeheer en testautomatisering.
 #### GitOps
 
 - **Eis** – Releasebeheer volgt de **GitOps-methodiek**
-  (<https://opengitops.dev>) en is gebaseerd op een gedocumenteerd en
-  beproefd proces.
+  (<a href="https://opengitops.dev" target="_blank" rel="noopener noreferrer">**https://opengitops.dev**</a>) en is gebaseerd
+  op een gedocumenteerd en beproefd proces.
 
   - De gewenste systeemstatus wordt declaratief vastgelegd in
-    **YAML**-bestanden (<https://yaml.org/spec/>), en niet door middel
-    van imperatieve scripts.
+    **YAML**-bestanden
+    (<a href="https://yaml.org/spec/" target="_blank" rel="noopener noreferrer">**https://yaml.org/spec/**</a>), en niet door
+    middel van imperatieve scripts.
 
   - Git vormt de *Single Source of Truth* voor alle configuratie en
     bevat een volledige, versiegecontroleerde historie van wijzigingen,
     zodat iedere wijziging reproduceerbaar is en eenvoudig kan worden
     teruggedraaid.
 
-  - GitOps-agents, zoals **Flux** (<https://fluxcd.io>) of **Argo CD**
-    (<https://argo-cd.readthedocs.io>), monitoren de Git-repository
-    continu en rollen goedgekeurde wijzigingen automatisch uit naar de
-    doelomgeving.
+  - GitOps-agents, zoals **Flux**
+    (<a href="https://fluxcd.io" target="_blank" rel="noopener noreferrer">**https://fluxcd.io**</a>) of **Argo CD**
+    (<a href="https://argo-cd.readthedocs.io" target="_blank" rel="noopener noreferrer">**https://argo-cd.readthedocs.io**</a>),
+    monitoren de Git-repository continu en rollen goedgekeurde
+    wijzigingen automatisch uit naar de doelomgeving.
 
   - GitOps-agents vergelijken continu de werkelijke toestand met de
     gewenste toestand zoals vastgelegd in Git (*continuous
@@ -469,15 +469,16 @@ packaging, versiebeheer en testautomatisering.
 #### Packaging en versiebeheer
 
 - **Eis** – De applicatie wordt verpakt en uitgerold met **Helm charts**
-  (<https://helm.sh>) die voldoen aan de **Helm Chart Best Practices**
-  (<https://helm.sh/docs/chart_best_practices/>).
+  (<a href="https://helm.sh" target="_blank" rel="noopener noreferrer">**https://helm.sh**</a>) die voldoen aan de **Helm
+  Chart Best Practices**
+  (<a href="https://helm.sh/docs/chart_best_practices/" target="_blank" rel="noopener noreferrer">**https://helm.sh/docs/chart_best_practices/**</a>).
 
 - **Eis** – Voor iedere release worden release notes opgesteld en actief
   beschikbaar gesteld, inclusief wijzigingen aan Helm charts.
 
 - **Eis** – Software, containerimages en Helm charts worden
   versiebeheerd conform **Semantic Versioning 2.0.0 (SemVer)**
-  (<https://semver.org>).
+  (<a href="https://semver.org" target="_blank" rel="noopener noreferrer">**https://semver.org**</a>).
 
 - **Eis** – Vanaf versie **1.0.0** (*production ready*) worden minimaal
   maandelijks nieuwe patch-releases van de containerimages beschikbaar
@@ -491,11 +492,12 @@ packaging, versiebeheer en testautomatisering.
   noodzakelijk is voor de werking van de applicatie. Hierdoor wordt het
   aanvalsvlak beperkt, de herkomst van softwarecomponenten inzichtelijk
   gehouden en de signaal-ruisverhouding van kwetsbaarheidsscanners,
-  zoals **CVE** (<https://www.cve.org>), verbeterd.
+  zoals **CVE** (<a href="https://www.cve.org" target="_blank" rel="noopener noreferrer">**https://www.cve.org**</a>),
+  verbeterd.
 
 - **Eis** – Er wordt gebruikgemaakt van minimale containerimages, bij
   voorkeur **distroless images**
-  (<https://edu.chainguard.dev/chainguard/chainguard-images/about/>).
+  (<a href="https://edu.chainguard.dev/chainguard/chainguard-images/about/" target="_blank" rel="noopener noreferrer">**https://edu.chainguard.dev/chainguard/chainguard-images/about/**</a>).
   Indien dit niet mogelijk is, bevatten containerimages geen
   OS-packagemanagers of shells. Wanneer dergelijke componenten tijdens
   het buildproces noodzakelijk zijn, worden zij vóór oplevering uit het
@@ -533,7 +535,7 @@ packaging, versiebeheer en testautomatisering.
   - Performancetests op basis van een vaste resourcetoewijzing;
 
   - Containerscans op bekende kwetsbaarheden, bijvoorbeeld met **Trivy**
-    (<https://trivy.dev>);
+    (<a href="https://trivy.dev" target="_blank" rel="noopener noreferrer">**https://trivy.dev**</a>);
 
   - Statische analyse van de applicatiecode (*Static Application
     Security Testing – SAST*);
@@ -654,7 +656,7 @@ ontwikkelproces moet transparant, overdraagbaar en reproduceerbaar zijn.
 De algemene eisen ten aanzien van softwareontwikkeling, kwaliteit,
 beveiliging, documentatie, testen, acceptatie en onderhoud zijn
 opgenomen in de
-<a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">GIBIT</a>.
+<a href="https://vng.nl/sites/default/files/2026-03/gibit-2025-artikelen.pdf" target="_blank" rel="noopener noreferrer">**GIBIT**</a>.
 De onderstaande bepalingen vormen daarop een aanvulling en gelden
 specifiek voor software die onderdeel uitmaakt van het Platform
 Dienstverlening.

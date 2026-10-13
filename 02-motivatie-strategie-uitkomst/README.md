@@ -2,7 +2,7 @@
 
 | **Compact:** |
 |----|
-| De gemeentelijke informatievoorziening is in de loop der jaren complex geworden, met veel applicaties, leveranciersafhankelijkheden en historisch gegroeide oplossingen. Common Ground en het Platform Dienstverlening maken daarom de beweging naar een overheid die eenvoudiger, samenhangender en beter herbruikbaar kan werken |
+| De gemeentelijke informatievoorziening is in de loop der jaren complex geworden, met veel applicaties, leveranciersafhankelijkheden en historisch gegroeide oplossingen. Common Ground en het Platform Dienstverlening maken daarom de concrete beweging naar een betere dienstverlening vanuit een beter informatielandschap. |
 
 ## Inleiding
 
@@ -83,8 +83,8 @@ maakt duidelijk dat keuzes in informatiearchitectuur direct raken aan
 het functioneren van de overheid zelf.
 
 Een concreet illustratief voorbeeld is de kinderopvangtoeslagaffaire.
-Uit <a href="https://www.inspectie-oe.nl/actueel/nieuws/2021/04/22/rapport-toeslagen" target="_blank" rel="noopener noreferrer">onderzoek van de Inspectie
-Overheidsinformatie</a>
+Uit <a href="https://www.inspectie-oe.nl/actueel/nieuws/2021/04/22/rapport-toeslagen" target="_blank" rel="noopener noreferrer">**onderzoek van de Inspectie
+Overheidsinformatie**</a>
 bleek dat niet alleen documenten ontbraken, maar dat de
 informatiehuishouding zelf structurele tekortkomingen kende.
 Dossiervorming was onvolledig, informatie was verspreid over
@@ -240,9 +240,9 @@ een gezamenlijk ontwikkeld platform van generieke voorzieningen waarmee
 gemeenten hun dienstverlening kunnen realiseren. Gemeenten dragen actief
 bij aan zowel de architectuur als de realisatie van het platform, samen
 met leveranciers en landelijke partijen. Het bereidt daarmee voor op
-realisatie van Common Ground in een landelijke organisatie (<a href="https://vng.nl/nieuws/gemeenten-zetten-koers-naar-collectieve-digitalisering" target="_blank" rel="noopener noreferrer">Gemeenten
+realisatie van Common Ground in een landelijke organisatie (<a href="https://vng.nl/nieuws/gemeenten-zetten-koers-naar-collectieve-digitalisering" target="_blank" rel="noopener noreferrer">**Gemeenten
 zetten koers naar collectieve digitalisering   \|
-VNG</a>)
+VNG**</a>)
 
 Waar gemeenten vandaag investeren in honderden afzonderlijke applicaties
 die grotendeels dezelfde functies bevatten, brengt het platform deze
@@ -362,10 +362,3 @@ gemeenten.
 | Hoge migratiekosten. | Lage migratiekosten dankzij standaardcomponenten en data in eigen beheer. |
 | Hoog in de markt inkopen (gereed product; investering en risico bij leverancier). | Lager in de markt inkopen (diensten, expertise en capaciteit; mede-eigenaarschap en -risico in doorontwikkeling; investering en risico meer bij gemeenten). |
 | Regie-, inkoop- en beheerorganisatie per gemeente. | Voortdurende ontwikkel- en doorontwikkelorganisatie. |
-
-## Conclusie
-
-Bovenstaand wordt context, uitdaging en doel geschetst waar de
-gemeentelijke informatievoorziening voor staat. Deze analyse vormt de
-aanleiding voor de architectuur die in de volgende hoofdstukken wordt
-uitgewerkt.

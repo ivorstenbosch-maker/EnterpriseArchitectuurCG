@@ -13,10 +13,6 @@ Dit is de Enterprise Architectuur voor Common Ground en het Platform Dienstverle
 Dit document is bedoeld voor verschillende doelgroepen. Afhankelijk van
 de rol van de lezer zijn niet alle hoofdstukken even relevant.
 
-Bij grote hoofdstukken zijn korte abstracts toegevoegd voor wie geen
-tijd of zin heeft om de hele tekst te lezen, zodat in ieder geval
-duidelijk is wat de hoofdgedachte en relevantie van het onderdeel is.
-
 | **Doelgroep** | **Aanbevolen hoofdstukken** |
 |----|----|
 | **Bestuurders, opdrachtgevers en programmamanagers** | De [**managementsamenvatting**](#managementsamenvatting), hoofdstuk 2 t/m 5. Deze hoofdstukken beschrijven de aanleiding, strategische doelen, architectuurvisie, uitgangspunten, governance en scope van het Platform Dienstverlening. Daarnaast is in het bijzonder het onderdeel **[Implicaties voor de bestaande organisatie](06-businessarchitectuur/README.md#implicaties-voor-de-bestaande-organisatie)** relevant. |
