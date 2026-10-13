@@ -300,7 +300,7 @@ functionele bouwsteen waaruit gemeentelijke dienstverlening wordt
 samengesteld. Het wordt hier met twee hoofdletters geschreven om het te
 onderscheiden van – bijvoorbeeld – het businessserviceconcept in
 Archimate. Het concept wordt verder concreet gemaakt in de bijlage
-[**BusinessServices**](#bijlage---businessservices).
+[**BusinessServices**](../15-bijlagen/README.md#bijlage---businessservices).
 
 Een BusinessService omvat een logisch samenhangend geheel van gegevens,
 beslisregels, proceslogica en interactie rondom één processtap. Zij
